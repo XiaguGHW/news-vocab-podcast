@@ -4,6 +4,11 @@ import json
 import re
 import sys
 
+from fontTools.ttLib import TTFont
+
+FONT_CHARS = set(chr(k) for k in TTFont("fonts/NotoSansSC-Bold.otf").getBestCmap())
+EMOJI_CHARS = set(chr(k) for k in TTFont("fonts/NotoColorEmoji.ttf").getBestCmap())
+
 files = sys.argv[1:] or sorted(glob.glob("episodes/*.json"))
 errors = []
 for f in files:
@@ -27,9 +32,30 @@ for f in files:
             errors.append(f"{f} 第{i}句: 中文句子里有拉丁字母：{t}")
         if l in ("en", "de") and re.search(r"[一-鿿]", t):
             errors.append(f"{f} 第{i}句: 外语句子里有汉字：{t}")
+        missing = {ch for ch in t if ch not in FONT_CHARS and not ch.isspace()}
+        if missing:
+            errors.append(f"{f} 第{i}句: 字体里没有这些字，视频会显示成方块，请换个常用写法：{''.join(missing)}")
         p = s.get("p", 0.45)
         if not isinstance(p, (int, float)) or not 0 <= p <= 8:
             errors.append(f"{f} 第{i}句: 停顿 p={p!r} 不合理")
+    secs = [s.get("sec") for s in ep.get("segments", []) if "sec" in s]
+    n = len(ep.get("words", []))
+    if ep.get("segments") and secs[:1] != ["intro"]:
+        errors.append(f"{f}: 第一句要有 \"sec\": \"intro\"")
+    for k in range(1, n + 1):
+        if k not in secs:
+            errors.append(f"{f}: 缺少第 {k} 个词的开头标记 \"sec\": {k}")
+    if n and "quiz" not in secs:
+        errors.append(f"{f}: 缺少小测验的开头标记 \"sec\": \"quiz\"")
+    for w in ep.get("words", []):
+        for ch in (w.get("pic", "") + ep.get("pic", "")):
+            if ch in "\ufe0f\u200d" or ch.isspace():
+                continue
+            if ch not in EMOJI_CHARS:
+                errors.append(f"{f}: 图标 {ch!r} 不在 emoji 字体里，换一个")
+        for ch in w.get("zh", "") + w.get("de", "") + w.get("en", ""):
+            if ch not in FONT_CHARS and not ch.isspace():
+                errors.append(f"{f}: 词卡里的字 {ch!r} 字体里没有")
 if errors:
     print("\n".join(errors))
     sys.exit(1)
