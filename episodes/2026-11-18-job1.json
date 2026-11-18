@@ -1,0 +1,1294 @@
+{
+ "id": "2026-11-18-job1",
+ "date": "2026-11-18",
+ "pub": "2026-11-18T14:00:00+01:00",
+ "title": "求职专题 1 · 看懂招聘广告、写进简历｜11 个词",
+ "topic": "求职专题 / 招聘广告",
+ "summary": "德国英语和德语招聘广告里的高频难词：take ownership, proven track record, hands-on, at the intersection of, stakeholder, sound knowledge of, proficient in, business fluent, production-ready, spearhead, streamline。每个词配招聘广告原句和自我介绍例句。",
+ "pic": "💼📝",
+ "words": [
+  {
+   "en": "take ownership",
+   "de": "Verantwortung übernehmen",
+   "zh": "主动负责、独立负责到底",
+   "pic": "🙋🔑"
+  },
+  {
+   "en": "proven track record",
+   "de": "nachweisbare Erfolge",
+   "zh": "有可证明的成功经历",
+   "pic": "🏆📈"
+  },
+  {
+   "en": "hands-on",
+   "de": "praxisnah",
+   "zh": "亲自动手的、实干的",
+   "pic": "🛠✋"
+  },
+  {
+   "en": "at the intersection of",
+   "de": "an der Schnittstelle zwischen",
+   "zh": "处在……的交叉点",
+   "pic": "🔀🧩"
+  },
+  {
+   "en": "stakeholder",
+   "de": "die Beteiligten",
+   "zh": "利益相关方",
+   "pic": "👥🤝"
+  },
+  {
+   "en": "sound knowledge of",
+   "de": "fundierte Kenntnisse in",
+   "zh": "扎实的……知识",
+   "pic": "🧠📚"
+  },
+  {
+   "en": "proficient in",
+   "de": "sicherer Umgang mit",
+   "zh": "熟练使用、精通",
+   "pic": "⌨✅"
+  },
+  {
+   "en": "business fluent",
+   "de": "verhandlungssicher",
+   "zh": "商务流利、可以用来谈判",
+   "pic": "🗣💼"
+  },
+  {
+   "en": "production-ready",
+   "de": "produktionsreif",
+   "zh": "可以投入实际运行的",
+   "pic": "🏭✅"
+  },
+  {
+   "en": "spearhead",
+   "de": "federführend vorantreiben",
+   "zh": "牵头推动",
+   "pic": "🚩🏃"
+  },
+  {
+   "en": "streamline",
+   "de": "verschlanken",
+   "zh": "精简、理顺（流程）",
+   "pic": "✂📋"
+  }
+ ],
+ "sources": [],
+ "segments": [
+  {
+   "l": "zh",
+   "t": "欢迎来到求职专题第一期。今天不讲新闻，讲招聘广告。",
+   "p": 0.4,
+   "sec": "intro"
+  },
+  {
+   "l": "zh",
+   "t": "在德国找工作，英语和德语的招聘广告里，有一批词会反复出现。今天学十一个，都是读广告、写简历、面试时能直接用上的。",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "每个词，先听招聘广告里怎么说，再听你可以怎么用它介绍自己。招聘广告，英语叫：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "job posting.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语叫：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Stellenanzeige.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "我们开始。",
+   "p": 1.2
+  },
+  {
+   "l": "zh",
+   "t": "第一个。",
+   "p": 0.4,
+   "sec": 1
+  },
+  {
+   "l": "en",
+   "t": "take ownership.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "take ownership.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是把一件事当成自己的事，从头负责到底，出了问题也不推给别人。后面常跟介词：负责某件事。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语有两种说法。一个是动词短语：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Verantwortung übernehmen.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里更常见的是一个形容词：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "eigenverantwortlich.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "You take ownership of your projects from concept to production.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie arbeiten eigenverantwortlich und übernehmen Verantwortung für Ihre Projekte.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "介绍自己时可以说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I took ownership of the tool, from the first prototype to daily use by my colleagues.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：这个短语里的名词，来自拥有这个动词。把一件事当成是自己拥有的，就会主动负责。德语的形容词，前半部分正好也是自己的，后半部分是负责的。两种语言，都是在说：这是我自己的事。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "take ownership.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "eigenverantwortlich.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第二个。",
+   "p": 0.4,
+   "sec": 2
+  },
+  {
+   "l": "en",
+   "t": "proven track record.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "proven track record.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是过去的成绩，可以拿出来证明。招聘广告用它来要求工作经验和成果。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "nachweisbare Erfolge.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "前半部分来自动词：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "nachweisen.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "You have a proven track record of delivering AI projects.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie verfügen über nachweisbare Erfolge in der Umsetzung von KI-Projekten.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "刚毕业经验不多时，可以诚实又积极地说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I don't have a long track record yet, but I can show concrete results from my thesis.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：田径场上的跑道，旁边的记分牌记着你每一次的成绩。中间这个词就是跑道，后面这个词就是记录。跑道上的成绩记录，再加上被证明过的，就是这个词组。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "a proven track record.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "nachweisbare Erfolge.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第三个。",
+   "p": 0.4,
+   "sec": 3
+  },
+  {
+   "l": "en",
+   "t": "hands-on.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "hands-on.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是喜欢亲自动手做，不只是在旁边出主意。形容人，也形容经验。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语广告常用：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "praxisnah.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "形容人的时候，还常说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "eine anpackende Art.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "We are looking for a hands-on engineer who enjoys building things.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie haben eine anpackende Art und arbeiten gern praxisnah.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "介绍自己：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I'm hands-on: I build and test my prototypes myself.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：两只手直接放在机器上。手放在上面，就是这个词。德语那个形容词来自一个动词，意思是伸手抓住、开始干活。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "hands-on experience.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "praxisnah.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第四个。",
+   "p": 0.4,
+   "sec": 4
+  },
+  {
+   "l": "en",
+   "t": "at the intersection of.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "at the intersection of.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是处在两个领域交汇的地方。很多新岗位都是这样：一半懂工程，一半懂数据或者软件。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "an der Schnittstelle zwischen.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "中间这个名词，在技术德语里还有一个意思：接口。比如软件接口，也叫：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Schnittstelle.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "The role sits at the intersection of engineering and IT.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Die Stelle liegt an der Schnittstelle zwischen Entwicklung und IT.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "这句话特别适合介绍你的论文：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "My thesis sits at the intersection of product development and AI.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：两条马路交叉的十字路口。英语的核心名词就是十字路口。德语那个词，前半部分是切开，后半部分是位置：两条线切过的那个点。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "at the intersection of.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "an der Schnittstelle.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第五个。",
+   "p": 0.4,
+   "sec": 5
+  },
+  {
+   "l": "en",
+   "t": "stakeholder.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "stakeholder.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是和一个项目有利害关系的所有人：用户、领导、其他部门、客户。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语公司里常常直接说英语这个词。纯德语的说法是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Beteiligten.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "复数最常用。动词是参与：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "beteiligt sein.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "You work closely with stakeholders across the company.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie stimmen sich eng mit allen Beteiligten ab.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "介绍自己：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I aligned the classification rules with stakeholders from engineering.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：后半部分是拿着、握着的人，前半部分是赌注。原来指替赌局双方保管赌注的人。今天的意思是：对结果押了东西、在乎结果的人。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "key stakeholders.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "alle Beteiligten.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第六个。",
+   "p": 0.4,
+   "sec": 6
+  },
+  {
+   "l": "en",
+   "t": "sound knowledge of.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "sound knowledge of.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "注意，这里的第一个词不是声音的意思，而是健全的、扎实的。比如身心健全，英语就用这个词。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语广告几乎每篇都有：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "fundierte Kenntnisse in.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "注意，德语后面跟的介词是在里面：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Kenntnisse in Python.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Sound knowledge of Python is required.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie verfügen über fundierte Kenntnisse in Python.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "写简历时：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I have sound knowledge of Python and data analysis.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：一栋房子的地基打得很深很稳。德语这个形容词就来自地基。地基扎实，知识就扎实。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "sound knowledge of Python.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "fundierte Kenntnisse in Python.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第七个。",
+   "p": 0.4,
+   "sec": 7
+  },
+  {
+   "l": "en",
+   "t": "proficient in.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "proficient in.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是熟练掌握某个工具或技能。比一般的会，程度更高。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语广告最常用的是这个固定搭配：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "sicherer Umgang mit.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "前半部分是稳当的，后半部分是打交道。和工具稳稳当当地打交道，就是熟练。完整句子常说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie haben einen sicheren Umgang mit Excel.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "You are proficient in Python and SQL.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie haben einen sicheren Umgang mit Python und SQL.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "用德语介绍自己可以说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Ich habe einen sicheren Umgang mit Python und pandas.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：英语这个词后面跟的介词是在里面，德语跟的介词是和。一个是在技能里面很熟，一个是和工具打交道很稳。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "proficient in Python.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "sicherer Umgang mit Python.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第八个。",
+   "p": 0.4,
+   "sec": 8
+  },
+  {
+   "l": "en",
+   "t": "business fluent.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "business fluent.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是语言好到可以在工作中开会、谈判，不只是日常聊天。招聘广告用它要求语言水平。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是一个很有代表性的词：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "verhandlungssicher.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "前半部分是谈判，后半部分是稳当的。能稳稳地谈判，就是这个水平。比它低一级，常写成：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "fließend.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Business fluent English and very good German are required.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie sprechen verhandlungssicheres Englisch und sehr gutes Deutsch.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "简历的语言部分可以这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "English: business fluent. German: good working knowledge.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：会议室里，你用外语和对方讨价还价，稳稳当当，一点不慌。这就是可以谈判的语言水平。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "business fluent.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "verhandlungssicher.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第九个。",
+   "p": 0.4,
+   "sec": 9
+  },
+  {
+   "l": "en",
+   "t": "production-ready.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "production-ready.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是一个系统已经足够稳定，可以真正拿去用，而不只是实验室里的原型。人工智能岗位的广告特别爱用这个词。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "produktionsreif.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "也常说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "im Regelbetrieb.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "You turn prototypes into production-ready solutions.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Sie bringen Prototypen zur Produktionsreife.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "面试时可以这样说你的下一步：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "My next goal is to make the prototype production-ready.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：德语这个词的后半部分是成熟，像果子熟了一样。果子熟了才能摘，系统成熟了才能上线。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "production-ready.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "produktionsreif.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第十个。",
+   "p": 0.4,
+   "sec": 10
+  },
+  {
+   "l": "en",
+   "t": "spearhead.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "spearhead.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是带头发起、推动一件事。写简历时很常用，放在句子开头，不用写主语，用过去式。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "federführend vorantreiben.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "简历里常写成：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "federführend bei.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Spearheaded an AI-based classification prototype.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Federführend bei der Entwicklung eines KI-Prototyps.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "这两句就是你可以直接写进简历的。",
+   "p": 0.3
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：前半部分是长矛，后半部分是头。长矛最前面的尖，冲在最前面。德语那个词，前半部分是羽毛笔，后半部分是带领：拿着笔、负责起草的那个人，就是主导者。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "spearheaded.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "federführend.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第十一个，最后一个。",
+   "p": 0.4,
+   "sec": 11
+  },
+  {
+   "l": "en",
+   "t": "streamline.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "streamline.",
+   "p": 0.6,
+   "slow": false
+  },
+  {
+   "l": "zh",
+   "t": "意思是把流程变得更简单、更高效，去掉多余的步骤。也是简历里的高频动词。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "verschlanken.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "也可以说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "effizienter gestalten.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "招聘广告里，英语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Streamlined the manual classification of assemblies.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Den manuellen Klassifizierungsprozess deutlich verschlankt.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "这也是你可以写进简历的一句。",
+   "p": 0.3
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：流线型的跑车，没有棱角，风阻很小。让流程变成流线型，就是这个词。德语那个词来自苗条：让流程变苗条。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "streamline.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "verschlanken.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "最后，小测验。我说中文，你先在心里说出英语和德语，再听答案。",
+   "p": 0.8,
+   "sec": "quiz"
+  },
+  {
+   "l": "zh",
+   "t": "主动负责、独立负责到底。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "take ownership.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "Verantwortung übernehmen.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "有可证明的成功经历。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "proven track record.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "nachweisbare Erfolge.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "亲自动手的、实干的。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "hands-on.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "praxisnah.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "处在……的交叉点。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "at the intersection of.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "an der Schnittstelle zwischen.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "利益相关方。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "stakeholder.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "die Beteiligten.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "扎实的……知识。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "sound knowledge of.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "fundierte Kenntnisse in.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "熟练使用、精通。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "proficient in.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "sicherer Umgang mit.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "商务流利、可以用来谈判。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "business fluent.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "verhandlungssicher.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "可以投入实际运行的。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "production-ready.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "produktionsreif.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "牵头推动。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "spearhead.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "federführend vorantreiben.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "精简、理顺。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "streamline.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "verschlanken.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "十一个词，全部答对了吗？下次投简历之前，再听一遍这一期。我们下期见。",
+   "p": 1.0
+  }
+ ]
+}

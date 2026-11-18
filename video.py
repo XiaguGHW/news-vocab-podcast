@@ -100,8 +100,13 @@ def pill(d, x, y, lang):
     return w
 
 
-def draw_text_block(d, x, y, text, f, fill, width, gap=10):
-    for line in wrap(text, f, width):
+def draw_text_block(d, x, y, text, f, fill, width, gap=10, max_y=None):
+    lines = wrap(text, f, width)
+    for n, line in enumerate(lines):
+        if max_y and y + f.size > max_y:
+            break
+        if max_y and n + 1 < len(lines) and y + 2 * f.size + gap > max_y:
+            line = line[:-1] + "…"
         d.text((x, y), line, font=f, fill=fill)
         y += f.size + gap
     return y
@@ -120,7 +125,8 @@ def header(d, ep, sec, n_words):
     d.text((280, 60), ep.get("date", ""), font=font(36, False), fill=MUTED)
     # 进度点：开场 · 词1..n · 测验
     steps = ["intro"] + list(range(1, n_words + 1)) + ["quiz"]
-    x = W - 60 - len(steps) * 44
+    step = min(44, (W - 560) // len(steps))
+    x = W - 60 - len(steps) * step
     for s in steps:
         on = (s == sec) or (sec == "review" and s == "intro")
         c = GOLD if on else LINE
@@ -128,7 +134,7 @@ def header(d, ep, sec, n_words):
             d.ellipse((x, 70, x + 28, 98), fill=c)
         else:
             d.rounded_rectangle((x, 76, x + 28, 92), 8, fill=c)
-        x += 44
+        x += step
     d.line((60, 140, W - 60, 140), fill=LINE, width=2)
 
 
@@ -150,7 +156,7 @@ def card_intro(im, d, ep, sec, seen):
         paste_emojis(im, ep["pic"], 110, 300, 150)
     title = re.sub(r"^.*?·\s*", "", ep["title"]).split("｜")[0]
     y = draw_text_block(d, 110, 490, title, font(60), TEXT, W - 220, 16)
-    draw_text_block(d, 110, y + 30, ep.get("summary", ""), font(36, False), MUTED, W - 220, 14)
+    draw_text_block(d, 110, y + 30, ep.get("summary", ""), font(36, False), MUTED, W - 220, 14, max_y=950)
 
 
 def card_word(im, d, ep, k):
@@ -172,15 +178,29 @@ def card_quiz(im, d, ep, revealed):
     rounded(d, (60, 180, W - 60, 980), CARD)
     d.text((110, 215), "小测验", font=font(48), fill=GOLD)
     d.text((300, 228), "先在心里说出英语和德语", font=font(34, False), fill=MUTED)
-    y = 320
-    for i, w in enumerate(ep["words"]):
-        d.text((110, y), w["zh"], font=font(48), fill=TEXT)
+    words = ep["words"]
+    if len(words) <= 5:
+        y = 320
+        for i, w in enumerate(words):
+            d.text((110, y), w["zh"], font=fit(w["zh"], 48, 430), fill=TEXT)
+            if i < revealed:
+                d.text((560, y - 6), w["en"], font=fit(w["en"], 40, W - 110 - 560), fill=EN)
+                d.text((560, y + 44), w["de"], font=fit(w["de"], 34, W - 110 - 560, False), fill=DE)
+            else:
+                d.text((560, y + 10), "？", font=font(48), fill=LINE)
+            y += 128
+        return
+    h = (950 - 310) / len(words)
+    y = 310
+    for i, w in enumerate(words):
+        zh = w["zh"].split("（")[0]
+        d.text((110, y), zh, font=fit(zh, int(h * 0.5), 360), fill=TEXT)
         if i < revealed:
-            d.text((560, y - 6), w["en"], font=fit(w["en"], 40, W - 110 - 560), fill=EN)
-            d.text((560, y + 44), w["de"], font=fit(w["de"], 34, W - 110 - 560, False), fill=DE)
+            d.text((490, y - 2), w["en"], font=fit(w["en"], int(h * 0.38), W - 110 - 490), fill=EN)
+            d.text((490, y + h * 0.42), w["de"], font=fit(w["de"], int(h * 0.32), W - 110 - 490, False), fill=DE)
         else:
-            d.text((560, y + 10), "？", font=font(48), fill=LINE)
-        y += 128
+            d.text((490, y), "？", font=font(int(h * 0.5)), fill=LINE)
+        y += h
 
 
 def subtitles(d, cues, i):
