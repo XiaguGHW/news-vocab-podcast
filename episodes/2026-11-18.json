@@ -1,0 +1,489 @@
+{
+ "date": "2026-11-18",
+ "title": "11月18日 · 意大利罚 Meta 8亿欧元｜consent · impose a fine · by default",
+ "topic": "科技 / 数据隐私",
+ "summary": "意大利数据保护机构对 Meta 处以 8.05 亿欧元罚款：Facebook 安卓应用未经明确同意读取用户相册里的照片和视频，且该功能默认开启。",
+ "words": [
+  {
+   "en": "consent",
+   "de": "die Einwilligung",
+   "zh": "同意、许可"
+  },
+  {
+   "en": "impose a fine",
+   "de": "ein Bußgeld verhängen",
+   "zh": "处以罚款"
+  },
+  {
+   "en": "by default",
+   "de": "standardmäßig",
+   "zh": "默认地"
+  }
+ ],
+ "sources": [
+  {
+   "name": "AP: Meta fined $887 million in Italy",
+   "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/14/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook"
+  },
+  {
+   "name": "Al Jazeera: Italy fines Meta over photo privacy",
+   "url": "https://www.aljazeera.com/amp/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy"
+  },
+  {
+   "name": "Tagesspiegel: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+   "url": "https://www.tagesspiegel.de/article16285621.ece"
+  }
+ ],
+ "segments": [
+  {
+   "l": "zh",
+   "t": "欢迎回来。今天是一条科技新闻。",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "意大利对脸书的母公司开出了八亿零五百万欧元的罚单。这家公司的名字是：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Meta.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "原因是，脸书的安卓应用，没有好好征求同意，就读取了用户手机相册里的照片和视频。意大利大约有两千万用户受到影响。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "这类新闻的关键词是数据保护。英语说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "data privacy.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "der Datenschutz.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "今天学三个词。我们开始。",
+   "p": 1.2
+  },
+  {
+   "l": "zh",
+   "t": "第一个词。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "consent.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "consent.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "注意，重音在第二个音节。",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "con-SENT, consent.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "意思是同意、许可，特别是正式的、明确的同意。新闻里最常见的搭配是：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "without consent.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "未经同意。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Einwilligung.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "也可以说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Zustimmung.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "未经同意，德语就是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "ohne Einwilligung.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "新闻里，英语这样说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Facebook accessed users' photos and videos without their specific consent.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语新闻这样写：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Facebook hat ohne gültige Einwilligung auf Fotos und Videos zugegriffen.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "生活里可以说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Please ask for my consent before you post this photo.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "发这张照片之前，请先征得我的同意。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：想想手机上的弹窗，允许访问照片吗？你点了允许，这就是同意。根本没弹窗问你，就是未经同意。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "without consent.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "ohne Einwilligung.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "第二个，是一个搭配。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "impose a fine.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "impose a fine.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "后面这个词你认识，平时是好的意思。但在这里它是名词：罚款。前面的动词是强加、施加。合起来，就是处以罚款。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "新闻里也常用被动说法：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Meta was fined 805 million euros.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "这家公司被罚了八亿零五百万欧元。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "ein Bußgeld verhängen.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "罚款这个词，德语有三种说法：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "das Bußgeld, die Geldbuße, die Strafe.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "新闻里，英语这样说：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "Italy's privacy regulator imposed a fine of 805 million euros on Meta.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "德语这样说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Die Datenschutzbehörde hat gegen Meta eine Strafe von 805 Millionen Euro verhängt.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "这是这个监管机构开出过的最大一笔罚款。这家公司表示不同意，打算上诉。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "生活里，这个词最常见的意思就是罚单：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "I got a parking fine yesterday.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "我昨天吃了一张停车罚单。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆小技巧：这个动词的前半部分是向上面，后半部分是放。从上往下，把东西压到别人身上。监管机构把罚款压到公司头上，就是处以罚款。",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "德语这个动词，本来的意思是挂上去，就像把一张罚单挂到对方头上。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "impose a fine.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "ein Bußgeld verhängen.",
+   "p": 3.2
+  },
+  {
+   "l": "zh",
+   "t": "第三个。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "by default.",
+   "p": 0.6
+  },
+  {
+   "l": "en",
+   "t": "by default.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "意思是默认地。就是你什么都没做、什么都没选的时候，它自动就是这样。手机设置里天天见：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "default settings.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "默认设置。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "standardmäßig.",
+   "p": 0.5
+  },
+  {
+   "l": "zh",
+   "t": "前半部分是标准，后半部分是按照。按照标准设置，就是默认。默认设置，德语是：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "die Standardeinstellung.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "这条新闻的关键就在这里：读取相册的功能，是默认开启的。",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "The feature was enabled by default.",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "所以意大利要求，这家公司必须在六十天内把它改成默认关闭，并且单独征求同意。德语这样说：",
+   "p": 0.3
+  },
+  {
+   "l": "de",
+   "t": "Meta muss den Galerie-Zugriff standardmäßig deaktivieren.",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "生活里：",
+   "p": 0.3
+  },
+  {
+   "l": "en",
+   "t": "By default, my phone locks after thirty seconds.",
+   "p": 0.4
+  },
+  {
+   "l": "zh",
+   "t": "我的手机默认三十秒后锁屏。",
+   "p": 0.7
+  },
+  {
+   "l": "zh",
+   "t": "记忆画面：你拿到一个新开关，什么都还没碰，它已经是开着的，这就是默认开启。意大利要求的正好相反：拿到手是关着的，你想开再自己开。",
+   "p": 0.6
+  },
+  {
+   "l": "zh",
+   "t": "跟我读。",
+   "p": 0.4
+  },
+  {
+   "l": "en",
+   "t": "enabled by default.",
+   "p": 3.0
+  },
+  {
+   "l": "de",
+   "t": "standardmäßig.",
+   "p": 3.0
+  },
+  {
+   "l": "zh",
+   "t": "最后，小测验。我说中文，你先在心里说出英语和德语，再听答案。",
+   "p": 0.8
+  },
+  {
+   "l": "zh",
+   "t": "同意、许可。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "consent.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "die Einwilligung.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "处以罚款。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "impose a fine.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "ein Bußgeld verhängen.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "默认地。",
+   "p": 4.0
+  },
+  {
+   "l": "en",
+   "t": "by default.",
+   "p": 0.4
+  },
+  {
+   "l": "de",
+   "t": "standardmäßig.",
+   "p": 1.0
+  },
+  {
+   "l": "zh",
+   "t": "全部答对了吗？今天就到这里，明天见。",
+   "p": 1.0
+  }
+ ]
+}
