@@ -34,13 +34,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install ffmpeg and edge-tts
-        run: |
-          if ! command -v ffmpeg >/dev/null; then
-            sudo apt-get install -y -qq --no-install-recommends ffmpeg \
-              || (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends ffmpeg)
-          fi
-          pip install -q edge-tts pillow fonttools
+      - name: Install ffmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
+
+      - name: Install Python packages
+        run: pip install -q edge-tts pillow fonttools
 
       - name: Check episode scripts
         run: python check_episode.py
