@@ -15,8 +15,8 @@ for f in files:
     for key in ("date", "title", "summary", "words", "segments"):
         if key not in ep:
             errors.append(f"{f}: 缺少字段 {key}")
-    if not f.endswith(f"{ep.get('date')}.json"):
-        errors.append(f"{f}: 文件名和 date 不一致")
+    if not f.endswith(f"{ep.get('id', ep.get('date'))}.json"):
+        errors.append(f"{f}: 文件名和 id/date 不一致")
     for i, s in enumerate(ep.get("segments", [])):
         l, t = s.get("l"), s.get("t", "")
         if l not in ("zh", "en", "de"):

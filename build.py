@@ -68,7 +68,7 @@ def duration(path):
 
 
 def build_episode(ep, src_hash):
-    slug = ep["date"]
+    slug = ep.get("id", ep["date"])
     mp3 = os.path.join(OUT, "episodes", f"{slug}.mp3")
     meta_path = os.path.join(OUT, "episodes", f"{slug}.json")
     if os.path.exists(mp3) and os.path.exists(meta_path):
@@ -129,10 +129,10 @@ def transcript_html(meta):
 def build_site(episodes):
     items, cards = [], []
     for ep in episodes:
-        slug = ep["date"]
+        slug = ep.get("id", ep["date"])
         meta = json.load(open(os.path.join(OUT, "episodes", f"{slug}.json")))
         url = f"{BASE_URL}/episodes/{slug}.mp3"
-        pub = datetime.fromisoformat(ep["date"] + "T06:00:00+01:00")
+        pub = datetime.fromisoformat(ep.get("pub") or ep["date"] + "T06:00:00+01:00")
         words = " · ".join(f"{w['en']} / {w['de']} / {w['zh']}" for w in ep.get("words", []))
         src = "".join(f'<br><a href="{html.escape(s["url"])}">{html.escape(s["name"])}</a>'
                       for s in ep.get("sources", []))
@@ -191,7 +191,7 @@ def main():
         ep = json.loads(raw)
         build_episode(ep, hashlib.sha256(raw).hexdigest()[:16])
         episodes.append(ep)
-    episodes.sort(key=lambda e: e["date"], reverse=True)
+    episodes.sort(key=lambda e: (e.get("pub") or e["date"] + "T06:00:00+01:00"), reverse=True)
     build_site(episodes)
 
 

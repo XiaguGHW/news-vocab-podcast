@@ -12,7 +12,7 @@
 
 ## 文件
 
-`episodes/YYYY-MM-DD.json`，日期用欧洲柏林时间的当天。格式：
+`episodes/YYYY-MM-DD.json`，日期用欧洲柏林时间的当天（同一天的第二期用 `"id": "YYYY-MM-DD-2"` 并加 `"pub"` 时间，文件名用 id）。格式：
 
 ```json
 {
