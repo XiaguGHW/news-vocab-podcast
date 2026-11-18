@@ -62,7 +62,7 @@
 
 ## 发布
 
-写好后：
+写好后先运行 `python check_episode.py episodes/YYYY-MM-DD.json`，通过了再提交：
 
 ```
 git add episodes/YYYY-MM-DD.json
