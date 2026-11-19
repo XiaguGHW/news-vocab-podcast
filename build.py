@@ -242,9 +242,15 @@ def index_html(entries):
 <style>body{{margin:0;background:#111214;color:#ededed;font-family:-apple-system,"PingFang SC",sans-serif;padding:18px;line-height:1.6;max-width:720px;margin:auto}}
 h1{{font-size:24px}}h2{{font-size:18px;color:#d9b45a}}section{{background:#1b1c20;border-radius:14px;padding:14px;margin:16px 0}}
 video{{width:100%;max-height:80vh;background:#000;border-radius:10px}}a{{color:#86b8ff}}.en{{color:#86b8ff}}.de{{color:#f2b46d}}
-code{{word-break:break-all;color:#f2b46d}}.tr{{color:#8d9098;font-size:14px}}summary{{cursor:pointer;color:#8d9098}}</style></head><body>
+code{{word-break:break-all;color:#f2b46d}}.tr{{color:#8d9098;font-size:14px}}summary{{cursor:pointer;color:#8d9098}}
+.btn,.btn2{{display:block;text-align:center;padding:14px;margin:10px 0;border-radius:12px;font-weight:600;text-decoration:none}}
+.btn{{background:#d9b45a;color:#111}}.btn2{{background:#2a2b30;color:#ededed}}</style></head><body>
 <h1>新闻难词 · 每日三语播客</h1>
-<p>在 iPhone“播客”App 里订阅（资料库 → ⋯ → 通过 URL 关注节目）：<br>
+<p class=sub>
+<a class=btn href="{BASE_URL.replace('https://', 'podcasts://')}/feed.xml">在“播客”App 订阅 · 音频版</a>
+<a class=btn href="{BASE_URL.replace('https://', 'podcasts://')}/video.xml">在“播客”App 订阅 · 视频版</a>
+<a class=btn2 href="overcast://x-callback-url/add?url={BASE_URL}/feed.xml">用 Overcast 订阅</a></p>
+<p class=tr>按钮打不开时，手动添加（资料库 → ⋯ → 通过 URL 关注节目）：<br>
 音频版 <code>{BASE_URL}/feed.xml</code><br>视频版 <code>{BASE_URL}/video.xml</code></p>
 {''.join(cards)}</body></html>"""
 
