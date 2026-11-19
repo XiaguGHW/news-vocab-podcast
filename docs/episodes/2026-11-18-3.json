@@ -1,8 +1,8 @@
 {
- "v": 2,
- "src_hash": "ee9372ac6c32d2aa",
- "duration": 733,
- "size": 5867145,
+ "v": 3,
+ "src_hash": "65cfa5d6343c1ee0",
+ "duration": 1015,
+ "size": 8120155,
  "cues": [
   {
    "start": 0.6,
@@ -112,604 +112,857 @@
   {
    "start": 128.93,
    "l": "en",
-   "t": "step down as chief executive."
+   "t": "step down as chief executive.",
+   "rep": 1
   },
   {
-   "start": 132.17,
+   "start": 133.74,
+   "l": "en",
+   "t": "step down as chief executive.",
+   "rep": 2
+  },
+  {
+   "start": 138.55,
+   "l": "en",
+   "t": "step down as chief executive.",
+   "rep": 3
+  },
+  {
+   "start": 142.1,
+   "l": "zh",
+   "t": "辞去首席执行官的职务。"
+  },
+  {
+   "start": 145.7,
    "l": "zh",
    "t": "德语是一个可分动词："
   },
   {
-   "start": 135.16,
+   "start": 148.69,
    "l": "de",
    "t": "zurücktreten."
   },
   {
-   "start": 138.47,
+   "start": 152.0,
    "l": "zh",
    "t": "名词是："
   },
   {
-   "start": 140.64,
+   "start": 154.18,
    "l": "de",
    "t": "der Rücktritt."
   },
   {
-   "start": 143.83,
+   "start": 157.37,
    "l": "zh",
    "t": "新闻里，英语这样说："
   },
   {
-   "start": 146.94,
+   "start": 160.48,
    "l": "en",
-   "t": "Huang stepped down as Nvidia's chief executive last week."
+   "t": "Huang stepped down as Nvidia's chief executive last week.",
+   "rep": 1
   },
   {
-   "start": 151.69,
+   "start": 167.59,
+   "l": "en",
+   "t": "Huang stepped down as Nvidia's chief executive last week.",
+   "rep": 2
+  },
+  {
+   "start": 174.71,
+   "l": "en",
+   "t": "Huang stepped down as Nvidia's chief executive last week.",
+   "rep": 3
+  },
+  {
+   "start": 179.99,
+   "l": "zh",
+   "t": "黄仁勋上周辞去了英伟达首席执行官的职务。"
+  },
+  {
+   "start": 185.44,
    "l": "zh",
    "t": "德语这样说："
   },
   {
-   "start": 153.86,
+   "start": 187.61,
    "l": "de",
-   "t": "Huang ist vergangene Woche als Konzernchef zurückgetreten."
+   "t": "Huang ist vergangene Woche als Konzernchef zurückgetreten.",
+   "rep": 1
   },
   {
-   "start": 159.53,
+   "start": 195.95,
+   "l": "de",
+   "t": "Huang ist vergangene Woche als Konzernchef zurückgetreten.",
+   "rep": 2
+  },
+  {
+   "start": 204.29,
+   "l": "de",
+   "t": "Huang ist vergangene Woche als Konzernchef zurückgetreten.",
+   "rep": 3
+  },
+  {
+   "start": 210.48,
+   "l": "zh",
+   "t": "黄仁勋上周辞去了集团总裁的职务。"
+  },
+  {
+   "start": 215.19,
    "l": "zh",
    "t": "生活里："
   },
   {
-   "start": 161.7,
+   "start": 217.36,
    "l": "en",
-   "t": "She stepped down as team leader to spend more time with her family."
+   "t": "She stepped down as team leader to spend more time with her family.",
+   "rep": 1
   },
   {
-   "start": 166.38,
+   "start": 224.67,
+   "l": "en",
+   "t": "She stepped down as team leader to spend more time with her family.",
+   "rep": 2
+  },
+  {
+   "start": 231.98,
+   "l": "en",
+   "t": "She stepped down as team leader to spend more time with her family.",
+   "rep": 3
+  },
+  {
+   "start": 237.38,
    "l": "zh",
    "t": "她辞去了组长的职务，想多陪陪家人。"
   },
   {
-   "start": 171.1,
+   "start": 241.9,
    "l": "zh",
    "t": "记忆画面：一位老板从讲台的台阶上一步一步走下来，把位置让给别人。英语是往下迈一步；德语前半部分是往回，后半部分是迈步，就是往后退一步。一个往下，一个往后，都是离开那个位置。"
   },
   {
-   "start": 191.46,
+   "start": 262.26,
    "l": "zh",
    "t": "跟我读。"
   },
   {
-   "start": 193.73,
+   "start": 264.53,
    "l": "en",
    "t": "step down."
   },
   {
-   "start": 198.62,
+   "start": 269.42,
    "l": "de",
    "t": "zurücktreten."
   },
   {
-   "start": 204.34,
+   "start": 275.14,
    "l": "zh",
    "t": "第二个词。"
   },
   {
-   "start": 206.61,
+   "start": 277.41,
    "l": "en",
    "t": "interim."
   },
   {
-   "start": 209.08,
+   "start": 279.88,
    "l": "en",
    "t": "interim."
   },
   {
-   "start": 211.45,
+   "start": 282.25,
    "l": "zh",
    "t": "注意，重音在第一个音节。"
   },
   {
-   "start": 214.87,
+   "start": 285.67,
    "l": "en",
    "t": "IN-te-rim, interim."
   },
   {
-   "start": 218.14,
+   "start": 288.94,
    "l": "zh",
    "t": "意思是临时的、过渡期的。正式的人选或者方案还没定下来之前，先顶上去的那个，就用这个词。新闻里最常见的搭配是："
   },
   {
-   "start": 231.64,
+   "start": 302.44,
    "l": "en",
    "t": "interim CEO."
   },
   {
-   "start": 234.25,
+   "start": 305.05,
    "l": "zh",
    "t": "临时首席执行官。还有："
   },
   {
-   "start": 238.32,
+   "start": 309.12,
    "l": "en",
    "t": "an interim solution."
   },
   {
-   "start": 241.31,
+   "start": 312.11,
    "l": "zh",
    "t": "临时的解决办法。德语最常用的说法是："
   },
   {
-   "start": 246.39,
+   "start": 317.19,
    "l": "de",
    "t": "vorübergehend."
   },
   {
-   "start": 249.96,
+   "start": 320.76,
    "l": "zh",
    "t": "意思是暂时地。德语新闻里，克雷斯的头衔也常写成："
   },
   {
-   "start": 256.84,
+   "start": 327.64,
    "l": "de",
    "t": "die Interimschefin."
   },
   {
-   "start": 260.73,
+   "start": 331.53,
    "l": "zh",
    "t": "新闻里，英语这样说："
   },
   {
-   "start": 263.84,
+   "start": 334.64,
    "l": "en",
-   "t": "Finance chief Colette Kress is now running Nvidia as interim CEO."
+   "t": "Finance chief Colette Kress is now running Nvidia as interim CEO.",
+   "rep": 1
   },
   {
-   "start": 269.69,
+   "start": 343.38,
+   "l": "en",
+   "t": "Finance chief Colette Kress is now running Nvidia as interim CEO.",
+   "rep": 2
+  },
+  {
+   "start": 352.13,
+   "l": "en",
+   "t": "Finance chief Colette Kress is now running Nvidia as interim CEO.",
+   "rep": 3
+  },
+  {
+   "start": 358.64,
+   "l": "zh",
+   "t": "财务总监克雷斯现在以临时首席执行官的身份执掌英伟达。"
+  },
+  {
+   "start": 365.69,
    "l": "zh",
    "t": "德语这样说："
   },
   {
-   "start": 271.86,
+   "start": 367.86,
    "l": "de",
-   "t": "Finanzchefin Colette Kress führt den Konzern vorübergehend."
+   "t": "Finanzchefin Colette Kress führt den Konzern vorübergehend.",
+   "rep": 1
   },
   {
-   "start": 278.06,
+   "start": 377.0,
+   "l": "de",
+   "t": "Finanzchefin Colette Kress führt den Konzern vorübergehend.",
+   "rep": 2
+  },
+  {
+   "start": 386.13,
+   "l": "de",
+   "t": "Finanzchefin Colette Kress führt den Konzern vorübergehend.",
+   "rep": 3
+  },
+  {
+   "start": 392.92,
+   "l": "zh",
+   "t": "财务总监克雷斯暂时领导这家公司。"
+  },
+  {
+   "start": 397.75,
    "l": "zh",
    "t": "生活里，临时的解决办法，德语有一个很好用的词："
   },
   {
-   "start": 283.81,
+   "start": 403.5,
    "l": "de",
    "t": "die Übergangslösung."
   },
   {
-   "start": 287.67,
+   "start": 407.36,
    "l": "zh",
    "t": "英语例句："
   },
   {
-   "start": 289.84,
+   "start": 409.53,
    "l": "en",
-   "t": "This is only an interim solution."
+   "t": "This is only an interim solution.",
+   "rep": 1
   },
   {
-   "start": 292.96,
+   "start": 414.46,
+   "l": "en",
+   "t": "This is only an interim solution.",
+   "rep": 2
+  },
+  {
+   "start": 419.4,
+   "l": "en",
+   "t": "This is only an interim solution.",
+   "rep": 3
+  },
+  {
+   "start": 423.04,
    "l": "zh",
    "t": "这只是个临时办法。"
   },
   {
-   "start": 295.93,
+   "start": 425.82,
    "l": "zh",
    "t": "记忆小技巧：这个词的开头，和互联网、国际这些英语词的开头一样，意思是在两者之间。两个正式阶段之间的那段空档，就是这个词。德语的过渡这个词，字面意思是走过去，就像两岸之间搭起的一座临时小桥。"
   },
   {
-   "start": 318.06,
+   "start": 447.95,
    "l": "zh",
    "t": "跟我读。"
   },
   {
-   "start": 320.33,
+   "start": 450.22,
    "l": "en",
    "t": "interim CEO."
   },
   {
-   "start": 325.44,
+   "start": 455.33,
    "l": "de",
    "t": "vorübergehend."
   },
   {
-   "start": 331.42,
+   "start": 461.31,
    "l": "zh",
    "t": "第三个，是一个搭配。"
   },
   {
-   "start": 334.53,
+   "start": 464.42,
    "l": "en",
    "t": "beat expectations."
   },
   {
-   "start": 337.72,
+   "start": 467.61,
    "l": "en",
    "t": "beat expectations."
   },
   {
-   "start": 340.82,
+   "start": 470.7,
    "l": "zh",
    "t": "意思是超出预期，比大家预想的更好。前面这个动词，本来是打、打败。反过来，没达到预期，英语说："
   },
   {
-   "start": 352.83,
+   "start": 482.72,
    "l": "en",
    "t": "miss expectations."
   },
   {
-   "start": 356.04,
+   "start": 485.93,
    "l": "zh",
    "t": "德语是："
   },
   {
-   "start": 358.22,
+   "start": 488.1,
    "l": "de",
    "t": "die Erwartungen übertreffen."
   },
   {
-   "start": 362.7,
+   "start": 492.59,
    "l": "zh",
    "t": "后面这个动词是关键："
   },
   {
-   "start": 365.72,
+   "start": 495.6,
    "l": "de",
    "t": "übertreffen."
   },
   {
-   "start": 368.74,
+   "start": 498.63,
    "l": "zh",
    "t": "新闻里："
   },
   {
-   "start": 370.91,
+   "start": 500.8,
    "l": "en",
-   "t": "Nvidia's sales clearly beat Wall Street expectations."
+   "t": "Nvidia's sales clearly beat Wall Street expectations.",
+   "rep": 1
   },
   {
-   "start": 375.86,
-   "l": "de",
-   "t": "Nvidia hat die Erwartungen der Analysten deutlich übertroffen."
+   "start": 508.18,
+   "l": "en",
+   "t": "Nvidia's sales clearly beat Wall Street expectations.",
+   "rep": 2
   },
   {
-   "start": 381.79,
+   "start": 515.56,
+   "l": "en",
+   "t": "Nvidia's sales clearly beat Wall Street expectations.",
+   "rep": 3
+  },
+  {
+   "start": 521.03,
    "l": "zh",
    "t": "英伟达的销售额明显超出了华尔街的预期。"
   },
   {
-   "start": 386.95,
+   "start": 526.19,
+   "l": "de",
+   "t": "Nvidia hat die Erwartungen der Analysten deutlich übertroffen.",
+   "rep": 1
+  },
+  {
+   "start": 534.92,
+   "l": "de",
+   "t": "Nvidia hat die Erwartungen der Analysten deutlich übertroffen.",
+   "rep": 2
+  },
+  {
+   "start": 543.64,
+   "l": "de",
+   "t": "Nvidia hat die Erwartungen der Analysten deutlich übertroffen.",
+   "rep": 3
+  },
+  {
+   "start": 550.12,
+   "l": "zh",
+   "t": "英伟达明显超出了分析师的预期。"
+  },
+  {
+   "start": 554.54,
    "l": "zh",
    "t": "生活里："
   },
   {
-   "start": 389.12,
+   "start": 556.71,
    "l": "en",
-   "t": "The new café really beat my expectations."
+   "t": "The new café really beat my expectations.",
+   "rep": 1
   },
   {
-   "start": 393.29,
+   "start": 563.23,
+   "l": "en",
+   "t": "The new café really beat my expectations.",
+   "rep": 2
+  },
+  {
+   "start": 569.74,
+   "l": "en",
+   "t": "The new café really beat my expectations.",
+   "rep": 3
+  },
+  {
+   "start": 574.57,
    "l": "zh",
    "t": "这家新开的咖啡馆，真的超出了我的预期。"
   },
   {
-   "start": 398.28,
+   "start": 579.36,
    "l": "zh",
    "t": "记忆画面：一场射箭比赛。大家心里都画了一个靶子，叫预期。英语是一拳把这个靶子打倒；德语后面这个动词，前半部分是超过、在上面，后半部分是打中。箭射得比靶心还高、还远，就是超出预期。"
   },
   {
-   "start": 419.98,
+   "start": 601.06,
    "l": "zh",
    "t": "跟我读。"
   },
   {
-   "start": 422.25,
+   "start": 603.33,
    "l": "en",
    "t": "beat expectations."
   },
   {
-   "start": 427.84,
+   "start": 608.92,
    "l": "de",
    "t": "die Erwartungen übertreffen."
   },
   {
-   "start": 434.93,
+   "start": 616.01,
    "l": "zh",
    "t": "第四个词。"
   },
   {
-   "start": 437.2,
+   "start": 618.28,
    "l": "en",
    "t": "outlook."
   },
   {
-   "start": 439.67,
+   "start": 620.75,
    "l": "en",
    "t": "outlook."
   },
   {
-   "start": 442.04,
+   "start": 623.12,
    "l": "zh",
    "t": "重音在前面。"
   },
   {
-   "start": 444.34,
+   "start": 625.42,
    "l": "en",
    "t": "OUT-look, outlook."
   },
   {
-   "start": 447.5,
+   "start": 628.58,
    "l": "zh",
    "t": "意思是前景、展望。在公司财报里，专门指公司对下一个季度的预测。德语是："
   },
   {
-   "start": 457.48,
+   "start": 638.56,
    "l": "de",
    "t": "der Ausblick."
   },
   {
-   "start": 460.76,
+   "start": 641.84,
    "l": "zh",
    "t": "这个词特别好记。英语前半部分是往外，后半部分是看；德语前半部分也是往外，后半部分是一眼、目光。两种语言，构词方式一模一样。财报新闻里，德语也常说："
   },
   {
-   "start": 478.85,
+   "start": 659.93,
    "l": "de",
    "t": "die Prognose."
   },
   {
-   "start": 482.21,
+   "start": 663.29,
    "l": "zh",
    "t": "新闻里："
   },
   {
-   "start": 484.38,
+   "start": 665.46,
    "l": "en",
-   "t": "Nvidia expects about 130 billion dollars in sales next quarter, a strong outlook."
+   "t": "Nvidia expects about 130 billion dollars in sales next quarter, a strong outlook.",
+   "rep": 1
   },
   {
-   "start": 492.11,
-   "l": "de",
-   "t": "Auch der Ausblick liegt klar über den Erwartungen."
+   "start": 677.04,
+   "l": "en",
+   "t": "Nvidia expects about 130 billion dollars in sales next quarter, a strong outlook.",
+   "rep": 2
   },
   {
-   "start": 497.49,
+   "start": 688.62,
+   "l": "en",
+   "t": "Nvidia expects about 130 billion dollars in sales next quarter, a strong outlook.",
+   "rep": 3
+  },
+  {
+   "start": 697.24,
    "l": "zh",
-   "t": "公司预计下个季度收入大约一千三百亿美元，前景同样好于预期。"
+   "t": "英伟达预计下个季度收入约一千三百亿美元，前景强劲。"
   },
   {
-   "start": 505.26,
+   "start": 703.88,
+   "l": "de",
+   "t": "Auch der Ausblick liegt klar über den Erwartungen.",
+   "rep": 1
+  },
+  {
+   "start": 711.79,
+   "l": "de",
+   "t": "Auch der Ausblick liegt klar über den Erwartungen.",
+   "rep": 2
+  },
+  {
+   "start": 719.7,
+   "l": "de",
+   "t": "Auch der Ausblick liegt klar über den Erwartungen.",
+   "rep": 3
+  },
+  {
+   "start": 725.56,
+   "l": "zh",
+   "t": "业绩展望也明显高于预期。"
+  },
+  {
+   "start": 729.54,
    "l": "zh",
    "t": "生活里，说天气也能用："
   },
   {
-   "start": 508.59,
+   "start": 732.87,
    "l": "en",
-   "t": "The weather outlook for the weekend is good."
+   "t": "The weather outlook for the weekend is good.",
+   "rep": 1
   },
   {
-   "start": 511.77,
+   "start": 737.92,
+   "l": "en",
+   "t": "The weather outlook for the weekend is good.",
+   "rep": 2
+  },
+  {
+   "start": 742.97,
+   "l": "en",
+   "t": "The weather outlook for the weekend is good.",
+   "rep": 3
+  },
+  {
+   "start": 746.69,
    "l": "zh",
    "t": "周末的天气预报看起来不错。"
   },
   {
-   "start": 515.64,
+   "start": 750.36,
    "l": "zh",
    "t": "记忆画面：你站在厨房窗边，往外、往远处看。看眼前叫看，往外往远看，看到的就是未来，也就是前景。"
   },
   {
-   "start": 527.8,
+   "start": 762.52,
    "l": "zh",
    "t": "跟我读。"
   },
   {
-   "start": 530.08,
+   "start": 764.8,
    "l": "en",
    "t": "a strong outlook."
   },
   {
-   "start": 535.31,
+   "start": 770.03,
    "l": "de",
    "t": "der Ausblick."
   },
   {
-   "start": 541.0,
+   "start": 775.72,
    "l": "zh",
    "t": "最后一个，第五个。"
   },
   {
-   "start": 543.94,
+   "start": 778.66,
    "l": "en",
    "t": "reinstate."
   },
   {
-   "start": 546.41,
+   "start": 781.13,
    "l": "en",
    "t": "reinstate."
   },
   {
-   "start": 548.78,
+   "start": 783.5,
    "l": "zh",
    "t": "重音在最后一个音节。"
   },
   {
-   "start": 551.68,
+   "start": 786.4,
    "l": "en",
    "t": "re-in-STATE, reinstate."
   },
   {
-   "start": 555.23,
+   "start": 789.95,
    "l": "zh",
    "t": "意思是让某人恢复原职，重新回到原来的位置。也可以指恢复一项规定或者一项服务。德语可以说："
   },
   {
-   "start": 566.45,
+   "start": 801.17,
    "l": "de",
    "t": "wieder einsetzen."
   },
   {
-   "start": 570.12,
+   "start": 804.84,
    "l": "zh",
    "t": "口语里也常说："
   },
   {
-   "start": 572.48,
+   "start": 807.2,
    "l": "de",
    "t": "zurückholen."
   },
   {
-   "start": 575.8,
+   "start": 810.52,
    "l": "zh",
    "t": "意思是把人叫回来。新闻里，董事会说得很清楚："
   },
   {
-   "start": 581.95,
+   "start": 816.67,
    "l": "en",
-   "t": "The board has no plans to reinstate Huang."
+   "t": "The board has no plans to reinstate Huang.",
+   "rep": 1
   },
   {
-   "start": 586.13,
-   "l": "de",
-   "t": "Der Verwaltungsrat will Huang nicht zurückholen."
+   "start": 822.9,
+   "l": "en",
+   "t": "The board has no plans to reinstate Huang.",
+   "rep": 2
   },
   {
-   "start": 591.08,
+   "start": 829.13,
+   "l": "en",
+   "t": "The board has no plans to reinstate Huang.",
+   "rep": 3
+  },
+  {
+   "start": 833.74,
    "l": "zh",
-   "t": "董事会不打算让黄仁勋复职，尽管有不少员工、投资人和科技界人士呼吁让他回来。顺便学一个词，公司的董事会，德语新闻里写的是："
+   "t": "董事会不打算让黄仁勋复职。"
   },
   {
-   "start": 605.56,
+   "start": 837.7,
+   "l": "de",
+   "t": "Der Verwaltungsrat will Huang nicht zurückholen.",
+   "rep": 1
+  },
+  {
+   "start": 844.93,
+   "l": "de",
+   "t": "Der Verwaltungsrat will Huang nicht zurückholen.",
+   "rep": 2
+  },
+  {
+   "start": 852.17,
+   "l": "de",
+   "t": "Der Verwaltungsrat will Huang nicht zurückholen.",
+   "rep": 3
+  },
+  {
+   "start": 857.52,
+   "l": "zh",
+   "t": "董事会不想把黄仁勋请回来。"
+  },
+  {
+   "start": 861.41,
+   "l": "zh",
+   "t": "尽管有不少员工、投资人和科技界人士呼吁让他回来。顺便学一个词，公司的董事会，德语新闻里写的是："
+  },
+  {
+   "start": 873.04,
    "l": "de",
    "t": "der Verwaltungsrat."
   },
   {
-   "start": 609.47,
+   "start": 876.95,
    "l": "zh",
    "t": "生活里："
   },
   {
-   "start": 611.64,
+   "start": 879.12,
    "l": "en",
-   "t": "After the court ruling, the worker was reinstated."
+   "t": "After the court ruling, the worker was reinstated.",
+   "rep": 1
   },
   {
-   "start": 616.03,
+   "start": 885.95,
+   "l": "en",
+   "t": "After the court ruling, the worker was reinstated.",
+   "rep": 2
+  },
+  {
+   "start": 892.78,
+   "l": "en",
+   "t": "After the court ruling, the worker was reinstated.",
+   "rep": 3
+  },
+  {
+   "start": 897.84,
    "l": "zh",
    "t": "法院判决之后，这名员工恢复了原职。"
   },
   {
-   "start": 620.92,
+   "start": 902.54,
    "l": "zh",
    "t": "记忆小技巧：把英语拆开，开头是再一次，中间是进去，最后是位置、状态。再一次放进原来的位置。德语也一样：再一次，放进去。画面是：一枚棋子被拿下了棋盘，又被轻轻放回原来那个格子。"
   },
   {
-   "start": 642.74,
+   "start": 924.36,
    "l": "zh",
    "t": "跟我读。"
   },
   {
-   "start": 645.01,
+   "start": 926.63,
    "l": "en",
    "t": "reinstate."
   },
   {
-   "start": 649.88,
+   "start": 931.5,
    "l": "de",
    "t": "wieder einsetzen."
   },
   {
-   "start": 655.96,
+   "start": 937.57,
    "l": "zh",
    "t": "最后，小测验。我说中文，你先在心里说出英语和德语，再听答案。"
   },
   {
-   "start": 664.36,
+   "start": 945.98,
    "l": "zh",
    "t": "辞职、卸任。"
   },
   {
-   "start": 670.55,
+   "start": 952.16,
    "l": "en",
    "t": "step down."
   },
   {
-   "start": 672.84,
+   "start": 954.46,
    "l": "de",
    "t": "zurücktreten."
   },
   {
-   "start": 676.56,
+   "start": 958.17,
    "l": "zh",
    "t": "临时的、过渡期的。"
   },
   {
-   "start": 683.2,
+   "start": 964.81,
    "l": "en",
    "t": "interim."
   },
   {
-   "start": 685.47,
+   "start": 967.08,
    "l": "de",
    "t": "vorübergehend."
   },
   {
-   "start": 689.44,
+   "start": 971.06,
    "l": "zh",
    "t": "超出预期。"
   },
   {
-   "start": 695.32,
+   "start": 976.93,
    "l": "en",
    "t": "beat expectations."
   },
   {
-   "start": 698.31,
+   "start": 979.92,
    "l": "de",
    "t": "die Erwartungen übertreffen."
   },
   {
-   "start": 703.2,
+   "start": 984.81,
    "l": "zh",
    "t": "前景、展望。"
   },
   {
-   "start": 709.33,
+   "start": 990.95,
    "l": "en",
    "t": "outlook."
   },
   {
-   "start": 711.6,
+   "start": 993.22,
    "l": "de",
    "t": "der Ausblick."
   },
   {
-   "start": 715.29,
+   "start": 996.91,
    "l": "zh",
    "t": "恢复原职。"
   },
   {
-   "start": 721.16,
+   "start": 1002.78,
    "l": "en",
    "t": "reinstate."
   },
   {
-   "start": 723.44,
+   "start": 1005.05,
    "l": "de",
    "t": "wieder einsetzen."
   },
   {
-   "start": 727.51,
+   "start": 1009.12,
    "l": "zh",
    "t": "全部答对了吗？今天就到这里，明天见。"
   }
  ],
- "video_size": 11419912,
- "built": "2026-11-18T12:17:08.240851+00:00"
+ "video_size": 14468035,
+ "built": "2026-11-19T12:24:57.697043+00:00"
 }
