@@ -243,15 +243,16 @@ def index_html(entries):
 h1{{font-size:24px}}h2{{font-size:18px;color:#d9b45a}}section{{background:#1b1c20;border-radius:14px;padding:14px;margin:16px 0}}
 video{{width:100%;max-height:80vh;background:#000;border-radius:10px}}a{{color:#86b8ff}}.en{{color:#86b8ff}}.de{{color:#f2b46d}}
 code{{word-break:break-all;color:#f2b46d}}.tr{{color:#8d9098;font-size:14px}}summary{{cursor:pointer;color:#8d9098}}
-.btn,.btn2{{display:block;text-align:center;padding:14px;margin:10px 0;border-radius:12px;font-weight:600;text-decoration:none}}
+.btn,.btn2{{display:block;width:100%;border:0;font-size:16px;text-align:center;padding:14px;margin:10px 0;border-radius:12px;font-weight:600;text-decoration:none}}
 .btn{{background:#d9b45a;color:#111}}.btn2{{background:#2a2b30;color:#ededed}}</style></head><body>
 <h1>新闻难词 · 每日三语播客</h1>
 <p class=sub>
-<a class=btn href="{BASE_URL.replace('https://', 'podcasts://')}/feed.xml">在“播客”App 订阅 · 音频版</a>
-<a class=btn href="{BASE_URL.replace('https://', 'podcasts://')}/video.xml">在“播客”App 订阅 · 视频版</a>
-<a class=btn2 href="overcast://x-callback-url/add?url={BASE_URL}/feed.xml">用 Overcast 订阅</a></p>
-<p class=tr>按钮打不开时，手动添加（资料库 → ⋯ → 通过 URL 关注节目）：<br>
+<button class=btn data-url="{BASE_URL}/feed.xml">复制订阅地址 · 音频版</button>
+<button class=btn2 data-url="{BASE_URL}/video.xml">复制订阅地址 · 视频版</button></p>
+<p class=tr id=msg>复制后：打开“播客”App → 资料库 → 右上角 ⋯ → 通过 URL 关注节目 → 粘贴 → 关注。<br>
 音频版 <code>{BASE_URL}/feed.xml</code><br>视频版 <code>{BASE_URL}/video.xml</code></p>
+<script>document.querySelectorAll('[data-url]').forEach(b=>b.onclick=async()=>{{const u=b.dataset.url;
+try{{await navigator.clipboard.writeText(u);b.textContent='已复制 ✓';}}catch(e){{prompt('长按复制这个地址',u);}}}});</script>
 {''.join(cards)}</body></html>"""
 
 
