@@ -23,7 +23,7 @@ DOCS = "docs"            # 提交到仓库的小文件
 DIST = "dist"            # 本次生成 / 下载的媒体（不提交）
 SITE = "site"            # 部署到 Pages 的完整网站（不提交）
 KEEP_ON_SITE = 30
-MEDIA_VERSION = 2        # 改了音频或画面的生成方式时加 1，所有期会重新生成
+MEDIA_VERSION = 3        # 改了音频或画面的生成方式时加 1，所有期会重新生成
 
 VOICES = {"zh": "zh-CN-XiaoxiaoNeural", "en": "en-US-AvaNeural", "de": "de-DE-KatjaNeural"}
 RATE = {"zh": "-8%", "en": "-10%", "de": "-10%"}          # 正常讲解语速
@@ -33,6 +33,35 @@ SR = 24000
 IN_CI = bool(os.environ.get("GITHUB_ACTIONS"))
 
 
+SENTENCE_RATES = ["-40%", "-40%", "-20%"]   # 句子：0.6 倍速两遍，再 0.8 倍速一遍
+REPEAT_PAUSE = 0.9
+
+
+def is_sentence(seg):
+    """英语、德语里超过 4 个词的片段算句子，要重复朗读并给中文意思。"""
+    return seg["l"] in ("en", "de") and len(seg["t"].split()) > 4 and seg.get("repeat", True)
+
+
+def expand_segments(segments):
+    """把每个句子展开成：0.6 倍速 ×2、0.8 倍速 ×1、中文意思。"""
+    out = []
+    for seg in segments:
+        if not is_sentence(seg):
+            out.append(seg)
+            continue
+        for k, rate in enumerate(SENTENCE_RATES):
+            c = {"l": seg["l"], "t": seg["t"], "rate": rate, "rep": k + 1, "p": REPEAT_PAUSE}
+            if k == 0 and "sec" in seg:
+                c["sec"] = seg["sec"]
+            out.append(c)
+        if seg.get("zh"):
+            out[-1]["p"] = 0.6
+            out.append({"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE)})
+        else:
+            out[-1]["p"] = seg.get("p", DEFAULT_PAUSE)
+    return out
+
+
 def is_slow(seg):
     if "slow" in seg:
         return bool(seg["slow"])
@@ -40,12 +69,12 @@ def is_slow(seg):
     return seg["l"] in ("en", "de") and len(seg["t"].split()) <= 4
 
 
-async def tts(text, lang, slow, path):
+async def tts(text, lang, rate, path):
     import edge_tts
     last = None
     for attempt in range(4):
         try:
-            c = edge_tts.Communicate(text, VOICES[lang], rate=(SLOW if slow else RATE)[lang])
+            c = edge_tts.Communicate(text, VOICES[lang], rate=rate)
             await c.save(path)
             if os.path.getsize(path) > 0:
                 return
@@ -92,10 +121,14 @@ def synth_audio(ep, mp3):
     for i, seg in enumerate(ep["segments"]):
         raw = os.path.join(tmp, f"{i}.mp3")
         wav = os.path.join(tmp, f"{i}.wav")
-        asyncio.run(tts(seg["t"], seg["l"], is_slow(seg), raw))
+        rate = seg.get("rate") or (SLOW if is_slow(seg) else RATE)[seg["l"]]
+        asyncio.run(tts(seg["t"], seg["l"], rate, raw))
         to_wav(raw, wav)
         d = duration(wav)
-        cues.append({"start": round(t, 2), "l": seg["l"], "t": seg["t"]})
+        cue = {"start": round(t, 2), "l": seg["l"], "t": seg["t"]}
+        if seg.get("rep"):
+            cue["rep"] = seg["rep"]
+        cues.append(cue)
         parts.append(wav)
         t += d
         p = float(seg.get("p", DEFAULT_PAUSE))
@@ -148,6 +181,7 @@ def build_episode(ep, src_hash):
     print("build", slug, flush=True)
     mp3 = os.path.join(DIST, f"{slug}.mp3")
     mp4 = os.path.join(DIST, f"{slug}.mp4")
+    ep = dict(ep, segments=expand_segments(ep["segments"]))
     cues = synth_audio(ep, mp3)
     meta = {"v": MEDIA_VERSION, "src_hash": src_hash, "duration": round(duration(mp3)),
             "size": os.path.getsize(mp3), "cues": cues}

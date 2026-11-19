@@ -35,6 +35,16 @@ for f in files:
         missing = {ch for ch in t if ch not in FONT_CHARS and not ch.isspace()}
         if missing:
             errors.append(f"{f} 第{i}句: 字体里没有这些字，视频会显示成方块，请换个常用写法：{''.join(missing)}")
+        if l in ("en", "de") and len(t.split()) > 4 and s.get("repeat", True):
+            zh = s.get("zh", "")
+            if not zh:
+                errors.append(f"{f} 第{i}句: 英语/德语句子缺少中文意思 \"zh\"：{t}")
+            elif re.search(r"[A-Za-zÄÖÜäöüß]", zh):
+                errors.append(f"{f} 第{i}句: \"zh\" 里有拉丁字母：{zh}")
+            else:
+                missing_zh = {ch for ch in zh if ch not in FONT_CHARS and not ch.isspace()}
+                if missing_zh:
+                    errors.append(f"{f} 第{i}句: \"zh\" 里有字体没有的字：{''.join(missing_zh)}")
         p = s.get("p", 0.45)
         if not isinstance(p, (int, float)) or not 0 <= p <= 8:
             errors.append(f"{f} 第{i}句: 停顿 p={p!r} 不合理")

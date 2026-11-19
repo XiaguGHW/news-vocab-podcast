@@ -162,7 +162,8 @@
   {
    "l": "en",
    "t": "You take ownership of your projects from concept to production.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "你从概念到投产，全程负责自己的项目。"
   },
   {
    "l": "zh",
@@ -172,7 +173,8 @@
   {
    "l": "de",
    "t": "Sie arbeiten eigenverantwortlich und übernehmen Verantwortung für Ihre Projekte.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你独立工作，并为自己的项目承担责任。"
   },
   {
    "l": "zh",
@@ -182,7 +184,8 @@
   {
    "l": "en",
    "t": "I took ownership of the tool, from the first prototype to daily use by my colleagues.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "从第一个原型到同事们每天在用，这个工具一直由我负责。"
   },
   {
    "l": "zh",
@@ -254,7 +257,8 @@
   {
    "l": "en",
    "t": "You have a proven track record of delivering AI projects.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "你在交付人工智能项目方面有可证明的成功经历。"
   },
   {
    "l": "zh",
@@ -264,7 +268,8 @@
   {
    "l": "de",
    "t": "Sie verfügen über nachweisbare Erfolge in der Umsetzung von KI-Projekten.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你在实施人工智能项目方面有可证明的成果。"
   },
   {
    "l": "zh",
@@ -274,7 +279,8 @@
   {
    "l": "en",
    "t": "I don't have a long track record yet, but I can show concrete results from my thesis.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我的工作经历还不长，但我能拿出论文里的具体成果。"
   },
   {
    "l": "zh",
@@ -346,7 +352,8 @@
   {
    "l": "en",
    "t": "We are looking for a hands-on engineer who enjoys building things.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "我们在找一位喜欢亲手做东西的实干型工程师。"
   },
   {
    "l": "zh",
@@ -356,7 +363,8 @@
   {
    "l": "de",
    "t": "Sie haben eine anpackende Art und arbeiten gern praxisnah.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你做事肯动手，喜欢贴近实践地工作。"
   },
   {
    "l": "zh",
@@ -366,7 +374,8 @@
   {
    "l": "en",
    "t": "I'm hands-on: I build and test my prototypes myself.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我是实干型的：原型都是我自己搭、自己测。"
   },
   {
    "l": "zh",
@@ -438,7 +447,8 @@
   {
    "l": "en",
    "t": "The role sits at the intersection of engineering and IT.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "这个岗位处在工程和信息技术的交叉点上。"
   },
   {
    "l": "zh",
@@ -448,7 +458,8 @@
   {
    "l": "de",
    "t": "Die Stelle liegt an der Schnittstelle zwischen Entwicklung und IT.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "这个岗位处在研发和信息技术的交界处。"
   },
   {
    "l": "zh",
@@ -458,7 +469,8 @@
   {
    "l": "en",
    "t": "My thesis sits at the intersection of product development and AI.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我的论文处在产品开发和人工智能的交叉点上。"
   },
   {
    "l": "zh",
@@ -530,7 +542,8 @@
   {
    "l": "en",
    "t": "You work closely with stakeholders across the company.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "你会和公司各部门的利益相关方密切合作。"
   },
   {
    "l": "zh",
@@ -540,7 +553,8 @@
   {
    "l": "de",
    "t": "Sie stimmen sich eng mit allen Beteiligten ab.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你会和所有相关人员紧密协调。"
   },
   {
    "l": "zh",
@@ -550,7 +564,8 @@
   {
    "l": "en",
    "t": "I aligned the classification rules with stakeholders from engineering.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我和工程部门的相关人员一起确定了分类规则。"
   },
   {
    "l": "zh",
@@ -622,7 +637,8 @@
   {
    "l": "en",
    "t": "Sound knowledge of Python is required.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "要求扎实掌握这门编程语言。"
   },
   {
    "l": "zh",
@@ -632,7 +648,8 @@
   {
    "l": "de",
    "t": "Sie verfügen über fundierte Kenntnisse in Python.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你扎实掌握这门编程语言。"
   },
   {
    "l": "zh",
@@ -642,7 +659,8 @@
   {
    "l": "en",
    "t": "I have sound knowledge of Python and data analysis.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我有扎实的编程和数据分析知识。"
   },
   {
    "l": "zh",
@@ -704,7 +722,8 @@
   {
    "l": "de",
    "t": "Sie haben einen sicheren Umgang mit Excel.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你能熟练使用电子表格软件。"
   },
   {
    "l": "zh",
@@ -714,7 +733,8 @@
   {
    "l": "en",
    "t": "You are proficient in Python and SQL.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "你熟练掌握编程语言和数据库查询语言。"
   },
   {
    "l": "zh",
@@ -724,7 +744,8 @@
   {
    "l": "de",
    "t": "Sie haben einen sicheren Umgang mit Python und SQL.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你能熟练使用编程语言和数据库查询语言。"
   },
   {
    "l": "zh",
@@ -734,7 +755,8 @@
   {
    "l": "de",
    "t": "Ich habe einen sicheren Umgang mit Python und pandas.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我能熟练使用编程语言和数据分析工具。"
   },
   {
    "l": "zh",
@@ -806,7 +828,8 @@
   {
    "l": "en",
    "t": "Business fluent English and very good German are required.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "要求英语达到商务流利水平，德语非常好。"
   },
   {
    "l": "zh",
@@ -816,7 +839,8 @@
   {
    "l": "de",
    "t": "Sie sprechen verhandlungssicheres Englisch und sehr gutes Deutsch.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你的英语可以用来谈判，德语也非常好。"
   },
   {
    "l": "zh",
@@ -826,7 +850,8 @@
   {
    "l": "en",
    "t": "English: business fluent. German: good working knowledge.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "英语：商务流利。德语：可以胜任工作。"
   },
   {
    "l": "zh",
@@ -898,7 +923,8 @@
   {
    "l": "en",
    "t": "You turn prototypes into production-ready solutions.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "你能把原型变成可以投入使用的解决方案。"
   },
   {
    "l": "zh",
@@ -908,7 +934,8 @@
   {
    "l": "de",
    "t": "Sie bringen Prototypen zur Produktionsreife.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "你能把原型做到可以投产的成熟度。"
   },
   {
    "l": "zh",
@@ -918,7 +945,8 @@
   {
    "l": "en",
    "t": "My next goal is to make the prototype production-ready.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "我的下一个目标，是让这个原型可以真正投入使用。"
   },
   {
    "l": "zh",
@@ -990,7 +1018,8 @@
   {
    "l": "en",
    "t": "Spearheaded an AI-based classification prototype.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "牵头开发了一个基于人工智能的分类原型。"
   },
   {
    "l": "zh",
@@ -1000,7 +1029,8 @@
   {
    "l": "de",
    "t": "Federführend bei der Entwicklung eines KI-Prototyps.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "主导开发了一个人工智能原型。"
   },
   {
    "l": "zh",
@@ -1077,7 +1107,8 @@
   {
    "l": "en",
    "t": "Streamlined the manual classification of assemblies.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "精简了组件的人工分类流程。"
   },
   {
    "l": "zh",
@@ -1087,7 +1118,8 @@
   {
    "l": "de",
    "t": "Den manuellen Klassifizierungsprozess deutlich verschlankt.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "大幅精简了人工分类流程。"
   },
   {
    "l": "zh",

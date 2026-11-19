@@ -170,7 +170,8 @@
   {
    "l": "en",
    "t": "new curbs on chip exports.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "对芯片出口的新限制。"
   },
   {
    "l": "zh",
@@ -215,7 +216,8 @@
   {
    "l": "en",
    "t": "Washington has announced new curbs on China's access to advanced AI chips.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "美国宣布了新的限制措施，限制中国获取先进的人工智能芯片。"
   },
   {
    "l": "zh",
@@ -225,7 +227,8 @@
   {
    "l": "de",
    "t": "Die USA schränken den Export von KI-Chips weiter ein.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "美国进一步限制人工智能芯片的出口。"
   },
   {
    "l": "zh",
@@ -235,12 +238,8 @@
   {
    "l": "en",
    "t": "I'm trying to curb my coffee habit.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "我在努力少喝点咖啡。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "我在努力少喝点咖啡。"
   },
   {
    "l": "zh",
@@ -336,7 +335,8 @@
   {
    "l": "en",
    "t": "The new rule is meant to close a loophole that let Chinese firms rent chips abroad.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "新规定是为了堵住一个漏洞：之前中国公司可以在海外租用芯片。"
   },
   {
    "l": "zh",
@@ -346,7 +346,8 @@
   {
    "l": "de",
    "t": "Die neuen Regeln sollen Schlupflöcher im Exportverbot schließen.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "新规定要堵住出口禁令里的漏洞。"
   },
   {
    "l": "zh",
@@ -356,12 +357,8 @@
   {
    "l": "en",
    "t": "Their accountant found a loophole in the tax rules.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "他们的会计在税务规定里找到了一个空子。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "他们的会计在税务规定里找到了一个空子。"
   },
   {
    "l": "zh",
@@ -457,7 +454,8 @@
   {
    "l": "en",
    "t": "Some buyers circumvented the ban by shipping chips through third countries.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "有些买家经第三国转运芯片，绕开了禁令。"
   },
   {
    "l": "zh",
@@ -467,7 +465,8 @@
   {
    "l": "de",
    "t": "Über Drittländer wurde das Verbot bisher umgangen.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "到目前为止，禁令一直被人经第三国绕开。"
   },
   {
    "l": "zh",
@@ -477,12 +476,8 @@
   {
    "l": "en",
    "t": "We found a way to circumvent the waiting list.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "我们找到了一个绕开排队名单的办法。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "我们找到了一个绕开排队名单的办法。"
   },
   {
    "l": "zh",
@@ -533,7 +528,8 @@
   {
    "l": "en",
    "t": "be subject to a licensing requirement.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "受到许可要求的约束。"
   },
   {
    "l": "zh",
@@ -573,7 +569,8 @@
   {
    "l": "en",
    "t": "Chip shipments to Singapore and Malaysia now face a licensing requirement.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "运往新加坡和马来西亚的芯片现在需要先获得许可。"
   },
   {
    "l": "zh",
@@ -583,7 +580,8 @@
   {
    "l": "de",
    "t": "Für Lieferungen nach Singapur und Malaysia gilt jetzt eine Lizenzpflicht.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "向新加坡和马来西亚供货，现在必须先拿到许可。"
   },
   {
    "l": "zh",
@@ -593,12 +591,8 @@
   {
    "l": "en",
    "t": "Street food stalls are subject to strict licensing requirements.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "街边小吃摊要遵守严格的许可要求。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "街边小吃摊要遵守严格的许可要求。"
   },
   {
    "l": "zh",
@@ -704,7 +698,8 @@
   {
    "l": "en",
    "t": "Beijing warned that it would retaliate if Washington goes ahead.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "北京警告说，如果美国执意推进，中国将会报复。"
   },
   {
    "l": "zh",
@@ -714,7 +709,8 @@
   {
    "l": "de",
    "t": "Peking droht mit Gegenmaßnahmen, falls die USA an den Regeln festhalten.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "北京威胁说，如果美国坚持这些规定，就会采取反制措施。"
   },
   {
    "l": "zh",
@@ -724,12 +720,8 @@
   {
    "l": "en",
    "t": "When his brother took his toy, the boy retaliated by hiding his shoes.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "哥哥拿走了他的玩具，小男孩就把哥哥的鞋藏起来，以示报复。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "哥哥拿走了他的玩具，小男孩就把哥哥的鞋藏起来，以示报复。"
   },
   {
    "l": "zh",

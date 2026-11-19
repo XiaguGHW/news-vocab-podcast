@@ -177,7 +177,8 @@
   {
    "l": "en",
    "t": "step down as chief executive.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "辞去首席执行官的职务。"
   },
   {
    "l": "zh",
@@ -207,7 +208,8 @@
   {
    "l": "en",
    "t": "Huang stepped down as Nvidia's chief executive last week.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "黄仁勋上周辞去了英伟达首席执行官的职务。"
   },
   {
    "l": "zh",
@@ -217,7 +219,8 @@
   {
    "l": "de",
    "t": "Huang ist vergangene Woche als Konzernchef zurückgetreten.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "黄仁勋上周辞去了集团总裁的职务。"
   },
   {
    "l": "zh",
@@ -227,12 +230,8 @@
   {
    "l": "en",
    "t": "She stepped down as team leader to spend more time with her family.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "她辞去了组长的职务，想多陪陪家人。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "她辞去了组长的职务，想多陪陪家人。"
   },
   {
    "l": "zh",
@@ -328,7 +327,8 @@
   {
    "l": "en",
    "t": "Finance chief Colette Kress is now running Nvidia as interim CEO.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "财务总监克雷斯现在以临时首席执行官的身份执掌英伟达。"
   },
   {
    "l": "zh",
@@ -338,7 +338,8 @@
   {
    "l": "de",
    "t": "Finanzchefin Colette Kress führt den Konzern vorübergehend.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "财务总监克雷斯暂时领导这家公司。"
   },
   {
    "l": "zh",
@@ -358,12 +359,8 @@
   {
    "l": "en",
    "t": "This is only an interim solution.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "这只是个临时办法。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "这只是个临时办法。"
   },
   {
    "l": "zh",
@@ -439,17 +436,14 @@
   {
    "l": "en",
    "t": "Nvidia's sales clearly beat Wall Street expectations.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "英伟达的销售额明显超出了华尔街的预期。"
   },
   {
    "l": "de",
    "t": "Nvidia hat die Erwartungen der Analysten deutlich übertroffen.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "英伟达的销售额明显超出了华尔街的预期。",
-   "p": 0.6
+   "p": 0.7,
+   "zh": "英伟达明显超出了分析师的预期。"
   },
   {
    "l": "zh",
@@ -459,12 +453,8 @@
   {
    "l": "en",
    "t": "The new café really beat my expectations.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "这家新开的咖啡馆，真的超出了我的预期。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "这家新开的咖啡馆，真的超出了我的预期。"
   },
   {
    "l": "zh",
@@ -540,17 +530,14 @@
   {
    "l": "en",
    "t": "Nvidia expects about 130 billion dollars in sales next quarter, a strong outlook.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "英伟达预计下个季度收入约一千三百亿美元，前景强劲。"
   },
   {
    "l": "de",
    "t": "Auch der Ausblick liegt klar über den Erwartungen.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "公司预计下个季度收入大约一千三百亿美元，前景同样好于预期。",
-   "p": 0.6
+   "p": 0.7,
+   "zh": "业绩展望也明显高于预期。"
   },
   {
    "l": "zh",
@@ -560,12 +547,8 @@
   {
    "l": "en",
    "t": "The weather outlook for the weekend is good.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "周末的天气预报看起来不错。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "周末的天气预报看起来不错。"
   },
   {
    "l": "zh",
@@ -641,16 +624,18 @@
   {
    "l": "en",
    "t": "The board has no plans to reinstate Huang.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "董事会不打算让黄仁勋复职。"
   },
   {
    "l": "de",
    "t": "Der Verwaltungsrat will Huang nicht zurückholen.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "董事会不想把黄仁勋请回来。"
   },
   {
    "l": "zh",
-   "t": "董事会不打算让黄仁勋复职，尽管有不少员工、投资人和科技界人士呼吁让他回来。顺便学一个词，公司的董事会，德语新闻里写的是：",
+   "t": "尽管有不少员工、投资人和科技界人士呼吁让他回来。顺便学一个词，公司的董事会，德语新闻里写的是：",
    "p": 0.3
   },
   {
@@ -666,12 +651,8 @@
   {
    "l": "en",
    "t": "After the court ruling, the worker was reinstated.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "法院判决之后，这名员工恢复了原职。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "法院判决之后，这名员工恢复了原职。"
   },
   {
    "l": "zh",

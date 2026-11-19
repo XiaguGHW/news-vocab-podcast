@@ -100,12 +100,8 @@
    "l": "de",
    "t": "Hände weg von den Medien!",
    "p": 0.7,
-   "slow": true
-  },
-  {
-   "l": "zh",
-   "t": "意思是：别碰媒体，把手拿开。",
-   "p": 0.6
+   "slow": true,
+   "zh": "别碰媒体！"
   },
   {
    "l": "zh",
@@ -172,11 +168,12 @@
   {
    "l": "en",
    "t": "Hundreds of thousands of people rallied in Prague on Sunday.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "几十万人周日在布拉格集会。"
   },
   {
    "l": "zh",
-   "t": "几十万人周日在布拉格集会。德语新闻最常用的词是：",
+   "t": "德语新闻最常用的词是：",
    "p": 0.3
   },
   {
@@ -192,7 +189,8 @@
   {
    "l": "de",
    "t": "In Prag fand am Sonntag eine riesige Kundgebung statt.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "周日，布拉格举行了一场规模巨大的集会。"
   },
   {
    "l": "zh",
@@ -212,12 +210,8 @@
   {
    "l": "en",
    "t": "Stocks rallied after the news.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "消息出来后，股市反弹了。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "消息出来后，股市反弹了。"
   },
   {
    "l": "zh",
@@ -308,17 +302,14 @@
   {
    "l": "en",
    "t": "Critics fear the plan will weaken the independence of public broadcasters.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "批评的人担心，这个计划会削弱公共广播的独立性。"
   },
   {
    "l": "de",
    "t": "Kritiker fürchten um die Unabhängigkeit der öffentlich-rechtlichen Sender.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "批评的人担心，公共广播会失去独立性。",
-   "p": 0.6
+   "p": 0.7,
+   "zh": "批评的人担心公共广播电视台的独立性。"
   },
   {
    "l": "zh",
@@ -399,17 +390,14 @@
   {
    "l": "en",
    "t": "The government wants to scrap the licence fee and pay for public media from the state budget.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "政府想取消广播费，改用国家预算来养公共媒体。"
   },
   {
    "l": "de",
    "t": "Die Regierung will die Rundfunkgebühren abschaffen und die Sender aus dem Staatshaushalt finanzieren.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "政府想取消这笔费用，改成用国家预算来养公共媒体。",
-   "p": 0.4
+   "p": 0.7,
+   "zh": "政府想取消广播费，改由国家预算资助电视台和电台。"
   },
   {
    "l": "zh",
@@ -530,17 +518,14 @@
   {
    "l": "en",
    "t": "The plan would overhaul the way public media are funded.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "这个计划会彻底改变公共媒体的经费方式。"
   },
   {
    "l": "de",
    "t": "Die Regierung will die Finanzierung der Medien grundlegend umbauen.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "政府要彻底改变公共媒体的经费方式。",
-   "p": 0.4
+   "p": 0.7,
+   "zh": "政府想从根本上改变媒体的经费制度。"
   },
   {
    "l": "zh",
@@ -550,12 +535,8 @@
   {
    "l": "en",
    "t": "My car needs an engine overhaul.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "我的车需要大修发动机。",
-   "p": 0.6
+   "p": 0.4,
+   "zh": "我的车需要大修发动机。"
   },
   {
    "l": "zh",
@@ -621,17 +602,14 @@
   {
    "l": "en",
    "t": "Protesters say the plan would undermine press freedom.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "抗议的人说，这个计划会削弱新闻自由。"
   },
   {
    "l": "de",
    "t": "Kritiker sagen, die Reform würde die Pressefreiheit untergraben.",
-   "p": 0.7
-  },
-  {
-   "l": "zh",
-   "t": "抗议的人说，这个计划会削弱新闻自由。",
-   "p": 0.4
+   "p": 0.7,
+   "zh": "批评的人说，这项改革会损害新闻自由。"
   },
   {
    "l": "zh",
@@ -641,12 +619,8 @@
   {
    "l": "en",
    "t": "Lack of sleep can undermine your health.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "睡眠不足会慢慢损害你的健康。",
-   "p": 0.7
+   "p": 0.4,
+   "zh": "睡眠不足会慢慢损害你的健康。"
   },
   {
    "l": "zh",

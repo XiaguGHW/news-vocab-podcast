@@ -163,7 +163,8 @@
   {
    "l": "en",
    "t": "Facebook accessed users' photos and videos without their specific consent.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "脸书未经用户明确同意，读取了他们的照片和视频。"
   },
   {
    "l": "zh",
@@ -173,7 +174,8 @@
   {
    "l": "de",
    "t": "Facebook hat ohne gültige Einwilligung auf Fotos und Videos zugegriffen.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "脸书在没有有效同意的情况下，读取了照片和视频。"
   },
   {
    "l": "zh",
@@ -183,12 +185,8 @@
   {
    "l": "en",
    "t": "Please ask for my consent before you post this photo.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "发这张照片之前，请先征得我的同意。",
-   "p": 0.7
+   "p": 0.4,
+   "zh": "发这张照片之前，请先征得我的同意。"
   },
   {
    "l": "zh",
@@ -239,12 +237,8 @@
   {
    "l": "en",
    "t": "Meta was fined 805 million euros.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "这家公司被罚了八亿零五百万欧元。",
-   "p": 0.7
+   "p": 0.4,
+   "zh": "这家公司被罚了八亿零五百万欧元。"
   },
   {
    "l": "zh",
@@ -264,7 +258,8 @@
   {
    "l": "de",
    "t": "das Bußgeld, die Geldbuße, die Strafe.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "罚款、罚金、处罚。"
   },
   {
    "l": "zh",
@@ -274,7 +269,8 @@
   {
    "l": "en",
    "t": "Italy's privacy regulator imposed a fine of 805 million euros on Meta.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "意大利隐私监管机构对这家公司处以八亿零五百万欧元罚款。"
   },
   {
    "l": "zh",
@@ -284,7 +280,8 @@
   {
    "l": "de",
    "t": "Die Datenschutzbehörde hat gegen Meta eine Strafe von 805 Millionen Euro verhängt.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "数据保护机构对这家公司处以八亿零五百万欧元的罚款。"
   },
   {
    "l": "zh",
@@ -299,12 +296,8 @@
   {
    "l": "en",
    "t": "I got a parking fine yesterday.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "我昨天吃了一张停车罚单。",
-   "p": 0.7
+   "p": 0.4,
+   "zh": "我昨天吃了一张停车罚单。"
   },
   {
    "l": "zh",
@@ -390,7 +383,8 @@
   {
    "l": "en",
    "t": "The feature was enabled by default.",
-   "p": 0.6
+   "p": 0.6,
+   "zh": "这个功能是默认开启的。"
   },
   {
    "l": "zh",
@@ -400,7 +394,8 @@
   {
    "l": "de",
    "t": "Meta muss den Galerie-Zugriff standardmäßig deaktivieren.",
-   "p": 0.7
+   "p": 0.7,
+   "zh": "这家公司必须把读取相册的功能改成默认关闭。"
   },
   {
    "l": "zh",
@@ -410,12 +405,8 @@
   {
    "l": "en",
    "t": "By default, my phone locks after thirty seconds.",
-   "p": 0.4
-  },
-  {
-   "l": "zh",
-   "t": "我的手机默认三十秒后锁屏。",
-   "p": 0.7
+   "p": 0.4,
+   "zh": "我的手机默认三十秒后锁屏。"
   },
   {
    "l": "zh",

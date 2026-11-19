@@ -90,9 +90,9 @@ def rounded(d, box, fill, r=28, outline=None, width=0):
     d.rounded_rectangle(box, r, fill=fill, outline=outline, width=width)
 
 
-def pill(d, x, y, lang):
+def pill(d, x, y, lang, rep=None):
     f = font(30)
-    t = LANG_TAG[lang]
+    t = LANG_TAG[lang] + (f" {['', '0.6×', '0.6×', '0.8×'][rep]}" if rep else "")
     w = f.getlength(t) + 28
     rounded(d, (x, y, x + w, y + 46), (42, 44, 50) if lang == "zh" else
             ((29, 44, 68) if lang == "en" else (58, 42, 23)), r=10)
@@ -209,15 +209,19 @@ def subtitles(d, cues, i):
     d.line((60, top - 20, W - 60, top - 20), fill=LINE, width=2)
     cur = cues[i]
     f = font(64 if cur["l"] == "zh" else 62)
-    cur_lines = wrap(cur["t"], f, W - 120 - 90)
+    cur_lines = wrap(cur["t"], f, W - 120 - (170 if cur.get("rep") else 90))
     cur_h = len(cur_lines) * (f.size + 14)
     y0 = bottom - cur_h
     # 之前的句子
     prev_f = font(38, False)
     y = y0 - 40
-    for j in (i - 1, i - 2):
-        if j < 0:
-            break
+    prev = []
+    j = i - 1
+    while j >= 0 and len(prev) < 2:
+        if cues[j]["t"] != cur["t"] and (not prev or cues[j]["t"] != cues[prev[-1]]["t"]):
+            prev.append(j)
+        j -= 1
+    for j in prev:
         lines = wrap(cues[j]["t"], prev_f, W - 120 - 90)
         h = len(lines) * (prev_f.size + 10)
         if y - h < top:
@@ -229,10 +233,11 @@ def subtitles(d, cues, i):
             d.text((150, yy), ln, font=prev_f, fill=MUTED)
             yy += prev_f.size + 10
         y -= 26
-    pill(d, 60, y0 + 12, cur["l"])
+    pw = pill(d, 60, y0 + 12, cur["l"], cur.get("rep"))
     yy = y0
+    tx = 150 if not cur.get("rep") else 60 + pw + 20
     for ln in cur_lines:
-        d.text((150, yy), ln, font=f, fill=LANG_COLOR[cur["l"]])
+        d.text((tx, yy), ln, font=f, fill=LANG_COLOR[cur["l"]])
         yy += f.size + 14
 
 
