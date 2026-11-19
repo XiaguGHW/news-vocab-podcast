@@ -1,0 +1,2238 @@
+{
+ "v": 3,
+ "src_hash": "130e3bbf966964e1",
+ "duration": 2192,
+ "size": 17539910,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "欢迎收听词汇专题，寂静协议。今天的材料是我们一起读过的虚构科幻故事，不是真实新闻。"
+  },
+  {
+   "start": 11.2,
+   "l": "zh",
+   "t": "木卫二的冰层下，一名研究员送数据密钥时发现警告：研究站继续扩大会使冰层破裂。她需要判断数据、制定预案，并降低风险。今天学习十三个词，覆盖科研、软件和日常生活。"
+  },
+  {
+   "start": 31.3,
+   "l": "en",
+   "t": "a research station."
+  },
+  {
+   "start": 34.25,
+   "l": "de",
+   "t": "eine Forschungsstation."
+  },
+  {
+   "start": 38.3,
+   "l": "zh",
+   "t": "先复习上一期的两个词。法规里的漏洞、空子，怎么说？"
+  },
+  {
+   "start": 47.66,
+   "l": "en",
+   "t": "loophole."
+  },
+  {
+   "start": 49.94,
+   "l": "de",
+   "t": "das Schlupfloch."
+  },
+  {
+   "start": 53.72,
+   "l": "zh",
+   "t": "规避、绕开禁令，怎么说？"
+  },
+  {
+   "start": 59.98,
+   "l": "en",
+   "t": "circumvent."
+  },
+  {
+   "start": 62.33,
+   "l": "de",
+   "t": "umgehen."
+  },
+  {
+   "start": 65.61,
+   "l": "zh",
+   "t": "第一个词。"
+  },
+  {
+   "start": 67.88,
+   "l": "en",
+   "t": "errand."
+  },
+  {
+   "start": 70.35,
+   "l": "en",
+   "t": "errand."
+  },
+  {
+   "start": 72.72,
+   "l": "zh",
+   "t": "名词，指寄信、取药这类需要出去办的小事。可以是自己的事，也可以是替别人办事。"
+  },
+  {
+   "start": 82.29,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 85.19,
+   "l": "en",
+   "t": "run an errand."
+  },
+  {
+   "start": 87.63,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 90.34,
+   "l": "de",
+   "t": "die Besorgung."
+  },
+  {
+   "start": 93.62,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 97.38,
+   "l": "en",
+   "t": "Mira went on an errand to deliver a data key.",
+   "rep": 1
+  },
+  {
+   "start": 103.2,
+   "l": "en",
+   "t": "Mira went on an errand to deliver a data key.",
+   "rep": 2
+  },
+  {
+   "start": 109.02,
+   "l": "en",
+   "t": "Mira went on an errand to deliver a data key.",
+   "rep": 3
+  },
+  {
+   "start": 113.32,
+   "l": "zh",
+   "t": "米拉出去办一件小事，送一枚数据密钥。"
+  },
+  {
+   "start": 118.17,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 121.59,
+   "l": "de",
+   "t": "Mira machte eine Besorgung und brachte einen Datenschlüssel vorbei.",
+   "rep": 1
+  },
+  {
+   "start": 131.11,
+   "l": "de",
+   "t": "Mira machte eine Besorgung und brachte einen Datenschlüssel vorbei.",
+   "rep": 2
+  },
+  {
+   "start": 140.62,
+   "l": "de",
+   "t": "Mira machte eine Besorgung und brachte einen Datenschlüssel vorbei.",
+   "rep": 3
+  },
+  {
+   "start": 147.68,
+   "l": "zh",
+   "t": "米拉出去办事，顺路送去一枚数据密钥。"
+  },
+  {
+   "start": 152.65,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 156.14,
+   "l": "en",
+   "t": "I need to run an errand after work.",
+   "rep": 1
+  },
+  {
+   "start": 160.96,
+   "l": "en",
+   "t": "I need to run an errand after work.",
+   "rep": 2
+  },
+  {
+   "start": 165.77,
+   "l": "en",
+   "t": "I need to run an errand after work.",
+   "rep": 3
+  },
+  {
+   "start": 169.32,
+   "l": "zh",
+   "t": "我下班后需要出去办一件事。"
+  },
+  {
+   "start": 173.23,
+   "l": "zh",
+   "t": "记忆画面：想象你拿着信，出门走到邮局，再回家。这一趟就是这个词；在家写论文通常不这样说。"
+  },
+  {
+   "start": 184.54,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 186.81,
+   "l": "en",
+   "t": "run an errand."
+  },
+  {
+   "start": 191.75,
+   "l": "de",
+   "t": "eine Besorgung machen."
+  },
+  {
+   "start": 198.18,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 202.74,
+   "l": "zh",
+   "t": "第二个词。"
+  },
+  {
+   "start": 205.02,
+   "l": "en",
+   "t": "substantial."
+  },
+  {
+   "start": 207.61,
+   "l": "en",
+   "t": "substantial."
+  },
+  {
+   "start": 210.1,
+   "l": "zh",
+   "t": "形容词，强调数量大、程度高或影响明显。证据、增长、费用都能搭配；比笼统地说大更正式。"
+  },
+  {
+   "start": 221.49,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 224.39,
+   "l": "en",
+   "t": "substantial evidence."
+  },
+  {
+   "start": 227.62,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 230.33,
+   "l": "de",
+   "t": "erheblich."
+  },
+  {
+   "start": 233.4,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 237.16,
+   "l": "en",
+   "t": "Replacing the equipment would require substantial investment.",
+   "rep": 1
+  },
+  {
+   "start": 244.47,
+   "l": "en",
+   "t": "Replacing the equipment would require substantial investment.",
+   "rep": 2
+  },
+  {
+   "start": 251.78,
+   "l": "en",
+   "t": "Replacing the equipment would require substantial investment.",
+   "rep": 3
+  },
+  {
+   "start": 257.18,
+   "l": "zh",
+   "t": "更换设备需要大量投资。"
+  },
+  {
+   "start": 260.87,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 264.3,
+   "l": "de",
+   "t": "Der Austausch der Geräte würde erhebliche Investitionen erfordern.",
+   "rep": 1
+  },
+  {
+   "start": 273.67,
+   "l": "de",
+   "t": "Der Austausch der Geräte würde erhebliche Investitionen erfordern.",
+   "rep": 2
+  },
+  {
+   "start": 283.04,
+   "l": "de",
+   "t": "Der Austausch der Geräte würde erhebliche Investitionen erfordern.",
+   "rep": 3
+  },
+  {
+   "start": 290.02,
+   "l": "zh",
+   "t": "更换设备需要大量投资。"
+  },
+  {
+   "start": 293.72,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 297.22,
+   "l": "en",
+   "t": "We made substantial progress this week.",
+   "rep": 1
+  },
+  {
+   "start": 302.41,
+   "l": "en",
+   "t": "We made substantial progress this week.",
+   "rep": 2
+  },
+  {
+   "start": 307.61,
+   "l": "en",
+   "t": "We made substantial progress this week.",
+   "rep": 3
+  },
+  {
+   "start": 311.45,
+   "l": "zh",
+   "t": "我们这周取得了显著进展。"
+  },
+  {
+   "start": 315.05,
+   "l": "zh",
+   "t": "记忆画面：想象报告旁堆着厚厚一叠证据，不是只有一张纸。这个词强调分量足，而不是仅仅有一点。"
+  },
+  {
+   "start": 326.3,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 328.58,
+   "l": "en",
+   "t": "substantial evidence."
+  },
+  {
+   "start": 334.31,
+   "l": "de",
+   "t": "erhebliche Belege."
+  },
+  {
+   "start": 340.67,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 345.23,
+   "l": "zh",
+   "t": "第三个词。"
+  },
+  {
+   "start": 347.5,
+   "l": "en",
+   "t": "interoperability."
+  },
+  {
+   "start": 350.34,
+   "l": "en",
+   "t": "interoperability."
+  },
+  {
+   "start": 353.07,
+   "l": "zh",
+   "t": "名词，指不同系统能交换信息，并使用交换来的信息。只是能连上线，还不一定能真正协同工作。"
+  },
+  {
+   "start": 363.79,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 366.68,
+   "l": "en",
+   "t": "system interoperability."
+  },
+  {
+   "start": 370.09,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 372.79,
+   "l": "de",
+   "t": "die Interoperabilität."
+  },
+  {
+   "start": 377.3,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 381.06,
+   "l": "en",
+   "t": "The engineers tested interoperability between the new system and older equipment.",
+   "rep": 1
+  },
+  {
+   "start": 391.37,
+   "l": "en",
+   "t": "The engineers tested interoperability between the new system and older equipment.",
+   "rep": 2
+  },
+  {
+   "start": 401.68,
+   "l": "en",
+   "t": "The engineers tested interoperability between the new system and older equipment.",
+   "rep": 3
+  },
+  {
+   "start": 409.34,
+   "l": "zh",
+   "t": "工程师测试了新系统与旧设备之间的互操作性。"
+  },
+  {
+   "start": 415.05,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 418.47,
+   "l": "de",
+   "t": "Die Ingenieure prüften die Interoperabilität zwischen dem neuen System und älteren Geräten.",
+   "rep": 1
+  },
+  {
+   "start": 430.75,
+   "l": "de",
+   "t": "Die Ingenieure prüften die Interoperabilität zwischen dem neuen System und älteren Geräten.",
+   "rep": 2
+  },
+  {
+   "start": 443.02,
+   "l": "de",
+   "t": "Die Ingenieure prüften die Interoperabilität zwischen dem neuen System und älteren Geräten.",
+   "rep": 3
+  },
+  {
+   "start": 452.17,
+   "l": "zh",
+   "t": "工程师测试了新系统与旧设备之间的互操作性。"
+  },
+  {
+   "start": 457.88,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 461.38,
+   "l": "en",
+   "t": "Interoperability lets these apps exchange data.",
+   "rep": 1
+  },
+  {
+   "start": 467.89,
+   "l": "en",
+   "t": "Interoperability lets these apps exchange data.",
+   "rep": 2
+  },
+  {
+   "start": 474.41,
+   "l": "en",
+   "t": "Interoperability lets these apps exchange data.",
+   "rep": 3
+  },
+  {
+   "start": 479.23,
+   "l": "zh",
+   "t": "互操作性让这些应用可以交换数据。"
+  },
+  {
+   "start": 483.98,
+   "l": "zh",
+   "t": "记忆画面：想象两台不同品牌的机器，不仅接上同一根线，还能读懂对方的数据并一起工作。"
+  },
+  {
+   "start": 494.14,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 496.41,
+   "l": "en",
+   "t": "system interoperability."
+  },
+  {
+   "start": 502.31,
+   "l": "de",
+   "t": "die Interoperabilität der Systeme."
+  },
+  {
+   "start": 510.28,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 514.84,
+   "l": "zh",
+   "t": "第四个词。"
+  },
+  {
+   "start": 517.11,
+   "l": "en",
+   "t": "deprecated."
+  },
+  {
+   "start": 519.58,
+   "l": "en",
+   "t": "deprecated."
+  },
+  {
+   "start": 521.96,
+   "l": "zh",
+   "t": "软件中的形容词，表示已不推荐继续使用，可能以后移除。现在往往还能运行，不能直接理解成已经删除。德语可以说过时且不再推荐。"
+  },
+  {
+   "start": 536.68,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 539.58,
+   "l": "en",
+   "t": "a deprecated function."
+  },
+  {
+   "start": 542.79,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 545.5,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 1
+  },
+  {
+   "start": 551.56,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 2
+  },
+  {
+   "start": 557.62,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 3
+  },
+  {
+   "start": 562.1,
+   "l": "zh",
+   "t": "已不推荐使用的。"
+  },
+  {
+   "start": 564.89,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 568.65,
+   "l": "en",
+   "t": "Some software was deprecated, but it still worked.",
+   "rep": 1
+  },
+  {
+   "start": 575.28,
+   "l": "en",
+   "t": "Some software was deprecated, but it still worked.",
+   "rep": 2
+  },
+  {
+   "start": 581.92,
+   "l": "en",
+   "t": "Some software was deprecated, but it still worked.",
+   "rep": 3
+  },
+  {
+   "start": 586.84,
+   "l": "zh",
+   "t": "部分软件已不推荐使用，但仍然可以运行。"
+  },
+  {
+   "start": 591.9,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 595.33,
+   "l": "de",
+   "t": "Einige Programme waren veraltet und nicht mehr empfohlen, funktionierten aber noch.",
+   "rep": 1
+  },
+  {
+   "start": 606.48,
+   "l": "de",
+   "t": "Einige Programme waren veraltet und nicht mehr empfohlen, funktionierten aber noch.",
+   "rep": 2
+  },
+  {
+   "start": 617.62,
+   "l": "de",
+   "t": "Einige Programme waren veraltet und nicht mehr empfohlen, funktionierten aber noch.",
+   "rep": 3
+  },
+  {
+   "start": 625.93,
+   "l": "zh",
+   "t": "部分程序已经过时且不再推荐，但仍然可以运行。"
+  },
+  {
+   "start": 631.9,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 635.4,
+   "l": "en",
+   "t": "This function is deprecated; use the new version.",
+   "rep": 1
+  },
+  {
+   "start": 642.23,
+   "l": "en",
+   "t": "This function is deprecated; use the new version.",
+   "rep": 2
+  },
+  {
+   "start": 649.06,
+   "l": "en",
+   "t": "This function is deprecated; use the new version.",
+   "rep": 3
+  },
+  {
+   "start": 654.12,
+   "l": "zh",
+   "t": "这个函数已不推荐使用，请用新版本。"
+  },
+  {
+   "start": 658.85,
+   "l": "zh",
+   "t": "记忆画面：想象旧桥旁挂着提示牌：目前仍可通过，但请改走新桥。区别于桥已被拆除。"
+  },
+  {
+   "start": 669.62,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 671.9,
+   "l": "en",
+   "t": "a deprecated function."
+  },
+  {
+   "start": 677.61,
+   "l": "de",
+   "t": "eine veraltete Funktion."
+  },
+  {
+   "start": 684.4,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 688.96,
+   "l": "zh",
+   "t": "第五个词。"
+  },
+  {
+   "start": 691.23,
+   "l": "en",
+   "t": "viable."
+  },
+  {
+   "start": 693.7,
+   "l": "en",
+   "t": "viable."
+  },
+  {
+   "start": 696.08,
+   "l": "zh",
+   "t": "形容词，指一个方案在现实条件下能行得通。技术上能做到，还要考虑预算、时间和资源，才算现实可行。"
+  },
+  {
+   "start": 708.09,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 710.99,
+   "l": "en",
+   "t": "a viable solution."
+  },
+  {
+   "start": 714.15,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 716.86,
+   "l": "de",
+   "t": "praktikabel."
+  },
+  {
+   "start": 720.19,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 723.95,
+   "l": "en",
+   "t": "Replacing everything was not a viable option.",
+   "rep": 1
+  },
+  {
+   "start": 730.13,
+   "l": "en",
+   "t": "Replacing everything was not a viable option.",
+   "rep": 2
+  },
+  {
+   "start": 736.31,
+   "l": "en",
+   "t": "Replacing everything was not a viable option.",
+   "rep": 3
+  },
+  {
+   "start": 740.87,
+   "l": "zh",
+   "t": "全部更换并不是一个可行的选择。"
+  },
+  {
+   "start": 745.19,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 748.62,
+   "l": "de",
+   "t": "Alles auszutauschen war keine praktikable Option.",
+   "rep": 1
+  },
+  {
+   "start": 756.64,
+   "l": "de",
+   "t": "Alles auszutauschen war keine praktikable Option.",
+   "rep": 2
+  },
+  {
+   "start": 764.67,
+   "l": "de",
+   "t": "Alles auszutauschen war keine praktikable Option.",
+   "rep": 3
+  },
+  {
+   "start": 770.62,
+   "l": "zh",
+   "t": "全部更换并不是一个可行的选择。"
+  },
+  {
+   "start": 774.94,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 778.44,
+   "l": "en",
+   "t": "Is this plan financially viable?",
+   "rep": 1
+  },
+  {
+   "start": 783.04,
+   "l": "en",
+   "t": "Is this plan financially viable?",
+   "rep": 2
+  },
+  {
+   "start": 787.63,
+   "l": "en",
+   "t": "Is this plan financially viable?",
+   "rep": 3
+  },
+  {
+   "start": 791.02,
+   "l": "zh",
+   "t": "这个计划在财务上可行吗。"
+  },
+  {
+   "start": 794.69,
+   "l": "zh",
+   "t": "记忆画面：想象你的设计图旁放着预算表和日历，三样一起通过检查，方案才能落地。"
+  },
+  {
+   "start": 804.46,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 806.73,
+   "l": "en",
+   "t": "a viable solution."
+  },
+  {
+   "start": 812.39,
+   "l": "de",
+   "t": "eine praktikable Lösung."
+  },
+  {
+   "start": 819.16,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 823.72,
+   "l": "zh",
+   "t": "第六个词。"
+  },
+  {
+   "start": 825.99,
+   "l": "en",
+   "t": "scalable."
+  },
+  {
+   "start": 828.46,
+   "l": "en",
+   "t": "scalable."
+  },
+  {
+   "start": 830.84,
+   "l": "zh",
+   "t": "形容词，指规模扩大时，系统仍能有效应对。服务十个人后还能服务上千人，就是典型场景。"
+  },
+  {
+   "start": 841.56,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 844.45,
+   "l": "en",
+   "t": "a scalable system."
+  },
+  {
+   "start": 847.62,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 850.32,
+   "l": "de",
+   "t": "skalierbar."
+  },
+  {
+   "start": 853.51,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 857.27,
+   "l": "en",
+   "t": "They built a scalable system for the growing station.",
+   "rep": 1
+  },
+  {
+   "start": 863.67,
+   "l": "en",
+   "t": "They built a scalable system for the growing station.",
+   "rep": 2
+  },
+  {
+   "start": 870.06,
+   "l": "en",
+   "t": "They built a scalable system for the growing station.",
+   "rep": 3
+  },
+  {
+   "start": 874.79,
+   "l": "zh",
+   "t": "他们为不断扩大的研究站构建了可扩展系统。"
+  },
+  {
+   "start": 880.12,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 883.54,
+   "l": "de",
+   "t": "Sie entwickelten ein skalierbares System für die wachsende Station.",
+   "rep": 1
+  },
+  {
+   "start": 892.82,
+   "l": "de",
+   "t": "Sie entwickelten ein skalierbares System für die wachsende Station.",
+   "rep": 2
+  },
+  {
+   "start": 902.1,
+   "l": "de",
+   "t": "Sie entwickelten ein skalierbares System für die wachsende Station.",
+   "rep": 3
+  },
+  {
+   "start": 908.98,
+   "l": "zh",
+   "t": "他们为不断扩大的研究站开发了可扩展系统。"
+  },
+  {
+   "start": 914.31,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 917.81,
+   "l": "en",
+   "t": "We need a scalable solution for more users.",
+   "rep": 1
+  },
+  {
+   "start": 923.51,
+   "l": "en",
+   "t": "We need a scalable solution for more users.",
+   "rep": 2
+  },
+  {
+   "start": 929.21,
+   "l": "en",
+   "t": "We need a scalable solution for more users.",
+   "rep": 3
+  },
+  {
+   "start": 933.41,
+   "l": "zh",
+   "t": "我们需要能应对更多用户的可扩展方案。"
+  },
+  {
+   "start": 938.04,
+   "l": "zh",
+   "t": "记忆画面：想象用积木建研究站，需要更多房间时继续加积木，不用推倒整座建筑重新开始。"
+  },
+  {
+   "start": 948.6,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 950.87,
+   "l": "en",
+   "t": "a scalable system."
+  },
+  {
+   "start": 956.54,
+   "l": "de",
+   "t": "ein skalierbares System."
+  },
+  {
+   "start": 963.3,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 967.86,
+   "l": "zh",
+   "t": "第七个词。"
+  },
+  {
+   "start": 970.14,
+   "l": "en",
+   "t": "contingency."
+  },
+  {
+   "start": 972.68,
+   "l": "en",
+   "t": "contingency."
+  },
+  {
+   "start": 975.12,
+   "l": "zh",
+   "t": "名词，指可能发生、需要提前准备的意外情况。最常记的是应急预案这个搭配。德语这里对应紧急情况，搭配则是应急预案。"
+  },
+  {
+   "start": 988.8,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 991.69,
+   "l": "en",
+   "t": "a contingency plan."
+  },
+  {
+   "start": 994.81,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 997.51,
+   "l": "de",
+   "t": "der Notfall."
+  },
+  {
+   "start": 1000.75,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1004.51,
+   "l": "en",
+   "t": "Their contingency plan kept the backup network available.",
+   "rep": 1
+  },
+  {
+   "start": 1011.53,
+   "l": "en",
+   "t": "Their contingency plan kept the backup network available.",
+   "rep": 2
+  },
+  {
+   "start": 1018.55,
+   "l": "en",
+   "t": "Their contingency plan kept the backup network available.",
+   "rep": 3
+  },
+  {
+   "start": 1023.76,
+   "l": "zh",
+   "t": "他们的应急预案确保了备用网络可以使用。"
+  },
+  {
+   "start": 1028.68,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1032.1,
+   "l": "de",
+   "t": "Ihr Notfallplan stellte sicher, dass das Ersatznetz verfügbar blieb.",
+   "rep": 1
+  },
+  {
+   "start": 1041.91,
+   "l": "de",
+   "t": "Ihr Notfallplan stellte sicher, dass das Ersatznetz verfügbar blieb.",
+   "rep": 2
+  },
+  {
+   "start": 1051.71,
+   "l": "de",
+   "t": "Ihr Notfallplan stellte sicher, dass das Ersatznetz verfügbar blieb.",
+   "rep": 3
+  },
+  {
+   "start": 1059.01,
+   "l": "zh",
+   "t": "他们的应急预案确保了备用网络保持可用。"
+  },
+  {
+   "start": 1064.07,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1067.57,
+   "l": "en",
+   "t": "Do we have a contingency plan for server failures?",
+   "rep": 1
+  },
+  {
+   "start": 1073.39,
+   "l": "en",
+   "t": "Do we have a contingency plan for server failures?",
+   "rep": 2
+  },
+  {
+   "start": 1079.21,
+   "l": "en",
+   "t": "Do we have a contingency plan for server failures?",
+   "rep": 3
+  },
+  {
+   "start": 1083.5,
+   "l": "zh",
+   "t": "我们有应对服务器故障的应急预案吗。"
+  },
+  {
+   "start": 1087.85,
+   "l": "zh",
+   "t": "记忆画面：想象主电源开关下面贴着一张纸，写着停电以后先做哪三件事。纸上的步骤就是应急预案。"
+  },
+  {
+   "start": 1100.04,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1102.31,
+   "l": "en",
+   "t": "a contingency plan."
+  },
+  {
+   "start": 1107.93,
+   "l": "de",
+   "t": "ein Notfallplan."
+  },
+  {
+   "start": 1114.07,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1118.63,
+   "l": "zh",
+   "t": "第八个词。"
+  },
+  {
+   "start": 1120.9,
+   "l": "en",
+   "t": "granular."
+  },
+  {
+   "start": 1123.38,
+   "l": "en",
+   "t": "granular."
+  },
+  {
+   "start": 1125.75,
+   "l": "zh",
+   "t": "形容词，在数据和分析里表示细分程度很高。德语通常直接说详细的，不需要逐字照搬。"
+  },
+  {
+   "start": 1136.16,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1139.05,
+   "l": "en",
+   "t": "granular data."
+  },
+  {
+   "start": 1141.57,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1144.27,
+   "l": "de",
+   "t": "detailliert."
+  },
+  {
+   "start": 1147.46,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1151.22,
+   "l": "en",
+   "t": "A granular map revealed movement beneath the ice.",
+   "rep": 1
+  },
+  {
+   "start": 1157.62,
+   "l": "en",
+   "t": "A granular map revealed movement beneath the ice.",
+   "rep": 2
+  },
+  {
+   "start": 1164.02,
+   "l": "en",
+   "t": "A granular map revealed movement beneath the ice.",
+   "rep": 3
+  },
+  {
+   "start": 1168.74,
+   "l": "zh",
+   "t": "一张细致的地图显示了冰层下的移动。"
+  },
+  {
+   "start": 1173.5,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1176.92,
+   "l": "de",
+   "t": "Eine detaillierte Karte zeigte Bewegungen unter dem Eis.",
+   "rep": 1
+  },
+  {
+   "start": 1185.33,
+   "l": "de",
+   "t": "Eine detaillierte Karte zeigte Bewegungen unter dem Eis.",
+   "rep": 2
+  },
+  {
+   "start": 1193.74,
+   "l": "de",
+   "t": "Eine detaillierte Karte zeigte Bewegungen unter dem Eis.",
+   "rep": 3
+  },
+  {
+   "start": 1200.01,
+   "l": "zh",
+   "t": "一张详细地图显示了冰层下的移动。"
+  },
+  {
+   "start": 1204.69,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1208.18,
+   "l": "en",
+   "t": "We need more granular data on monthly spending.",
+   "rep": 1
+  },
+  {
+   "start": 1214.41,
+   "l": "en",
+   "t": "We need more granular data on monthly spending.",
+   "rep": 2
+  },
+  {
+   "start": 1220.64,
+   "l": "en",
+   "t": "We need more granular data on monthly spending.",
+   "rep": 3
+  },
+  {
+   "start": 1225.25,
+   "l": "zh",
+   "t": "我们需要更加细致的每月支出数据。"
+  },
+  {
+   "start": 1229.66,
+   "l": "zh",
+   "t": "记忆画面：想象先看整片沙滩，再用放大镜看清一粒粒沙子。你获得了更细一级的信息。"
+  },
+  {
+   "start": 1240.01,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1242.28,
+   "l": "en",
+   "t": "granular data."
+  },
+  {
+   "start": 1247.3,
+   "l": "de",
+   "t": "detaillierte Daten."
+  },
+  {
+   "start": 1253.66,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1258.22,
+   "l": "zh",
+   "t": "第九个词。"
+  },
+  {
+   "start": 1260.49,
+   "l": "en",
+   "t": "hesitant."
+  },
+  {
+   "start": 1262.96,
+   "l": "en",
+   "t": "hesitant."
+  },
+  {
+   "start": 1265.33,
+   "l": "zh",
+   "t": "形容词，强调拿不定主意或缺乏把握，所以动作停住了。它不一定表示内心不愿意，也可能只是紧张。"
+  },
+  {
+   "start": 1277.06,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1279.96,
+   "l": "en",
+   "t": "hesitant to speak."
+  },
+  {
+   "start": 1282.64,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1285.34,
+   "l": "de",
+   "t": "zögerlich."
+  },
+  {
+   "start": 1288.49,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1292.25,
+   "l": "en",
+   "t": "Mira was hesitant because she did not understand the message.",
+   "rep": 1
+  },
+  {
+   "start": 1299.36,
+   "l": "en",
+   "t": "Mira was hesitant because she did not understand the message.",
+   "rep": 2
+  },
+  {
+   "start": 1306.48,
+   "l": "en",
+   "t": "Mira was hesitant because she did not understand the message.",
+   "rep": 3
+  },
+  {
+   "start": 1311.76,
+   "l": "zh",
+   "t": "米拉很犹豫，因为她还没有理解那条信息。"
+  },
+  {
+   "start": 1316.63,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1320.06,
+   "l": "de",
+   "t": "Mira reagierte zögerlich, weil sie die Nachricht nicht verstand.",
+   "rep": 1
+  },
+  {
+   "start": 1329.69,
+   "l": "de",
+   "t": "Mira reagierte zögerlich, weil sie die Nachricht nicht verstand.",
+   "rep": 2
+  },
+  {
+   "start": 1339.33,
+   "l": "de",
+   "t": "Mira reagierte zögerlich, weil sie die Nachricht nicht verstand.",
+   "rep": 3
+  },
+  {
+   "start": 1346.48,
+   "l": "zh",
+   "t": "米拉反应迟疑，因为她没有理解那条信息。"
+  },
+  {
+   "start": 1351.38,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1354.87,
+   "l": "en",
+   "t": "She was hesitant to ask for help.",
+   "rep": 1
+  },
+  {
+   "start": 1359.64,
+   "l": "en",
+   "t": "She was hesitant to ask for help.",
+   "rep": 2
+  },
+  {
+   "start": 1364.4,
+   "l": "en",
+   "t": "She was hesitant to ask for help.",
+   "rep": 3
+  },
+  {
+   "start": 1367.9,
+   "l": "zh",
+   "t": "她犹豫着要不要请求帮助。"
+  },
+  {
+   "start": 1371.7,
+   "l": "zh",
+   "t": "记忆画面：想象手指停在发送键上，想发，又怕数据还没查清，迟迟没有按下去。"
+  },
+  {
+   "start": 1380.96,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1383.23,
+   "l": "en",
+   "t": "hesitant to speak."
+  },
+  {
+   "start": 1388.42,
+   "l": "de",
+   "t": "zögerlich reagieren."
+  },
+  {
+   "start": 1394.97,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1399.53,
+   "l": "zh",
+   "t": "第十个词。"
+  },
+  {
+   "start": 1401.8,
+   "l": "en",
+   "t": "reluctant."
+  },
+  {
+   "start": 1404.27,
+   "l": "en",
+   "t": "reluctant."
+  },
+  {
+   "start": 1406.64,
+   "l": "zh",
+   "t": "形容词，强调不太愿意做某事。刚才那个词侧重犹豫，这个词侧重意愿不足。德语这个对应词也可以作副词。"
+  },
+  {
+   "start": 1418.97,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1421.87,
+   "l": "en",
+   "t": "reluctant to agree."
+  },
+  {
+   "start": 1424.74,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1427.45,
+   "l": "de",
+   "t": "widerwillig."
+  },
+  {
+   "start": 1430.69,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1434.45,
+   "l": "en",
+   "t": "Mira was reluctant to wake the other scientists.",
+   "rep": 1
+  },
+  {
+   "start": 1440.53,
+   "l": "en",
+   "t": "Mira was reluctant to wake the other scientists.",
+   "rep": 2
+  },
+  {
+   "start": 1446.62,
+   "l": "en",
+   "t": "Mira was reluctant to wake the other scientists.",
+   "rep": 3
+  },
+  {
+   "start": 1451.13,
+   "l": "zh",
+   "t": "米拉不太愿意叫醒其他科学家。"
+  },
+  {
+   "start": 1455.21,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1458.63,
+   "l": "de",
+   "t": "Mira wollte die anderen Wissenschaftler nur widerwillig wecken.",
+   "rep": 1
+  },
+  {
+   "start": 1466.88,
+   "l": "de",
+   "t": "Mira wollte die anderen Wissenschaftler nur widerwillig wecken.",
+   "rep": 2
+  },
+  {
+   "start": 1475.12,
+   "l": "de",
+   "t": "Mira wollte die anderen Wissenschaftler nur widerwillig wecken.",
+   "rep": 3
+  },
+  {
+   "start": 1481.24,
+   "l": "zh",
+   "t": "米拉只是勉强愿意叫醒其他科学家。"
+  },
+  {
+   "start": 1486.02,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1489.51,
+   "l": "en",
+   "t": "He was reluctant to share his results.",
+   "rep": 1
+  },
+  {
+   "start": 1494.71,
+   "l": "en",
+   "t": "He was reluctant to share his results.",
+   "rep": 2
+  },
+  {
+   "start": 1499.9,
+   "l": "en",
+   "t": "He was reluctant to share his results.",
+   "rep": 3
+  },
+  {
+   "start": 1503.74,
+   "l": "zh",
+   "t": "他不太情愿分享自己的研究结果。"
+  },
+  {
+   "start": 1508.09,
+   "l": "zh",
+   "t": "记忆画面：想象你已经知道该点哪个按钮，但不想接受后果，只好勉强伸手。知道怎么做，心里却不愿意。"
+  },
+  {
+   "start": 1519.87,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1522.14,
+   "l": "en",
+   "t": "reluctant to agree."
+  },
+  {
+   "start": 1527.52,
+   "l": "de",
+   "t": "nur widerwillig zustimmen."
+  },
+  {
+   "start": 1534.53,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1539.09,
+   "l": "zh",
+   "t": "第十一个词。"
+  },
+  {
+   "start": 1541.38,
+   "l": "en",
+   "t": "nuanced."
+  },
+  {
+   "start": 1543.86,
+   "l": "en",
+   "t": "nuanced."
+  },
+  {
+   "start": 1546.23,
+   "l": "zh",
+   "t": "形容词，表示注意到了细微差别和不同层面。不是越难懂越符合这个词，而是避免把复杂问题简单分成对和错。"
+  },
+  {
+   "start": 1558.56,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1561.45,
+   "l": "en",
+   "t": "a nuanced view."
+  },
+  {
+   "start": 1564.3,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1567.01,
+   "l": "de",
+   "t": "differenziert."
+  },
+  {
+   "start": 1570.37,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1574.13,
+   "l": "en",
+   "t": "The message offered a nuanced view of the station's future.",
+   "rep": 1
+  },
+  {
+   "start": 1581.29,
+   "l": "en",
+   "t": "The message offered a nuanced view of the station's future.",
+   "rep": 2
+  },
+  {
+   "start": 1588.46,
+   "l": "en",
+   "t": "The message offered a nuanced view of the station's future.",
+   "rep": 3
+  },
+  {
+   "start": 1593.78,
+   "l": "zh",
+   "t": "那条信息对研究站的未来提供了细致而有层次的看法。"
+  },
+  {
+   "start": 1600.34,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1603.76,
+   "l": "de",
+   "t": "Die Nachricht bot eine differenzierte Sicht auf die Zukunft der Station.",
+   "rep": 1
+  },
+  {
+   "start": 1613.28,
+   "l": "de",
+   "t": "Die Nachricht bot eine differenzierte Sicht auf die Zukunft der Station.",
+   "rep": 2
+  },
+  {
+   "start": 1622.79,
+   "l": "de",
+   "t": "Die Nachricht bot eine differenzierte Sicht auf die Zukunft der Station.",
+   "rep": 3
+  },
+  {
+   "start": 1629.87,
+   "l": "zh",
+   "t": "那条信息对研究站的未来提供了有层次的看法。"
+  },
+  {
+   "start": 1635.7,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1639.2,
+   "l": "en",
+   "t": "We need a more nuanced discussion of these results.",
+   "rep": 1
+  },
+  {
+   "start": 1644.88,
+   "l": "en",
+   "t": "We need a more nuanced discussion of these results.",
+   "rep": 2
+  },
+  {
+   "start": 1650.55,
+   "l": "en",
+   "t": "We need a more nuanced discussion of these results.",
+   "rep": 3
+  },
+  {
+   "start": 1654.75,
+   "l": "zh",
+   "t": "我们需要更细致、有层次地讨论这些结果。"
+  },
+  {
+   "start": 1659.79,
+   "l": "zh",
+   "t": "记忆画面：想象调色盘不只有黑白，还有许多深浅不同的灰色。你的判断能分清这些层次。"
+  },
+  {
+   "start": 1670.23,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1672.5,
+   "l": "en",
+   "t": "a nuanced view."
+  },
+  {
+   "start": 1677.86,
+   "l": "de",
+   "t": "eine differenzierte Sichtweise."
+  },
+  {
+   "start": 1685.01,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1689.57,
+   "l": "zh",
+   "t": "第十二个词。"
+  },
+  {
+   "start": 1691.84,
+   "l": "en",
+   "t": "overwhelming."
+  },
+  {
+   "start": 1694.31,
+   "l": "en",
+   "t": "overwhelming."
+  },
+  {
+   "start": 1696.68,
+   "l": "zh",
+   "t": "形容词，表示强烈到让人难以应付。也能修饰证据或支持，表示数量或力量占绝对优势，并不总是负面。"
+  },
+  {
+   "start": 1708.92,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1711.81,
+   "l": "en",
+   "t": "overwhelming pressure."
+  },
+  {
+   "start": 1714.62,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1717.32,
+   "l": "de",
+   "t": "überwältigend."
+  },
+  {
+   "start": 1720.7,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1724.46,
+   "l": "en",
+   "t": "The warning felt overwhelming, so Mira checked one number at a time.",
+   "rep": 1
+  },
+  {
+   "start": 1732.68,
+   "l": "en",
+   "t": "The warning felt overwhelming, so Mira checked one number at a time.",
+   "rep": 2
+  },
+  {
+   "start": 1740.9,
+   "l": "en",
+   "t": "The warning felt overwhelming, so Mira checked one number at a time.",
+   "rep": 3
+  },
+  {
+   "start": 1747.0,
+   "l": "zh",
+   "t": "警告让米拉难以承受，于是她一次核查一个数字。"
+  },
+  {
+   "start": 1753.0,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1756.42,
+   "l": "de",
+   "t": "Die Warnung wirkte überwältigend, deshalb prüfte Mira jede Zahl einzeln.",
+   "rep": 1
+  },
+  {
+   "start": 1767.14,
+   "l": "de",
+   "t": "Die Warnung wirkte überwältigend, deshalb prüfte Mira jede Zahl einzeln.",
+   "rep": 2
+  },
+  {
+   "start": 1777.86,
+   "l": "de",
+   "t": "Die Warnung wirkte überwältigend, deshalb prüfte Mira jede Zahl einzeln.",
+   "rep": 3
+  },
+  {
+   "start": 1785.82,
+   "l": "zh",
+   "t": "警告令人难以承受，因此米拉逐个核查数字。"
+  },
+  {
+   "start": 1791.51,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1795.01,
+   "l": "en",
+   "t": "The amount of work feels overwhelming.",
+   "rep": 1
+  },
+  {
+   "start": 1800.08,
+   "l": "en",
+   "t": "The amount of work feels overwhelming.",
+   "rep": 2
+  },
+  {
+   "start": 1805.16,
+   "l": "en",
+   "t": "The amount of work feels overwhelming.",
+   "rep": 3
+  },
+  {
+   "start": 1808.9,
+   "l": "zh",
+   "t": "工作量大得让人难以承受。"
+  },
+  {
+   "start": 1812.53,
+   "l": "zh",
+   "t": "记忆画面：想象待办事项像海浪一样涌来，桌子越堆越满，你一时不知道先处理哪一件。"
+  },
+  {
+   "start": 1822.25,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1824.52,
+   "l": "en",
+   "t": "overwhelming pressure."
+  },
+  {
+   "start": 1829.82,
+   "l": "de",
+   "t": "überwältigender Druck."
+  },
+  {
+   "start": 1836.18,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1840.74,
+   "l": "zh",
+   "t": "第十三个词。"
+  },
+  {
+   "start": 1843.11,
+   "l": "en",
+   "t": "mitigate."
+  },
+  {
+   "start": 1845.58,
+   "l": "en",
+   "t": "mitigate."
+  },
+  {
+   "start": 1847.96,
+   "l": "zh",
+   "t": "动词，常见于风险、损害和负面影响。它表示减轻程度，不保证把问题完全消除。德语这里用减轻、降低这个动词。"
+  },
+  {
+   "start": 1861.72,
+   "l": "zh",
+   "t": "先听一个常见搭配。"
+  },
+  {
+   "start": 1864.62,
+   "l": "en",
+   "t": "mitigate the risk."
+  },
+  {
+   "start": 1867.3,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1870.01,
+   "l": "de",
+   "t": "mindern."
+  },
+  {
+   "start": 1872.84,
+   "l": "zh",
+   "t": "放回故事场景，英语这样说。"
+  },
+  {
+   "start": 1876.6,
+   "l": "en",
+   "t": "Mira stopped construction to mitigate the risk.",
+   "rep": 1
+  },
+  {
+   "start": 1882.78,
+   "l": "en",
+   "t": "Mira stopped construction to mitigate the risk.",
+   "rep": 2
+  },
+  {
+   "start": 1888.96,
+   "l": "en",
+   "t": "Mira stopped construction to mitigate the risk.",
+   "rep": 3
+  },
+  {
+   "start": 1893.52,
+   "l": "zh",
+   "t": "米拉停止施工，以降低风险。"
+  },
+  {
+   "start": 1897.62,
+   "l": "zh",
+   "t": "同一个场景，德语这样说。"
+  },
+  {
+   "start": 1901.05,
+   "l": "de",
+   "t": "Mira stoppte die Bauarbeiten, um das Risiko zu mindern.",
+   "rep": 1
+  },
+  {
+   "start": 1909.77,
+   "l": "de",
+   "t": "Mira stoppte die Bauarbeiten, um das Risiko zu mindern.",
+   "rep": 2
+  },
+  {
+   "start": 1918.5,
+   "l": "de",
+   "t": "Mira stoppte die Bauarbeiten, um das Risiko zu mindern.",
+   "rep": 3
+  },
+  {
+   "start": 1924.98,
+   "l": "zh",
+   "t": "米拉停止施工，以降低风险。"
+  },
+  {
+   "start": 1929.08,
+   "l": "zh",
+   "t": "再听一个生活或工作例句。"
+  },
+  {
+   "start": 1932.58,
+   "l": "en",
+   "t": "Regular backups help mitigate the risk of data loss.",
+   "rep": 1
+  },
+  {
+   "start": 1939.5,
+   "l": "en",
+   "t": "Regular backups help mitigate the risk of data loss.",
+   "rep": 2
+  },
+  {
+   "start": 1946.42,
+   "l": "en",
+   "t": "Regular backups help mitigate the risk of data loss.",
+   "rep": 3
+  },
+  {
+   "start": 1951.56,
+   "l": "zh",
+   "t": "定期备份有助于降低数据丢失的风险。"
+  },
+  {
+   "start": 1956.6,
+   "l": "zh",
+   "t": "记忆画面：想象雨还在下，你撑起一把伞。雨没有停，但落到身上的水少了，这就是减轻影响。"
+  },
+  {
+   "start": 1967.21,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1969.48,
+   "l": "en",
+   "t": "mitigate the risk."
+  },
+  {
+   "start": 1974.66,
+   "l": "de",
+   "t": "das Risiko mindern."
+  },
+  {
+   "start": 1981.1,
+   "l": "zh",
+   "t": "记住这个场景，接着往下听。"
+  },
+  {
+   "start": 1985.66,
+   "l": "zh",
+   "t": "现在开始小测验。我给出中文情境，请先想出英语，有余力再想德语。每题留四秒，想不起来也没关系，听答案后再说一遍。"
+  },
+  {
+   "start": 2000.1,
+   "l": "zh",
+   "t": "外出办的小事。"
+  },
+  {
+   "start": 2006.21,
+   "l": "en",
+   "t": "errand."
+  },
+  {
+   "start": 2008.48,
+   "l": "de",
+   "t": "die Besorgung."
+  },
+  {
+   "start": 2012.17,
+   "l": "zh",
+   "t": "大量的；重大的。"
+  },
+  {
+   "start": 2018.66,
+   "l": "en",
+   "t": "substantial."
+  },
+  {
+   "start": 2021.06,
+   "l": "de",
+   "t": "erheblich."
+  },
+  {
+   "start": 2024.53,
+   "l": "zh",
+   "t": "互操作性。"
+  },
+  {
+   "start": 2030.4,
+   "l": "en",
+   "t": "interoperability."
+  },
+  {
+   "start": 2033.03,
+   "l": "de",
+   "t": "die Interoperabilität."
+  },
+  {
+   "start": 2037.94,
+   "l": "zh",
+   "t": "已不推荐使用的。"
+  },
+  {
+   "start": 2044.13,
+   "l": "en",
+   "t": "deprecated."
+  },
+  {
+   "start": 2046.4,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 1
+  },
+  {
+   "start": 2052.46,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 2
+  },
+  {
+   "start": 2058.52,
+   "l": "de",
+   "t": "veraltet und nicht mehr empfohlen.",
+   "rep": 3
+  },
+  {
+   "start": 2063.01,
+   "l": "zh",
+   "t": "已不推荐使用的。"
+  },
+  {
+   "start": 2066.19,
+   "l": "zh",
+   "t": "可行的；能实际运作的。"
+  },
+  {
+   "start": 2073.22,
+   "l": "en",
+   "t": "viable."
+  },
+  {
+   "start": 2075.49,
+   "l": "de",
+   "t": "praktikabel."
+  },
+  {
+   "start": 2079.22,
+   "l": "zh",
+   "t": "可扩展的。"
+  },
+  {
+   "start": 2085.1,
+   "l": "en",
+   "t": "scalable."
+  },
+  {
+   "start": 2087.37,
+   "l": "de",
+   "t": "skalierbar."
+  },
+  {
+   "start": 2090.96,
+   "l": "zh",
+   "t": "可能发生的意外情况。"
+  },
+  {
+   "start": 2097.58,
+   "l": "en",
+   "t": "contingency."
+  },
+  {
+   "start": 2099.92,
+   "l": "de",
+   "t": "der Notfall."
+  },
+  {
+   "start": 2103.56,
+   "l": "zh",
+   "t": "细粒度的；详细的。"
+  },
+  {
+   "start": 2110.27,
+   "l": "en",
+   "t": "granular."
+  },
+  {
+   "start": 2112.54,
+   "l": "de",
+   "t": "detailliert."
+  },
+  {
+   "start": 2116.14,
+   "l": "zh",
+   "t": "犹豫的；迟疑的。"
+  },
+  {
+   "start": 2122.61,
+   "l": "en",
+   "t": "hesitant."
+  },
+  {
+   "start": 2124.88,
+   "l": "de",
+   "t": "zögerlich."
+  },
+  {
+   "start": 2128.42,
+   "l": "zh",
+   "t": "不情愿的。"
+  },
+  {
+   "start": 2134.3,
+   "l": "en",
+   "t": "reluctant."
+  },
+  {
+   "start": 2136.57,
+   "l": "de",
+   "t": "widerwillig."
+  },
+  {
+   "start": 2140.21,
+   "l": "zh",
+   "t": "细致有层次的；考虑细微差别的。"
+  },
+  {
+   "start": 2148.1,
+   "l": "en",
+   "t": "nuanced."
+  },
+  {
+   "start": 2150.37,
+   "l": "de",
+   "t": "differenziert."
+  },
+  {
+   "start": 2154.13,
+   "l": "zh",
+   "t": "压倒性的；令人难以承受的。"
+  },
+  {
+   "start": 2161.51,
+   "l": "en",
+   "t": "overwhelming."
+  },
+  {
+   "start": 2163.78,
+   "l": "de",
+   "t": "überwältigend."
+  },
+  {
+   "start": 2167.57,
+   "l": "zh",
+   "t": "缓解；减轻。"
+  },
+  {
+   "start": 2173.8,
+   "l": "en",
+   "t": "mitigate."
+  },
+  {
+   "start": 2176.07,
+   "l": "de",
+   "t": "mindern."
+  },
+  {
+   "start": 2179.3,
+   "l": "zh",
+   "t": "今天就到这里。下次回来时，先试着说出应急预案、细致的数据和降低风险，再重听拿不准的部分。我们下次见。"
+  }
+ ],
+ "video_size": 29736006,
+ "built": "2026-11-19T13:18:04.434711+00:00"
+}
