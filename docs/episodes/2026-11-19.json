@@ -1,0 +1,775 @@
+{
+ "v": 2,
+ "src_hash": "fcb8667840f2a897",
+ "duration": 762,
+ "size": 6096396,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "早上好，欢迎收听今天这一期。今天的新闻既是科技，也是政治。"
+  },
+  {
+   "start": 8.46,
+   "l": "zh",
+   "t": "本周一，美国商务部公布了一套新规定。以后，把高端人工智能芯片卖到新加坡、马来西亚、泰国、印尼和巴西，都要先拿到美国政府的许可。"
+  },
+  {
+   "start": 23.82,
+   "l": "zh",
+   "t": "原因是：美国早就禁止向中国卖这些芯片，但有人经第三国转运，也有中国公司在海外数据中心租用算力。新规就是要堵上这些路。"
+  },
+  {
+   "start": 38.11,
+   "l": "zh",
+   "t": "周二，中国商务部和外交部都表示强烈不满，说如果美国坚持这么做，中国会采取反制措施。这类新闻，英语的关键词是："
+  },
+  {
+   "start": 51.73,
+   "l": "en",
+   "t": "export controls."
+  },
+  {
+   "start": 54.61,
+   "l": "zh",
+   "t": "德语是："
+  },
+  {
+   "start": 56.78,
+   "l": "de",
+   "t": "die Exportkontrollen."
+  },
+  {
+   "start": 60.81,
+   "l": "zh",
+   "t": "字面意思就是：对出口的管控。"
+  },
+  {
+   "start": 64.94,
+   "l": "zh",
+   "t": "开始之前，先复习上一期的两个词。前景、展望，在财报里指公司对下个季度的预测。"
+  },
+  {
+   "start": 77.49,
+   "l": "en",
+   "t": "outlook."
+  },
+  {
+   "start": 79.76,
+   "l": "de",
+   "t": "der Ausblick."
+  },
+  {
+   "start": 83.45,
+   "l": "zh",
+   "t": "恢复原职，让人回到原来的位置上。"
+  },
+  {
+   "start": 90.34,
+   "l": "en",
+   "t": "reinstate."
+  },
+  {
+   "start": 92.61,
+   "l": "de",
+   "t": "wieder einsetzen."
+  },
+  {
+   "start": 96.68,
+   "l": "zh",
+   "t": "今天学五个词。我们开始。"
+  },
+  {
+   "start": 101.56,
+   "l": "zh",
+   "t": "第一个词。"
+  },
+  {
+   "start": 103.83,
+   "l": "en",
+   "t": "curb."
+  },
+  {
+   "start": 106.3,
+   "l": "en",
+   "t": "curb."
+  },
+  {
+   "start": 108.67,
+   "l": "zh",
+   "t": "这个词可以做名词，也可以做动词，意思是限制、遏制，让某件事不再继续扩大。新闻里特别爱用它的复数形式，表示一系列限制措施："
+  },
+  {
+   "start": 123.64,
+   "l": "en",
+   "t": "new curbs on chip exports."
+  },
+  {
+   "start": 126.76,
+   "l": "zh",
+   "t": "做动词也很常见，比如遏制通货膨胀："
+  },
+  {
+   "start": 131.69,
+   "l": "en",
+   "t": "curb inflation."
+  },
+  {
+   "start": 134.3,
+   "l": "zh",
+   "t": "德语里，名词是："
+  },
+  {
+   "start": 137.1,
+   "l": "de",
+   "t": "die Einschränkung."
+  },
+  {
+   "start": 140.65,
+   "l": "zh",
+   "t": "动词是："
+  },
+  {
+   "start": 142.82,
+   "l": "de",
+   "t": "einschränken."
+  },
+  {
+   "start": 145.97,
+   "l": "zh",
+   "t": "后半部分是一个形容词，意思是窄。把一个东西往里收窄，就是限制。"
+  },
+  {
+   "start": 153.93,
+   "l": "zh",
+   "t": "新闻里，英语这样说："
+  },
+  {
+   "start": 157.04,
+   "l": "en",
+   "t": "Washington has announced new curbs on China's access to advanced AI chips."
+  },
+  {
+   "start": 163.3,
+   "l": "zh",
+   "t": "德语这样说："
+  },
+  {
+   "start": 165.48,
+   "l": "de",
+   "t": "Die USA schränken den Export von KI-Chips weiter ein."
+  },
+  {
+   "start": 171.41,
+   "l": "zh",
+   "t": "生活里："
+  },
+  {
+   "start": 173.58,
+   "l": "en",
+   "t": "I'm trying to curb my coffee habit."
+  },
+  {
+   "start": 176.64,
+   "l": "zh",
+   "t": "我在努力少喝点咖啡。"
+  },
+  {
+   "start": 179.91,
+   "l": "zh",
+   "t": "记忆画面：这个词本来指马路边高出来的那道石头边沿。车一开偏，轮子碰到它就被挡住，不让你冲出去。德语的画面是把宽路收成窄路。"
+  },
+  {
+   "start": 195.51,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 197.78,
+   "l": "en",
+   "t": "new curbs."
+  },
+  {
+   "start": 202.68,
+   "l": "de",
+   "t": "die Einschränkung."
+  },
+  {
+   "start": 208.63,
+   "l": "zh",
+   "t": "这是第一个。"
+  },
+  {
+   "start": 211.7,
+   "l": "zh",
+   "t": "第二个词。"
+  },
+  {
+   "start": 213.97,
+   "l": "en",
+   "t": "loophole."
+  },
+  {
+   "start": 216.44,
+   "l": "en",
+   "t": "loophole."
+  },
+  {
+   "start": 218.82,
+   "l": "zh",
+   "t": "重音在前面。"
+  },
+  {
+   "start": 221.11,
+   "l": "en",
+   "t": "LOOP-hole, loophole."
+  },
+  {
+   "start": 223.96,
+   "l": "zh",
+   "t": "意思是漏洞，特别是法律、规定里的漏洞：没违反规定，却钻了空子。最常见的搭配是堵上漏洞："
+  },
+  {
+   "start": 234.63,
+   "l": "en",
+   "t": "close a loophole."
+  },
+  {
+   "start": 237.32,
+   "l": "zh",
+   "t": "和利用漏洞："
+  },
+  {
+   "start": 239.49,
+   "l": "en",
+   "t": "exploit a loophole."
+  },
+  {
+   "start": 242.56,
+   "l": "zh",
+   "t": "德语是一个特别形象的词："
+  },
+  {
+   "start": 245.84,
+   "l": "de",
+   "t": "das Schlupfloch."
+  },
+  {
+   "start": 249.22,
+   "l": "zh",
+   "t": "前半部分是钻过去、溜过去，后半部分是洞。字面意思就是能让人溜过去的小洞。"
+  },
+  {
+   "start": 258.36,
+   "l": "zh",
+   "t": "新闻里，英语这样说："
+  },
+  {
+   "start": 261.47,
+   "l": "en",
+   "t": "The new rule is meant to close a loophole that let Chinese firms rent chips abroad."
+  },
+  {
+   "start": 267.71,
+   "l": "zh",
+   "t": "德语这样说："
+  },
+  {
+   "start": 269.88,
+   "l": "de",
+   "t": "Die neuen Regeln sollen Schlupflöcher im Exportverbot schließen."
+  },
+  {
+   "start": 276.01,
+   "l": "zh",
+   "t": "生活里，比如税："
+  },
+  {
+   "start": 278.78,
+   "l": "en",
+   "t": "Their accountant found a loophole in the tax rules."
+  },
+  {
+   "start": 282.92,
+   "l": "zh",
+   "t": "他们的会计在税务规定里找到了一个空子。"
+  },
+  {
+   "start": 288.16,
+   "l": "zh",
+   "t": "记忆画面：一张结实的大网，网上却有一个小圆洞，一条聪明的鱼扭着身子，从洞里溜了出去。网就是规定，那个洞就是这个词。"
+  },
+  {
+   "start": 301.55,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 303.82,
+   "l": "en",
+   "t": "close a loophole."
+  },
+  {
+   "start": 308.91,
+   "l": "de",
+   "t": "das Schlupfloch."
+  },
+  {
+   "start": 314.69,
+   "l": "zh",
+   "t": "这是第二个。"
+  },
+  {
+   "start": 317.76,
+   "l": "zh",
+   "t": "第三个词。"
+  },
+  {
+   "start": 320.04,
+   "l": "en",
+   "t": "circumvent."
+  },
+  {
+   "start": 322.58,
+   "l": "en",
+   "t": "circumvent."
+  },
+  {
+   "start": 325.02,
+   "l": "zh",
+   "t": "这个词有三个音节，重音在最后。"
+  },
+  {
+   "start": 329.14,
+   "l": "en",
+   "t": "cir-cum-VENT, circumvent."
+  },
+  {
+   "start": 333.32,
+   "l": "zh",
+   "t": "意思是规避、绕开，通常指绕开规定、禁令或者限制。它比较正式，口语里常用一个短语代替："
+  },
+  {
+   "start": 344.44,
+   "l": "en",
+   "t": "get around."
+  },
+  {
+   "start": 346.91,
+   "l": "zh",
+   "t": "新闻里常见的搭配是："
+  },
+  {
+   "start": 350.04,
+   "l": "en",
+   "t": "circumvent the ban."
+  },
+  {
+   "start": 353.09,
+   "l": "zh",
+   "t": "德语是一个不可分动词："
+  },
+  {
+   "start": 356.25,
+   "l": "de",
+   "t": "umgehen."
+  },
+  {
+   "start": 359.13,
+   "l": "zh",
+   "t": "这里重音在后面。重音放在前面时，是另一个意思：对待、打交道。"
+  },
+  {
+   "start": 367.24,
+   "l": "zh",
+   "t": "新闻里，英语这样说："
+  },
+  {
+   "start": 370.34,
+   "l": "en",
+   "t": "Some buyers circumvented the ban by shipping chips through third countries."
+  },
+  {
+   "start": 375.91,
+   "l": "zh",
+   "t": "德语这样说："
+  },
+  {
+   "start": 378.08,
+   "l": "de",
+   "t": "Über Drittländer wurde das Verbot bisher umgangen."
+  },
+  {
+   "start": 383.18,
+   "l": "zh",
+   "t": "生活里："
+  },
+  {
+   "start": 385.35,
+   "l": "en",
+   "t": "We found a way to circumvent the waiting list."
+  },
+  {
+   "start": 388.87,
+   "l": "zh",
+   "t": "我们找到了一个绕开排队名单的办法。"
+  },
+  {
+   "start": 393.38,
+   "l": "zh",
+   "t": "记忆小技巧：这个词的前半部分，和英语里的圆圈、周围是同一个词根，后半部分来自走。合起来，就是绕着圈走过去。想象前面有一道路障，你没有硬闯，而是沿着它画了个半圆，从旁边溜过去了。德语也是：往四周，走。"
+  },
+  {
+   "start": 416.71,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 418.98,
+   "l": "en",
+   "t": "circumvent the ban."
+  },
+  {
+   "start": 424.43,
+   "l": "de",
+   "t": "das Verbot umgehen."
+  },
+  {
+   "start": 431.0,
+   "l": "zh",
+   "t": "这是第三个。"
+  },
+  {
+   "start": 434.1,
+   "l": "zh",
+   "t": "第四个，是一个短语。"
+  },
+  {
+   "start": 437.21,
+   "l": "en",
+   "t": "licensing requirement."
+  },
+  {
+   "start": 440.48,
+   "l": "en",
+   "t": "licensing requirement."
+  },
+  {
+   "start": 443.64,
+   "l": "zh",
+   "t": "意思是许可要求，也就是做某件事之前，必须先拿到官方的许可。新规定一出来，就说某样东西受到许可要求的约束："
+  },
+  {
+   "start": 456.78,
+   "l": "en",
+   "t": "be subject to a licensing requirement."
+  },
+  {
+   "start": 460.5,
+   "l": "zh",
+   "t": "德语只用一个复合词："
+  },
+  {
+   "start": 463.46,
+   "l": "de",
+   "t": "die Lizenzpflicht."
+  },
+  {
+   "start": 467.3,
+   "l": "zh",
+   "t": "另一个常见的说法是："
+  },
+  {
+   "start": 470.12,
+   "l": "de",
+   "t": "die Genehmigungspflicht."
+  },
+  {
+   "start": 474.35,
+   "l": "zh",
+   "t": "后半部分的意思是义务。在德国，这个词尾到处都是，比如保险义务："
+  },
+  {
+   "start": 482.16,
+   "l": "de",
+   "t": "die Versicherungspflicht."
+  },
+  {
+   "start": 486.48,
+   "l": "zh",
+   "t": "新闻里，英语这样说："
+  },
+  {
+   "start": 489.59,
+   "l": "en",
+   "t": "Chip shipments to Singapore and Malaysia now face a licensing requirement."
+  },
+  {
+   "start": 495.64,
+   "l": "zh",
+   "t": "德语这样说："
+  },
+  {
+   "start": 497.81,
+   "l": "de",
+   "t": "Für Lieferungen nach Singapur und Malaysia gilt jetzt eine Lizenzpflicht."
+  },
+  {
+   "start": 505.04,
+   "l": "zh",
+   "t": "生活里："
+  },
+  {
+   "start": 507.21,
+   "l": "en",
+   "t": "Street food stalls are subject to strict licensing requirements."
+  },
+  {
+   "start": 512.1,
+   "l": "zh",
+   "t": "街边小吃摊要遵守严格的许可要求。"
+  },
+  {
+   "start": 516.82,
+   "l": "zh",
+   "t": "记忆画面：一辆装满芯片的卡车开到海关，栏杆放下来了。海关人员伸出手：许可证呢？没有那张盖了章的纸，栏杆就不会抬起来。德语更直接：许可，加上义务，必须要有许可。"
+  },
+  {
+   "start": 536.41,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 538.68,
+   "l": "en",
+   "t": "licensing requirement."
+  },
+  {
+   "start": 544.34,
+   "l": "de",
+   "t": "die Lizenzpflicht."
+  },
+  {
+   "start": 550.58,
+   "l": "zh",
+   "t": "这是第四个。"
+  },
+  {
+   "start": 553.7,
+   "l": "zh",
+   "t": "最后一个词。"
+  },
+  {
+   "start": 555.98,
+   "l": "en",
+   "t": "retaliate."
+  },
+  {
+   "start": 558.45,
+   "l": "en",
+   "t": "retaliate."
+  },
+  {
+   "start": 560.82,
+   "l": "zh",
+   "t": "这个词有四个音节，重音在第二个。"
+  },
+  {
+   "start": 565.06,
+   "l": "en",
+   "t": "re-TAL-i-ate, retaliate."
+  },
+  {
+   "start": 568.9,
+   "l": "zh",
+   "t": "意思是报复、反击：别人先出手，你再回敬过去。国际新闻里常和贸易、制裁一起出现："
+  },
+  {
+   "start": 579.35,
+   "l": "en",
+   "t": "retaliate against new sanctions."
+  },
+  {
+   "start": 583.45,
+   "l": "zh",
+   "t": "名词是："
+  },
+  {
+   "start": 585.62,
+   "l": "en",
+   "t": "retaliation."
+  },
+  {
+   "start": 588.31,
+   "l": "zh",
+   "t": "德语有一个比较重的说法："
+  },
+  {
+   "start": 591.37,
+   "l": "de",
+   "t": "Vergeltung üben."
+  },
+  {
+   "start": 595.04,
+   "l": "zh",
+   "t": "新闻里更常见的，是一个官方的说法，采取反制措施："
+  },
+  {
+   "start": 601.08,
+   "l": "de",
+   "t": "Gegenmaßnahmen ergreifen."
+  },
+  {
+   "start": 605.52,
+   "l": "zh",
+   "t": "前半部分是反对、相对，后面是措施。"
+  },
+  {
+   "start": 610.48,
+   "l": "zh",
+   "t": "新闻里，英语这样说："
+  },
+  {
+   "start": 613.59,
+   "l": "en",
+   "t": "Beijing warned that it would retaliate if Washington goes ahead."
+  },
+  {
+   "start": 618.34,
+   "l": "zh",
+   "t": "德语这样说："
+  },
+  {
+   "start": 620.52,
+   "l": "de",
+   "t": "Peking droht mit Gegenmaßnahmen, falls die USA an den Regeln festhalten."
+  },
+  {
+   "start": 628.2,
+   "l": "zh",
+   "t": "生活里："
+  },
+  {
+   "start": 630.37,
+   "l": "en",
+   "t": "When his brother took his toy, the boy retaliated by hiding his shoes."
+  },
+  {
+   "start": 636.32,
+   "l": "zh",
+   "t": "哥哥拿走了他的玩具，小男孩就把哥哥的鞋藏起来，以示报复。"
+  },
+  {
+   "start": 643.06,
+   "l": "zh",
+   "t": "记忆小技巧：这个词的前半部分表示回来，中间的部分和古代的一条法律有关，就是以眼还眼、以牙还牙。所以这个词就是：你给我一拳，我原样还你一拳。德语反制措施的画面也一样：你出一招，我对着你再出一招。"
+  },
+  {
+   "start": 665.48,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 667.75,
+   "l": "en",
+   "t": "retaliate."
+  },
+  {
+   "start": 672.62,
+   "l": "de",
+   "t": "Gegenmaßnahmen ergreifen."
+  },
+  {
+   "start": 679.46,
+   "l": "zh",
+   "t": "五个词都学完了。"
+  },
+  {
+   "start": 682.82,
+   "l": "zh",
+   "t": "最后来个小测验。我说中文，你先在心里说出英语和德语。"
+  },
+  {
+   "start": 690.4,
+   "l": "zh",
+   "t": "限制、遏制。"
+  },
+  {
+   "start": 696.65,
+   "l": "en",
+   "t": "curbs."
+  },
+  {
+   "start": 698.92,
+   "l": "de",
+   "t": "die Einschränkung."
+  },
+  {
+   "start": 702.88,
+   "l": "zh",
+   "t": "法规里的漏洞、空子。"
+  },
+  {
+   "start": 709.64,
+   "l": "en",
+   "t": "loophole."
+  },
+  {
+   "start": 711.91,
+   "l": "de",
+   "t": "das Schlupfloch."
+  },
+  {
+   "start": 715.69,
+   "l": "zh",
+   "t": "规避、绕开。"
+  },
+  {
+   "start": 721.83,
+   "l": "en",
+   "t": "circumvent."
+  },
+  {
+   "start": 724.17,
+   "l": "de",
+   "t": "umgehen."
+  },
+  {
+   "start": 727.45,
+   "l": "zh",
+   "t": "许可要求。"
+  },
+  {
+   "start": 733.32,
+   "l": "en",
+   "t": "licensing requirement."
+  },
+  {
+   "start": 736.39,
+   "l": "de",
+   "t": "die Lizenzpflicht."
+  },
+  {
+   "start": 740.63,
+   "l": "zh",
+   "t": "报复、反击。"
+  },
+  {
+   "start": 746.76,
+   "l": "en",
+   "t": "retaliate."
+  },
+  {
+   "start": 749.04,
+   "l": "de",
+   "t": "Gegenmaßnahmen ergreifen."
+  },
+  {
+   "start": 753.88,
+   "l": "zh",
+   "t": "今天就到这里。下次再听新闻的时候，留意这些词。我们明天见。"
+  }
+ ],
+ "video_size": 11409191,
+ "built": "2026-11-19T05:50:34.537780+00:00"
+}
