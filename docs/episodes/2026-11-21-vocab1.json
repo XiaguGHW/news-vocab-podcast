@@ -1,0 +1,1526 @@
+{
+ "v": 3,
+ "src_hash": "4c91fff655658f76",
+ "duration": 1256,
+ "size": 10046946,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "欢迎收听英语德语词汇专题。今天学习如何表达名称、收集、保留和组成等概念。"
+  },
+  {
+   "start": 10.74,
+   "l": "zh",
+   "t": "我们会用工作和生活中的例子理解每个表达，最后一起做个小测验。"
+  },
+  {
+   "start": 17.98,
+   "l": "zh",
+   "t": "第一个词。"
+  },
+  {
+   "start": 20.26,
+   "l": "en",
+   "t": "designation."
+  },
+  {
+   "start": 22.78,
+   "l": "en",
+   "t": "designation."
+  },
+  {
+   "start": 25.2,
+   "l": "zh",
+   "t": "名词，指正式名称或用来标识某物的叫法。"
+  },
+  {
+   "start": 30.56,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 33.03,
+   "l": "en",
+   "t": "the product designation."
+  },
+  {
+   "start": 36.17,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 38.87,
+   "l": "de",
+   "t": "die Bezeichnung."
+  },
+  {
+   "start": 42.18,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 45.8,
+   "l": "en",
+   "t": "The designation appears in the technical document.",
+   "rep": 1
+  },
+  {
+   "start": 52.03,
+   "l": "en",
+   "t": "The designation appears in the technical document.",
+   "rep": 2
+  },
+  {
+   "start": 58.26,
+   "l": "en",
+   "t": "The designation appears in the technical document.",
+   "rep": 3
+  },
+  {
+   "start": 62.86,
+   "l": "zh",
+   "t": "名称出现在技术文件中。"
+  },
+  {
+   "start": 66.42,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 68.95,
+   "l": "de",
+   "t": "Die Bezeichnung steht im technischen Dokument.",
+   "rep": 1
+  },
+  {
+   "start": 75.95,
+   "l": "de",
+   "t": "Die Bezeichnung steht im technischen Dokument.",
+   "rep": 2
+  },
+  {
+   "start": 82.94,
+   "l": "de",
+   "t": "Die Bezeichnung steht im technischen Dokument.",
+   "rep": 3
+  },
+  {
+   "start": 88.13,
+   "l": "zh",
+   "t": "名称写在技术文件里。"
+  },
+  {
+   "start": 91.66,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 94.74,
+   "l": "en",
+   "t": "Check the designation on the food package.",
+   "rep": 1
+  },
+  {
+   "start": 100.06,
+   "l": "en",
+   "t": "Check the designation on the food package.",
+   "rep": 2
+  },
+  {
+   "start": 105.38,
+   "l": "en",
+   "t": "Check the designation on the food package.",
+   "rep": 3
+  },
+  {
+   "start": 109.31,
+   "l": "zh",
+   "t": "看看食品包装上的名称。"
+  },
+  {
+   "start": 112.89,
+   "l": "zh",
+   "t": "记忆画面：想象一个盒子上贴着清楚的名称标签。"
+  },
+  {
+   "start": 118.91,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 121.18,
+   "l": "en",
+   "t": "the product designation."
+  },
+  {
+   "start": 126.82,
+   "l": "de",
+   "t": "Die Produktbezeichnung."
+  },
+  {
+   "start": 133.33,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 137.1,
+   "l": "zh",
+   "t": "第二个词。"
+  },
+  {
+   "start": 139.37,
+   "l": "en",
+   "t": "retrieve."
+  },
+  {
+   "start": 141.86,
+   "l": "en",
+   "t": "retrieve."
+  },
+  {
+   "start": 144.26,
+   "l": "zh",
+   "t": "动词，强调从已有位置找出并取回信息或物品。"
+  },
+  {
+   "start": 150.23,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 152.69,
+   "l": "en",
+   "t": "retrieve a file."
+  },
+  {
+   "start": 155.42,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 158.13,
+   "l": "de",
+   "t": "abrufen."
+  },
+  {
+   "start": 161.27,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 164.89,
+   "l": "en",
+   "t": "She retrieved the report from the database.",
+   "rep": 1
+  },
+  {
+   "start": 170.28,
+   "l": "en",
+   "t": "She retrieved the report from the database.",
+   "rep": 2
+  },
+  {
+   "start": 175.66,
+   "l": "en",
+   "t": "She retrieved the report from the database.",
+   "rep": 3
+  },
+  {
+   "start": 179.65,
+   "l": "zh",
+   "t": "她从数据库中调出了报告。"
+  },
+  {
+   "start": 183.32,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 185.86,
+   "l": "de",
+   "t": "Sie rief den Bericht aus der Datenbank ab.",
+   "rep": 1
+  },
+  {
+   "start": 192.59,
+   "l": "de",
+   "t": "Sie rief den Bericht aus der Datenbank ab.",
+   "rep": 2
+  },
+  {
+   "start": 199.32,
+   "l": "de",
+   "t": "Sie rief den Bericht aus der Datenbank ab.",
+   "rep": 3
+  },
+  {
+   "start": 204.31,
+   "l": "zh",
+   "t": "她从数据库中调出了报告。"
+  },
+  {
+   "start": 207.98,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 211.07,
+   "l": "en",
+   "t": "He retrieved his keys from the drawer.",
+   "rep": 1
+  },
+  {
+   "start": 216.39,
+   "l": "en",
+   "t": "He retrieved his keys from the drawer.",
+   "rep": 2
+  },
+  {
+   "start": 221.7,
+   "l": "en",
+   "t": "He retrieved his keys from the drawer.",
+   "rep": 3
+  },
+  {
+   "start": 225.64,
+   "l": "zh",
+   "t": "他从抽屉里取回钥匙。"
+  },
+  {
+   "start": 228.93,
+   "l": "zh",
+   "t": "记忆画面：想象伸手进抽屉，把需要的东西找出来。"
+  },
+  {
+   "start": 235.1,
+   "l": "en",
+   "t": "retrieved."
+  },
+  {
+   "start": 237.52,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 239.79,
+   "l": "en",
+   "t": "retrieve a file."
+  },
+  {
+   "start": 245.02,
+   "l": "de",
+   "t": "eine Datei abrufen."
+  },
+  {
+   "start": 251.55,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 255.32,
+   "l": "zh",
+   "t": "第三个词。"
+  },
+  {
+   "start": 257.59,
+   "l": "en",
+   "t": "retain."
+  },
+  {
+   "start": 260.06,
+   "l": "en",
+   "t": "retain."
+  },
+  {
+   "start": 262.43,
+   "l": "zh",
+   "t": "动词，指继续保留某物，筛选后留下数据也可以用。"
+  },
+  {
+   "start": 268.71,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 271.18,
+   "l": "en",
+   "t": "retain useful data."
+  },
+  {
+   "start": 274.27,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 276.97,
+   "l": "de",
+   "t": "behalten."
+  },
+  {
+   "start": 280.02,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 283.64,
+   "l": "en",
+   "t": "We retained the records with complete information.",
+   "rep": 1
+  },
+  {
+   "start": 289.65,
+   "l": "en",
+   "t": "We retained the records with complete information.",
+   "rep": 2
+  },
+  {
+   "start": 295.66,
+   "l": "en",
+   "t": "We retained the records with complete information.",
+   "rep": 3
+  },
+  {
+   "start": 300.1,
+   "l": "zh",
+   "t": "我们保留了信息完整的记录。"
+  },
+  {
+   "start": 303.65,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 306.19,
+   "l": "de",
+   "t": "Wir behielten die vollständigen Einträge.",
+   "rep": 1
+  },
+  {
+   "start": 313.3,
+   "l": "de",
+   "t": "Wir behielten die vollständigen Einträge.",
+   "rep": 2
+  },
+  {
+   "start": 320.42,
+   "l": "de",
+   "t": "Wir behielten die vollständigen Einträge.",
+   "rep": 3
+  },
+  {
+   "start": 325.7,
+   "l": "zh",
+   "t": "我们保留了完整的记录。"
+  },
+  {
+   "start": 328.84,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 331.93,
+   "l": "en",
+   "t": "She retained the old family photos.",
+   "rep": 1
+  },
+  {
+   "start": 337.13,
+   "l": "en",
+   "t": "She retained the old family photos.",
+   "rep": 2
+  },
+  {
+   "start": 342.32,
+   "l": "en",
+   "t": "She retained the old family photos.",
+   "rep": 3
+  },
+  {
+   "start": 346.16,
+   "l": "zh",
+   "t": "她保留了旧的家庭照片。"
+  },
+  {
+   "start": 349.52,
+   "l": "zh",
+   "t": "记忆画面：想象整理抽屉时，把想留下的照片放进盒子。"
+  },
+  {
+   "start": 356.48,
+   "l": "en",
+   "t": "retained."
+  },
+  {
+   "start": 358.86,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 361.13,
+   "l": "en",
+   "t": "retain useful data."
+  },
+  {
+   "start": 366.72,
+   "l": "de",
+   "t": "nützliche Daten behalten."
+  },
+  {
+   "start": 373.7,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 377.47,
+   "l": "zh",
+   "t": "第四个词。"
+  },
+  {
+   "start": 379.74,
+   "l": "en",
+   "t": "compile."
+  },
+  {
+   "start": 382.0,
+   "l": "en",
+   "t": "compile."
+  },
+  {
+   "start": 384.37,
+   "l": "zh",
+   "t": "动词，指把不同来源的材料收集、整理成一份清单或资料。"
+  },
+  {
+   "start": 391.35,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 393.81,
+   "l": "en",
+   "t": "compile a list."
+  },
+  {
+   "start": 396.62,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 399.32,
+   "l": "de",
+   "t": "zusammenstellen."
+  },
+  {
+   "start": 402.85,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 406.46,
+   "l": "en",
+   "t": "She compiled the results into a report.",
+   "rep": 1
+  },
+  {
+   "start": 411.71,
+   "l": "en",
+   "t": "She compiled the results into a report.",
+   "rep": 2
+  },
+  {
+   "start": 416.95,
+   "l": "en",
+   "t": "She compiled the results into a report.",
+   "rep": 3
+  },
+  {
+   "start": 420.82,
+   "l": "zh",
+   "t": "她把结果整理成一份报告。"
+  },
+  {
+   "start": 424.46,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 427.0,
+   "l": "de",
+   "t": "Sie stellte die Ergebnisse in einem Bericht zusammen.",
+   "rep": 1
+  },
+  {
+   "start": 434.57,
+   "l": "de",
+   "t": "Sie stellte die Ergebnisse in einem Bericht zusammen.",
+   "rep": 2
+  },
+  {
+   "start": 442.14,
+   "l": "de",
+   "t": "Sie stellte die Ergebnisse in einem Bericht zusammen.",
+   "rep": 3
+  },
+  {
+   "start": 447.76,
+   "l": "zh",
+   "t": "她把结果汇总在一份报告中。"
+  },
+  {
+   "start": 451.58,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 454.66,
+   "l": "en",
+   "t": "We compiled a list of places to visit.",
+   "rep": 1
+  },
+  {
+   "start": 460.0,
+   "l": "en",
+   "t": "We compiled a list of places to visit.",
+   "rep": 2
+  },
+  {
+   "start": 465.34,
+   "l": "en",
+   "t": "We compiled a list of places to visit.",
+   "rep": 3
+  },
+  {
+   "start": 469.28,
+   "l": "zh",
+   "t": "我们整理了一份想去的地方的清单。"
+  },
+  {
+   "start": 473.36,
+   "l": "zh",
+   "t": "记忆画面：想象把散落的纸张收集起来，装订成一本册子。"
+  },
+  {
+   "start": 480.13,
+   "l": "en",
+   "t": "compiled."
+  },
+  {
+   "start": 482.5,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 484.77,
+   "l": "en",
+   "t": "compile a list."
+  },
+  {
+   "start": 490.08,
+   "l": "de",
+   "t": "eine Liste zusammenstellen."
+  },
+  {
+   "start": 496.89,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 500.66,
+   "l": "zh",
+   "t": "第五个词。"
+  },
+  {
+   "start": 502.93,
+   "l": "en",
+   "t": "supplementary."
+  },
+  {
+   "start": 505.62,
+   "l": "en",
+   "t": "supplementary."
+  },
+  {
+   "start": 508.21,
+   "l": "zh",
+   "t": "形容词，表示为主要内容提供更多信息或材料。"
+  },
+  {
+   "start": 514.03,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 516.5,
+   "l": "en",
+   "t": "supplementary material."
+  },
+  {
+   "start": 519.68,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 522.39,
+   "l": "de",
+   "t": "ergänzend."
+  },
+  {
+   "start": 525.58,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 529.2,
+   "l": "en",
+   "t": "The supplementary material explains the experimental setup.",
+   "rep": 1
+  },
+  {
+   "start": 536.77,
+   "l": "en",
+   "t": "The supplementary material explains the experimental setup.",
+   "rep": 2
+  },
+  {
+   "start": 544.34,
+   "l": "en",
+   "t": "The supplementary material explains the experimental setup.",
+   "rep": 3
+  },
+  {
+   "start": 549.96,
+   "l": "zh",
+   "t": "补充材料解释了实验设置。"
+  },
+  {
+   "start": 553.87,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 556.4,
+   "l": "de",
+   "t": "Das ergänzende Material erklärt den Versuchsaufbau.",
+   "rep": 1
+  },
+  {
+   "start": 564.41,
+   "l": "de",
+   "t": "Das ergänzende Material erklärt den Versuchsaufbau.",
+   "rep": 2
+  },
+  {
+   "start": 572.41,
+   "l": "de",
+   "t": "Das ergänzende Material erklärt den Versuchsaufbau.",
+   "rep": 3
+  },
+  {
+   "start": 578.36,
+   "l": "zh",
+   "t": "补充材料解释了实验设置。"
+  },
+  {
+   "start": 582.28,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 585.36,
+   "l": "en",
+   "t": "She packed a supplementary blanket for the trip.",
+   "rep": 1
+  },
+  {
+   "start": 591.04,
+   "l": "en",
+   "t": "She packed a supplementary blanket for the trip.",
+   "rep": 2
+  },
+  {
+   "start": 596.72,
+   "l": "en",
+   "t": "She packed a supplementary blanket for the trip.",
+   "rep": 3
+  },
+  {
+   "start": 600.92,
+   "l": "zh",
+   "t": "她为旅途额外带了一条毯子。"
+  },
+  {
+   "start": 604.61,
+   "l": "zh",
+   "t": "记忆画面：想象一本书的最后多放了几页，帮你了解更多。"
+  },
+  {
+   "start": 611.43,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 613.7,
+   "l": "en",
+   "t": "supplementary material."
+  },
+  {
+   "start": 619.39,
+   "l": "de",
+   "t": "ergänzendes Material."
+  },
+  {
+   "start": 626.11,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 629.88,
+   "l": "zh",
+   "t": "第六个词。"
+  },
+  {
+   "start": 632.15,
+   "l": "en",
+   "t": "constitute."
+  },
+  {
+   "start": 634.62,
+   "l": "en",
+   "t": "constitute."
+  },
+  {
+   "start": 636.99,
+   "l": "zh",
+   "t": "动词，表示各部分构成整体，句子主语是组成整体的部分。"
+  },
+  {
+   "start": 643.97,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 646.43,
+   "l": "en",
+   "t": "constitute a team."
+  },
+  {
+   "start": 649.38,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 652.08,
+   "l": "de",
+   "t": "bilden."
+  },
+  {
+   "start": 654.82,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 658.44,
+   "l": "en",
+   "t": "These five sections constitute the final report.",
+   "rep": 1
+  },
+  {
+   "start": 664.66,
+   "l": "en",
+   "t": "These five sections constitute the final report.",
+   "rep": 2
+  },
+  {
+   "start": 670.89,
+   "l": "en",
+   "t": "These five sections constitute the final report.",
+   "rep": 3
+  },
+  {
+   "start": 675.5,
+   "l": "zh",
+   "t": "这五个部分构成最终报告。"
+  },
+  {
+   "start": 679.27,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 681.8,
+   "l": "de",
+   "t": "Diese fünf Abschnitte bilden den Abschlussbericht.",
+   "rep": 1
+  },
+  {
+   "start": 689.45,
+   "l": "de",
+   "t": "Diese fünf Abschnitte bilden den Abschlussbericht.",
+   "rep": 2
+  },
+  {
+   "start": 697.09,
+   "l": "de",
+   "t": "Diese fünf Abschnitte bilden den Abschlussbericht.",
+   "rep": 3
+  },
+  {
+   "start": 702.78,
+   "l": "zh",
+   "t": "这五个部分构成最终报告。"
+  },
+  {
+   "start": 706.55,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 709.64,
+   "l": "en",
+   "t": "Three bedrooms and a kitchen constitute the apartment.",
+   "rep": 1
+  },
+  {
+   "start": 716.49,
+   "l": "en",
+   "t": "Three bedrooms and a kitchen constitute the apartment.",
+   "rep": 2
+  },
+  {
+   "start": 723.34,
+   "l": "en",
+   "t": "Three bedrooms and a kitchen constitute the apartment.",
+   "rep": 3
+  },
+  {
+   "start": 728.43,
+   "l": "zh",
+   "t": "三间卧室和一间厨房组成了这套公寓。"
+  },
+  {
+   "start": 733.49,
+   "l": "zh",
+   "t": "记忆画面：想象几个拼图块拼成一幅完整的图，部分放在句首。"
+  },
+  {
+   "start": 740.98,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 743.25,
+   "l": "en",
+   "t": "constitute a team."
+  },
+  {
+   "start": 748.7,
+   "l": "de",
+   "t": "ein Team bilden."
+  },
+  {
+   "start": 754.68,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 758.44,
+   "l": "zh",
+   "t": "第七个词。"
+  },
+  {
+   "start": 760.72,
+   "l": "en",
+   "t": "comprise."
+  },
+  {
+   "start": 763.19,
+   "l": "en",
+   "t": "comprise."
+  },
+  {
+   "start": 765.56,
+   "l": "zh",
+   "t": "动词，表示整体包含各部分，与刚才的构成方向相反。"
+  },
+  {
+   "start": 771.94,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 774.4,
+   "l": "en",
+   "t": "comprise three parts."
+  },
+  {
+   "start": 777.54,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 780.24,
+   "l": "de",
+   "t": "umfassen."
+  },
+  {
+   "start": 783.32,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 786.93,
+   "l": "en",
+   "t": "The report comprises five main sections.",
+   "rep": 1
+  },
+  {
+   "start": 792.73,
+   "l": "en",
+   "t": "The report comprises five main sections.",
+   "rep": 2
+  },
+  {
+   "start": 798.52,
+   "l": "en",
+   "t": "The report comprises five main sections.",
+   "rep": 3
+  },
+  {
+   "start": 802.82,
+   "l": "zh",
+   "t": "这份报告包含五个主要部分。"
+  },
+  {
+   "start": 806.68,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 809.22,
+   "l": "de",
+   "t": "Der Bericht umfasst fünf Hauptabschnitte.",
+   "rep": 1
+  },
+  {
+   "start": 816.05,
+   "l": "de",
+   "t": "Der Bericht umfasst fünf Hauptabschnitte.",
+   "rep": 2
+  },
+  {
+   "start": 822.88,
+   "l": "de",
+   "t": "Der Bericht umfasst fünf Hauptabschnitte.",
+   "rep": 3
+  },
+  {
+   "start": 827.94,
+   "l": "zh",
+   "t": "这份报告包含五个主要部分。"
+  },
+  {
+   "start": 831.8,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 834.89,
+   "l": "en",
+   "t": "The meal comprises soup, rice, and vegetables.",
+   "rep": 1
+  },
+  {
+   "start": 841.77,
+   "l": "en",
+   "t": "The meal comprises soup, rice, and vegetables.",
+   "rep": 2
+  },
+  {
+   "start": 848.64,
+   "l": "en",
+   "t": "The meal comprises soup, rice, and vegetables.",
+   "rep": 3
+  },
+  {
+   "start": 853.73,
+   "l": "zh",
+   "t": "这顿饭包括汤、米饭和蔬菜。"
+  },
+  {
+   "start": 858.05,
+   "l": "zh",
+   "t": "记忆画面：想象打开一个大盒子，里面装着几个小盒子；整体放在句首。"
+  },
+  {
+   "start": 866.31,
+   "l": "en",
+   "t": "comprises."
+  },
+  {
+   "start": 868.78,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 871.05,
+   "l": "en",
+   "t": "comprise three parts."
+  },
+  {
+   "start": 876.69,
+   "l": "de",
+   "t": "drei Teile umfassen."
+  },
+  {
+   "start": 883.31,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 887.08,
+   "l": "zh",
+   "t": "第八个词。"
+  },
+  {
+   "start": 889.35,
+   "l": "en",
+   "t": "in-house."
+  },
+  {
+   "start": 891.82,
+   "l": "en",
+   "t": "in-house."
+  },
+  {
+   "start": 894.2,
+   "l": "zh",
+   "t": "形容词或副词，表示在公司或组织内部完成，而非交给外部。"
+  },
+  {
+   "start": 901.53,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 904.0,
+   "l": "en",
+   "t": "in-house training."
+  },
+  {
+   "start": 906.68,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 909.38,
+   "l": "de",
+   "t": "intern."
+  },
+  {
+   "start": 912.82,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 916.43,
+   "l": "en",
+   "t": "The company developed the tool in-house.",
+   "rep": 1
+  },
+  {
+   "start": 921.44,
+   "l": "en",
+   "t": "The company developed the tool in-house.",
+   "rep": 2
+  },
+  {
+   "start": 926.44,
+   "l": "en",
+   "t": "The company developed the tool in-house.",
+   "rep": 3
+  },
+  {
+   "start": 930.14,
+   "l": "zh",
+   "t": "公司在内部开发了这个工具。"
+  },
+  {
+   "start": 934.02,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 936.56,
+   "l": "de",
+   "t": "Das Unternehmen entwickelte das Werkzeug intern.",
+   "rep": 1
+  },
+  {
+   "start": 944.61,
+   "l": "de",
+   "t": "Das Unternehmen entwickelte das Werkzeug intern.",
+   "rep": 2
+  },
+  {
+   "start": 952.66,
+   "l": "de",
+   "t": "Das Unternehmen entwickelte das Werkzeug intern.",
+   "rep": 3
+  },
+  {
+   "start": 958.64,
+   "l": "zh",
+   "t": "公司在内部开发了这个工具。"
+  },
+  {
+   "start": 962.53,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 965.62,
+   "l": "en",
+   "t": "The hotel has an in-house bakery.",
+   "rep": 1
+  },
+  {
+   "start": 970.62,
+   "l": "en",
+   "t": "The hotel has an in-house bakery.",
+   "rep": 2
+  },
+  {
+   "start": 975.62,
+   "l": "en",
+   "t": "The hotel has an in-house bakery.",
+   "rep": 3
+  },
+  {
+   "start": 979.32,
+   "l": "zh",
+   "t": "这家酒店有自己的内部面包房。"
+  },
+  {
+   "start": 983.45,
+   "l": "zh",
+   "t": "记忆画面：想象房子里的人自己动手完成工作，不用请外人。"
+  },
+  {
+   "start": 990.46,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 992.73,
+   "l": "en",
+   "t": "in-house training."
+  },
+  {
+   "start": 997.91,
+   "l": "de",
+   "t": "interne Schulung."
+  },
+  {
+   "start": 1003.91,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 1007.68,
+   "l": "zh",
+   "t": "第九个词。"
+  },
+  {
+   "start": 1009.95,
+   "l": "en",
+   "t": "eligible."
+  },
+  {
+   "start": 1012.3,
+   "l": "en",
+   "t": "eligible."
+  },
+  {
+   "start": 1014.68,
+   "l": "zh",
+   "t": "形容词，表示满足参加、获得或申请某事的条件。常与介词搭配。"
+  },
+  {
+   "start": 1022.97,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 1025.44,
+   "l": "en",
+   "t": "eligible for support."
+  },
+  {
+   "start": 1028.43,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 1031.14,
+   "l": "de",
+   "t": "berechtigt."
+  },
+  {
+   "start": 1034.26,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 1037.87,
+   "l": "en",
+   "t": "Students are eligible for financial support.",
+   "rep": 1
+  },
+  {
+   "start": 1043.67,
+   "l": "en",
+   "t": "Students are eligible for financial support.",
+   "rep": 2
+  },
+  {
+   "start": 1049.46,
+   "l": "en",
+   "t": "Students are eligible for financial support.",
+   "rep": 3
+  },
+  {
+   "start": 1053.76,
+   "l": "zh",
+   "t": "学生符合获得资助的条件。"
+  },
+  {
+   "start": 1057.72,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 1060.26,
+   "l": "de",
+   "t": "Studierende sind zu finanzieller Unterstützung berechtigt.",
+   "rep": 1
+  },
+  {
+   "start": 1068.67,
+   "l": "de",
+   "t": "Studierende sind zu finanzieller Unterstützung berechtigt.",
+   "rep": 2
+  },
+  {
+   "start": 1077.08,
+   "l": "de",
+   "t": "Studierende sind zu finanzieller Unterstützung berechtigt.",
+   "rep": 3
+  },
+  {
+   "start": 1083.34,
+   "l": "zh",
+   "t": "学生有资格获得经济资助。"
+  },
+  {
+   "start": 1087.3,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 1090.39,
+   "l": "en",
+   "t": "Are we eligible for a family discount?",
+   "rep": 1
+  },
+  {
+   "start": 1095.32,
+   "l": "en",
+   "t": "Are we eligible for a family discount?",
+   "rep": 2
+  },
+  {
+   "start": 1100.26,
+   "l": "en",
+   "t": "Are we eligible for a family discount?",
+   "rep": 3
+  },
+  {
+   "start": 1103.9,
+   "l": "zh",
+   "t": "我们符合家庭折扣的条件吗？"
+  },
+  {
+   "start": 1107.67,
+   "l": "zh",
+   "t": "记忆画面：想象一张条件清单，满足要求后在名字旁打勾。"
+  },
+  {
+   "start": 1114.85,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 1117.12,
+   "l": "en",
+   "t": "eligible for support."
+  },
+  {
+   "start": 1122.62,
+   "l": "de",
+   "t": "für Unterstützung berechtigt."
+  },
+  {
+   "start": 1129.7,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 1133.46,
+   "l": "zh",
+   "t": "现在开始小测验。听到中文后，先想英语，再试着想德语。"
+  },
+  {
+   "start": 1141.33,
+   "l": "zh",
+   "t": "名称；称谓。"
+  },
+  {
+   "start": 1147.51,
+   "l": "en",
+   "t": "designation."
+  },
+  {
+   "start": 1149.83,
+   "l": "de",
+   "t": "die Bezeichnung."
+  },
+  {
+   "start": 1153.54,
+   "l": "zh",
+   "t": "检索；取回。"
+  },
+  {
+   "start": 1159.7,
+   "l": "en",
+   "t": "retrieve."
+  },
+  {
+   "start": 1162.0,
+   "l": "de",
+   "t": "abrufen."
+  },
+  {
+   "start": 1165.54,
+   "l": "zh",
+   "t": "保留。"
+  },
+  {
+   "start": 1171.42,
+   "l": "en",
+   "t": "retain."
+  },
+  {
+   "start": 1173.69,
+   "l": "de",
+   "t": "behalten."
+  },
+  {
+   "start": 1177.14,
+   "l": "zh",
+   "t": "收集整理；汇编。"
+  },
+  {
+   "start": 1183.68,
+   "l": "en",
+   "t": "compile."
+  },
+  {
+   "start": 1185.95,
+   "l": "de",
+   "t": "zusammenstellen."
+  },
+  {
+   "start": 1189.88,
+   "l": "zh",
+   "t": "补充的；附加的。"
+  },
+  {
+   "start": 1196.35,
+   "l": "en",
+   "t": "supplementary."
+  },
+  {
+   "start": 1198.84,
+   "l": "de",
+   "t": "ergänzend."
+  },
+  {
+   "start": 1202.43,
+   "l": "zh",
+   "t": "构成；组成。"
+  },
+  {
+   "start": 1208.69,
+   "l": "en",
+   "t": "constitute."
+  },
+  {
+   "start": 1210.96,
+   "l": "de",
+   "t": "bilden."
+  },
+  {
+   "start": 1214.1,
+   "l": "zh",
+   "t": "包含；由……组成。"
+  },
+  {
+   "start": 1220.81,
+   "l": "en",
+   "t": "comprise."
+  },
+  {
+   "start": 1223.08,
+   "l": "de",
+   "t": "umfassen."
+  },
+  {
+   "start": 1226.55,
+   "l": "zh",
+   "t": "内部的；在内部。"
+  },
+  {
+   "start": 1233.02,
+   "l": "en",
+   "t": "in-house."
+  },
+  {
+   "start": 1235.3,
+   "l": "de",
+   "t": "intern."
+  },
+  {
+   "start": 1239.13,
+   "l": "zh",
+   "t": "符合条件的；有资格的。"
+  },
+  {
+   "start": 1246.3,
+   "l": "en",
+   "t": "eligible."
+  },
+  {
+   "start": 1248.57,
+   "l": "de",
+   "t": "berechtigt."
+  },
+  {
+   "start": 1252.09,
+   "l": "zh",
+   "t": "今天就到这里，我们下次见。"
+  }
+ ],
+ "video_size": 15626113,
+ "built": "2026-11-20T23:34:23.808142+00:00"
+}

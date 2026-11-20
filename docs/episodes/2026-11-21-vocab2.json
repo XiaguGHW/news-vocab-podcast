@@ -1,0 +1,1137 @@
+{
+ "v": 3,
+ "src_hash": "8c7c66a438110cf0",
+ "duration": 955,
+ "size": 7641173,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "欢迎收听英语德语词汇专题。今天学习如何表达实施、审核、修改以及后续影响。"
+  },
+  {
+   "start": 10.96,
+   "l": "zh",
+   "t": "我们会用工作和生活中的例子理解每个表达，最后一起做个小测验。"
+  },
+  {
+   "start": 18.2,
+   "l": "zh",
+   "t": "第一个词。"
+  },
+  {
+   "start": 20.47,
+   "l": "en",
+   "t": "carry out."
+  },
+  {
+   "start": 22.94,
+   "l": "en",
+   "t": "carry out."
+  },
+  {
+   "start": 25.32,
+   "l": "zh",
+   "t": "动词短语，表示把计划、调查或任务付诸实施。过去式是后面听到的形式。"
+  },
+  {
+   "start": 34.52,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 36.99,
+   "l": "en",
+   "t": "carry out a study."
+  },
+  {
+   "start": 39.7,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 42.4,
+   "l": "de",
+   "t": "durchführen."
+  },
+  {
+   "start": 45.59,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 49.21,
+   "l": "en",
+   "t": "The team carried out a detailed survey.",
+   "rep": 1
+  },
+  {
+   "start": 54.55,
+   "l": "en",
+   "t": "The team carried out a detailed survey.",
+   "rep": 2
+  },
+  {
+   "start": 59.89,
+   "l": "en",
+   "t": "The team carried out a detailed survey.",
+   "rep": 3
+  },
+  {
+   "start": 63.82,
+   "l": "zh",
+   "t": "团队开展了一项详细调查。"
+  },
+  {
+   "start": 67.54,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 70.08,
+   "l": "de",
+   "t": "Das Team führte eine ausführliche Umfrage durch.",
+   "rep": 1
+  },
+  {
+   "start": 77.48,
+   "l": "de",
+   "t": "Das Team führte eine ausführliche Umfrage durch.",
+   "rep": 2
+  },
+  {
+   "start": 84.89,
+   "l": "de",
+   "t": "Das Team führte eine ausführliche Umfrage durch.",
+   "rep": 3
+  },
+  {
+   "start": 90.38,
+   "l": "zh",
+   "t": "团队开展了一项详细调查。"
+  },
+  {
+   "start": 94.1,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 97.19,
+   "l": "en",
+   "t": "We carried out our plan to clean the garden.",
+   "rep": 1
+  },
+  {
+   "start": 102.44,
+   "l": "en",
+   "t": "We carried out our plan to clean the garden.",
+   "rep": 2
+  },
+  {
+   "start": 107.68,
+   "l": "en",
+   "t": "We carried out our plan to clean the garden.",
+   "rep": 3
+  },
+  {
+   "start": 111.54,
+   "l": "zh",
+   "t": "我们实施了清理花园的计划。"
+  },
+  {
+   "start": 115.24,
+   "l": "zh",
+   "t": "记忆画面：想象把纸上的计划拿到现实中，一步步完成。"
+  },
+  {
+   "start": 121.94,
+   "l": "en",
+   "t": "carried out."
+  },
+  {
+   "start": 124.31,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 126.58,
+   "l": "en",
+   "t": "carry out a study."
+  },
+  {
+   "start": 131.79,
+   "l": "de",
+   "t": "eine Studie durchführen."
+  },
+  {
+   "start": 138.63,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 142.4,
+   "l": "zh",
+   "t": "第二个词。"
+  },
+  {
+   "start": 144.67,
+   "l": "en",
+   "t": "review against."
+  },
+  {
+   "start": 147.36,
+   "l": "en",
+   "t": "review against."
+  },
+  {
+   "start": 149.94,
+   "l": "zh",
+   "t": "表达方式，意思是把某项内容与规则或标准对照检查。具体对象放在两个部分之间。"
+  },
+  {
+   "start": 159.87,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 162.34,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 1
+  },
+  {
+   "start": 166.84,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 2
+  },
+  {
+   "start": 171.34,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 3
+  },
+  {
+   "start": 174.65,
+   "l": "zh",
+   "t": "依据某标准审核。"
+  },
+  {
+   "start": 177.62,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 180.32,
+   "l": "de",
+   "t": "anhand von etwas überprüfen."
+  },
+  {
+   "start": 185.27,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 188.88,
+   "l": "en",
+   "t": "We reviewed the design against the safety rules.",
+   "rep": 1
+  },
+  {
+   "start": 194.56,
+   "l": "en",
+   "t": "We reviewed the design against the safety rules.",
+   "rep": 2
+  },
+  {
+   "start": 200.24,
+   "l": "en",
+   "t": "We reviewed the design against the safety rules.",
+   "rep": 3
+  },
+  {
+   "start": 204.44,
+   "l": "zh",
+   "t": "我们依据安全规则审核了设计。"
+  },
+  {
+   "start": 208.66,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 211.2,
+   "l": "de",
+   "t": "Wir prüften den Entwurf anhand der Sicherheitsregeln.",
+   "rep": 1
+  },
+  {
+   "start": 219.2,
+   "l": "de",
+   "t": "Wir prüften den Entwurf anhand der Sicherheitsregeln.",
+   "rep": 2
+  },
+  {
+   "start": 227.2,
+   "l": "de",
+   "t": "Wir prüften den Entwurf anhand der Sicherheitsregeln.",
+   "rep": 3
+  },
+  {
+   "start": 233.16,
+   "l": "zh",
+   "t": "我们依据安全规则审核了设计。"
+  },
+  {
+   "start": 237.38,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 240.47,
+   "l": "en",
+   "t": "Review the bill against the menu prices.",
+   "rep": 1
+  },
+  {
+   "start": 245.78,
+   "l": "en",
+   "t": "Review the bill against the menu prices.",
+   "rep": 2
+  },
+  {
+   "start": 251.1,
+   "l": "en",
+   "t": "Review the bill against the menu prices.",
+   "rep": 3
+  },
+  {
+   "start": 255.04,
+   "l": "zh",
+   "t": "对照菜单价格检查账单。"
+  },
+  {
+   "start": 258.76,
+   "l": "zh",
+   "t": "记忆画面：想象一只手拿着账单，另一只手拿着菜单，逐项对照。"
+  },
+  {
+   "start": 266.39,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 268.66,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 1
+  },
+  {
+   "start": 273.16,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 2
+  },
+  {
+   "start": 277.66,
+   "l": "en",
+   "t": "review a plan against rules.",
+   "rep": 3
+  },
+  {
+   "start": 280.97,
+   "l": "zh",
+   "t": "依据某标准审核。"
+  },
+  {
+   "start": 286.44,
+   "l": "de",
+   "t": "einen Plan anhand von Regeln prüfen.",
+   "rep": 1
+  },
+  {
+   "start": 293.37,
+   "l": "de",
+   "t": "einen Plan anhand von Regeln prüfen.",
+   "rep": 2
+  },
+  {
+   "start": 300.29,
+   "l": "de",
+   "t": "einen Plan anhand von Regeln prüfen.",
+   "rep": 3
+  },
+  {
+   "start": 305.43,
+   "l": "zh",
+   "t": "依据某标准审核。"
+  },
+  {
+   "start": 310.9,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 314.67,
+   "l": "zh",
+   "t": "第三个词。"
+  },
+  {
+   "start": 316.94,
+   "l": "en",
+   "t": "revise."
+  },
+  {
+   "start": 319.41,
+   "l": "en",
+   "t": "revise."
+  },
+  {
+   "start": 321.78,
+   "l": "zh",
+   "t": "动词，指检查后修改已有内容。过去式和过去分词是后面听到的形式。"
+  },
+  {
+   "start": 330.34,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 332.81,
+   "l": "en",
+   "t": "revise a draft."
+  },
+  {
+   "start": 335.59,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 338.29,
+   "l": "de",
+   "t": "überarbeiten."
+  },
+  {
+   "start": 341.65,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 345.27,
+   "l": "en",
+   "t": "She revised the draft after the meeting.",
+   "rep": 1
+  },
+  {
+   "start": 350.63,
+   "l": "en",
+   "t": "She revised the draft after the meeting.",
+   "rep": 2
+  },
+  {
+   "start": 356.0,
+   "l": "en",
+   "t": "She revised the draft after the meeting.",
+   "rep": 3
+  },
+  {
+   "start": 359.96,
+   "l": "zh",
+   "t": "会议结束后她修订了草稿。"
+  },
+  {
+   "start": 363.82,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 366.36,
+   "l": "de",
+   "t": "Sie überarbeitete den Entwurf nach der Besprechung.",
+   "rep": 1
+  },
+  {
+   "start": 374.77,
+   "l": "de",
+   "t": "Sie überarbeitete den Entwurf nach der Besprechung.",
+   "rep": 2
+  },
+  {
+   "start": 383.18,
+   "l": "de",
+   "t": "Sie überarbeitete den Entwurf nach der Besprechung.",
+   "rep": 3
+  },
+  {
+   "start": 389.44,
+   "l": "zh",
+   "t": "会议后她修改了草稿。"
+  },
+  {
+   "start": 392.9,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 395.99,
+   "l": "en",
+   "t": "We revised our travel plans after the storm.",
+   "rep": 1
+  },
+  {
+   "start": 402.02,
+   "l": "en",
+   "t": "We revised our travel plans after the storm.",
+   "rep": 2
+  },
+  {
+   "start": 408.06,
+   "l": "en",
+   "t": "We revised our travel plans after the storm.",
+   "rep": 3
+  },
+  {
+   "start": 412.52,
+   "l": "zh",
+   "t": "暴风雨后我们修改了旅行计划。"
+  },
+  {
+   "start": 416.63,
+   "l": "zh",
+   "t": "记忆画面：想象用铅笔在草稿上圈出需要改进的地方，再写出新版本。"
+  },
+  {
+   "start": 424.64,
+   "l": "en",
+   "t": "revised."
+  },
+  {
+   "start": 427.02,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 429.29,
+   "l": "en",
+   "t": "revise a draft."
+  },
+  {
+   "start": 434.57,
+   "l": "de",
+   "t": "einen Entwurf überarbeiten."
+  },
+  {
+   "start": 442.03,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 445.8,
+   "l": "zh",
+   "t": "第四个词。"
+  },
+  {
+   "start": 448.07,
+   "l": "en",
+   "t": "in line with."
+  },
+  {
+   "start": 450.62,
+   "l": "en",
+   "t": "in line with."
+  },
+  {
+   "start": 453.06,
+   "l": "zh",
+   "t": "短语，可以表示按照规则，也可以表示与结果或观点一致。"
+  },
+  {
+   "start": 459.92,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 462.38,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 1
+  },
+  {
+   "start": 466.33,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 2
+  },
+  {
+   "start": 470.28,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 3
+  },
+  {
+   "start": 473.18,
+   "l": "zh",
+   "t": "按照；符合；与……一致。"
+  },
+  {
+   "start": 477.16,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 479.86,
+   "l": "de",
+   "t": "im Einklang mit."
+  },
+  {
+   "start": 483.44,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 487.06,
+   "l": "en",
+   "t": "The design was changed in line with the rules.",
+   "rep": 1
+  },
+  {
+   "start": 492.97,
+   "l": "en",
+   "t": "The design was changed in line with the rules.",
+   "rep": 2
+  },
+  {
+   "start": 498.89,
+   "l": "en",
+   "t": "The design was changed in line with the rules.",
+   "rep": 3
+  },
+  {
+   "start": 503.26,
+   "l": "zh",
+   "t": "设计按照规则进行了修改。"
+  },
+  {
+   "start": 507.02,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 509.56,
+   "l": "de",
+   "t": "Der Entwurf wurde im Einklang mit den Regeln geändert.",
+   "rep": 1
+  },
+  {
+   "start": 517.66,
+   "l": "de",
+   "t": "Der Entwurf wurde im Einklang mit den Regeln geändert.",
+   "rep": 2
+  },
+  {
+   "start": 525.76,
+   "l": "de",
+   "t": "Der Entwurf wurde im Einklang mit den Regeln geändert.",
+   "rep": 3
+  },
+  {
+   "start": 531.76,
+   "l": "zh",
+   "t": "设计按照规则进行了修改。"
+  },
+  {
+   "start": 535.53,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 538.62,
+   "l": "en",
+   "t": "We chose a meal in line with our budget.",
+   "rep": 1
+  },
+  {
+   "start": 543.74,
+   "l": "en",
+   "t": "We chose a meal in line with our budget.",
+   "rep": 2
+  },
+  {
+   "start": 548.86,
+   "l": "en",
+   "t": "We chose a meal in line with our budget.",
+   "rep": 3
+  },
+  {
+   "start": 552.66,
+   "l": "zh",
+   "t": "我们按照预算选择了一顿饭。"
+  },
+  {
+   "start": 556.5,
+   "l": "zh",
+   "t": "记忆画面：想象把一张纸的边缘对齐尺子，让它和标准保持一致。"
+  },
+  {
+   "start": 563.98,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 566.26,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 1
+  },
+  {
+   "start": 570.2,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 2
+  },
+  {
+   "start": 574.15,
+   "l": "en",
+   "t": "in line with the rules.",
+   "rep": 3
+  },
+  {
+   "start": 577.06,
+   "l": "zh",
+   "t": "按照；符合；与……一致。"
+  },
+  {
+   "start": 583.54,
+   "l": "de",
+   "t": "im Einklang mit den Regeln.",
+   "rep": 1
+  },
+  {
+   "start": 589.07,
+   "l": "de",
+   "t": "im Einklang mit den Regeln.",
+   "rep": 2
+  },
+  {
+   "start": 594.6,
+   "l": "de",
+   "t": "im Einklang mit den Regeln.",
+   "rep": 3
+  },
+  {
+   "start": 598.68,
+   "l": "zh",
+   "t": "按照；符合；与……一致。"
+  },
+  {
+   "start": 605.16,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 608.93,
+   "l": "zh",
+   "t": "第五个词。"
+  },
+  {
+   "start": 611.2,
+   "l": "en",
+   "t": "subsequent."
+  },
+  {
+   "start": 613.67,
+   "l": "en",
+   "t": "subsequent."
+  },
+  {
+   "start": 616.04,
+   "l": "zh",
+   "t": "形容词，修饰后面发生的事情，语气比较正式。"
+  },
+  {
+   "start": 621.82,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 624.28,
+   "l": "en",
+   "t": "a subsequent meeting."
+  },
+  {
+   "start": 627.3,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 630.01,
+   "l": "de",
+   "t": "anschließend."
+  },
+  {
+   "start": 633.2,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 636.82,
+   "l": "en",
+   "t": "The subsequent review identified several errors.",
+   "rep": 1
+  },
+  {
+   "start": 643.36,
+   "l": "en",
+   "t": "The subsequent review identified several errors.",
+   "rep": 2
+  },
+  {
+   "start": 649.9,
+   "l": "en",
+   "t": "The subsequent review identified several errors.",
+   "rep": 3
+  },
+  {
+   "start": 654.74,
+   "l": "zh",
+   "t": "随后的审核发现了几个错误。"
+  },
+  {
+   "start": 658.73,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 661.26,
+   "l": "de",
+   "t": "Die anschließende Prüfung fand mehrere Fehler.",
+   "rep": 1
+  },
+  {
+   "start": 668.6,
+   "l": "de",
+   "t": "Die anschließende Prüfung fand mehrere Fehler.",
+   "rep": 2
+  },
+  {
+   "start": 675.93,
+   "l": "de",
+   "t": "Die anschließende Prüfung fand mehrere Fehler.",
+   "rep": 3
+  },
+  {
+   "start": 681.38,
+   "l": "zh",
+   "t": "随后的审核发现了几个错误。"
+  },
+  {
+   "start": 685.36,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 688.45,
+   "l": "en",
+   "t": "The rain stopped during our subsequent walk.",
+   "rep": 1
+  },
+  {
+   "start": 694.03,
+   "l": "en",
+   "t": "The rain stopped during our subsequent walk.",
+   "rep": 2
+  },
+  {
+   "start": 699.61,
+   "l": "en",
+   "t": "The rain stopped during our subsequent walk.",
+   "rep": 3
+  },
+  {
+   "start": 703.74,
+   "l": "zh",
+   "t": "我们随后散步时雨停了。"
+  },
+  {
+   "start": 707.29,
+   "l": "zh",
+   "t": "记忆画面：想象日历上两件事排在一起，第二件紧接着第一件。"
+  },
+  {
+   "start": 714.75,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 717.02,
+   "l": "en",
+   "t": "a subsequent meeting."
+  },
+  {
+   "start": 722.54,
+   "l": "de",
+   "t": "eine anschließende Besprechung."
+  },
+  {
+   "start": 729.84,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 733.61,
+   "l": "zh",
+   "t": "第六个词。"
+  },
+  {
+   "start": 735.88,
+   "l": "en",
+   "t": "implication."
+  },
+  {
+   "start": 738.42,
+   "l": "en",
+   "t": "implication."
+  },
+  {
+   "start": 740.87,
+   "l": "zh",
+   "t": "名词，常用复数，表示一件事对其他事情意味着什么，或可能带来什么影响。"
+  },
+  {
+   "start": 749.28,
+   "l": "zh",
+   "t": "常见搭配是。"
+  },
+  {
+   "start": 751.75,
+   "l": "en",
+   "t": "implications for the project."
+  },
+  {
+   "start": 755.39,
+   "l": "zh",
+   "t": "德语对应表达是。"
+  },
+  {
+   "start": 758.1,
+   "l": "de",
+   "t": "die Auswirkung."
+  },
+  {
+   "start": 761.62,
+   "l": "zh",
+   "t": "先听工作或学习中的例句。"
+  },
+  {
+   "start": 765.24,
+   "l": "en",
+   "t": "We discussed the implications for the project.",
+   "rep": 1
+  },
+  {
+   "start": 770.82,
+   "l": "en",
+   "t": "We discussed the implications for the project.",
+   "rep": 2
+  },
+  {
+   "start": 776.4,
+   "l": "en",
+   "t": "We discussed the implications for the project.",
+   "rep": 3
+  },
+  {
+   "start": 780.53,
+   "l": "zh",
+   "t": "我们讨论了这对项目的影响。"
+  },
+  {
+   "start": 784.1,
+   "l": "zh",
+   "t": "德语可以这样说。"
+  },
+  {
+   "start": 786.64,
+   "l": "de",
+   "t": "Wir besprachen die Auswirkungen auf das Projekt.",
+   "rep": 1
+  },
+  {
+   "start": 793.9,
+   "l": "de",
+   "t": "Wir besprachen die Auswirkungen auf das Projekt.",
+   "rep": 2
+  },
+  {
+   "start": 801.16,
+   "l": "de",
+   "t": "Wir besprachen die Auswirkungen auf das Projekt.",
+   "rep": 3
+  },
+  {
+   "start": 806.54,
+   "l": "zh",
+   "t": "我们讨论了对项目的影响。"
+  },
+  {
+   "start": 809.97,
+   "l": "zh",
+   "t": "再听一个生活中的例句。"
+  },
+  {
+   "start": 813.06,
+   "l": "en",
+   "t": "Consider the implications before buying a house.",
+   "rep": 1
+  },
+  {
+   "start": 819.24,
+   "l": "en",
+   "t": "Consider the implications before buying a house.",
+   "rep": 2
+  },
+  {
+   "start": 825.42,
+   "l": "en",
+   "t": "Consider the implications before buying a house.",
+   "rep": 3
+  },
+  {
+   "start": 829.98,
+   "l": "zh",
+   "t": "买房前要考虑可能带来的影响。"
+  },
+  {
+   "start": 834.15,
+   "l": "zh",
+   "t": "记忆画面：想象石子落进水里，水面上的一圈圈波纹就是后续影响。"
+  },
+  {
+   "start": 842.17,
+   "l": "en",
+   "t": "implications."
+  },
+  {
+   "start": 844.76,
+   "l": "zh",
+   "t": "跟我读。"
+  },
+  {
+   "start": 847.03,
+   "l": "en",
+   "t": "implications for the project."
+  },
+  {
+   "start": 853.17,
+   "l": "de",
+   "t": "Auswirkungen auf das Projekt."
+  },
+  {
+   "start": 860.4,
+   "l": "zh",
+   "t": "接着听下一个表达。"
+  },
+  {
+   "start": 864.16,
+   "l": "zh",
+   "t": "现在开始小测验。听到中文后，先想英语，再试着想德语。"
+  },
+  {
+   "start": 872.03,
+   "l": "zh",
+   "t": "开展；实施；执行。"
+  },
+  {
+   "start": 879.12,
+   "l": "en",
+   "t": "carry out."
+  },
+  {
+   "start": 881.4,
+   "l": "de",
+   "t": "durchführen."
+  },
+  {
+   "start": 884.99,
+   "l": "zh",
+   "t": "依据某标准审核。"
+  },
+  {
+   "start": 891.46,
+   "l": "en",
+   "t": "review against."
+  },
+  {
+   "start": 893.95,
+   "l": "de",
+   "t": "anhand von etwas überprüfen."
+  },
+  {
+   "start": 899.29,
+   "l": "zh",
+   "t": "修订；修改。"
+  },
+  {
+   "start": 905.52,
+   "l": "en",
+   "t": "revise."
+  },
+  {
+   "start": 907.8,
+   "l": "de",
+   "t": "überarbeiten."
+  },
+  {
+   "start": 911.56,
+   "l": "zh",
+   "t": "按照；符合；与……一致。"
+  },
+  {
+   "start": 919.04,
+   "l": "en",
+   "t": "in line with."
+  },
+  {
+   "start": 921.38,
+   "l": "de",
+   "t": "im Einklang mit."
+  },
+  {
+   "start": 925.36,
+   "l": "zh",
+   "t": "随后的；后续的。"
+  },
+  {
+   "start": 931.85,
+   "l": "en",
+   "t": "subsequent."
+  },
+  {
+   "start": 934.12,
+   "l": "de",
+   "t": "anschließend."
+  },
+  {
+   "start": 937.72,
+   "l": "zh",
+   "t": "影响；可能的后果；意义。"
+  },
+  {
+   "start": 945.1,
+   "l": "en",
+   "t": "implication."
+  },
+  {
+   "start": 947.44,
+   "l": "de",
+   "t": "die Auswirkung."
+  },
+  {
+   "start": 951.37,
+   "l": "zh",
+   "t": "今天就到这里，我们下次见。"
+  }
+ ],
+ "video_size": 12342796,
+ "built": "2026-11-20T23:37:43.997613+00:00"
+}
