@@ -7,6 +7,7 @@ import sys
 from fontTools.ttLib import TTFont
 
 FONT_CHARS = set(chr(k) for k in TTFont("fonts/NotoSansSC-Bold.otf").getBestCmap())
+IPA_CHARS = set(chr(k) for k in TTFont("fonts/DejaVuSans.ttf").getBestCmap())
 EMOJI_CHARS = set(chr(k) for k in TTFont("fonts/NotoColorEmoji.ttf").getBestCmap())
 
 files = sys.argv[1:] or sorted(glob.glob("episodes/*.json"))
@@ -57,7 +58,15 @@ for f in files:
             errors.append(f"{f}: 缺少第 {k} 个词的开头标记 \"sec\": {k}")
     if n and "quiz" not in secs:
         errors.append(f"{f}: 缺少小测验的开头标记 \"sec\": \"quiz\"")
+    needs_ipa = ep.get("date", "") >= "2026-11-21"   # 之前的期数没有音标，不要求
     for w in ep.get("words", []):
+        for key in ("ipa", "ipa_de"):
+            val = w.get(key, "")
+            if needs_ipa and not val:
+                errors.append(f"{f}: 词 {w.get('en')!r} 缺少音标 \"{key}\"")
+            bad = {ch for ch in val if ch not in IPA_CHARS}
+            if bad:
+                errors.append(f"{f}: 词 {w.get('en')!r} 的 {key} 里有字体显示不了的符号：{''.join(bad)}")
         for ch in (w.get("pic", "") + ep.get("pic", "")):
             if ch in "\ufe0f\u200d" or ch.isspace():
                 continue

@@ -27,6 +27,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_B = os.path.join(HERE, "fonts", "NotoSansSC-Bold.otf")
 FONT_R = os.path.join(HERE, "fonts", "NotoSansSC-Regular.otf")
 FONT_E = os.path.join(HERE, "fonts", "NotoColorEmoji.ttf")
+FONT_IPA = os.path.join(HERE, "fonts", "DejaVuSans.ttf")
 _cache = {}
 
 
@@ -34,6 +35,13 @@ def font(size, bold=True):
     key = (size, bold)
     if key not in _cache:
         _cache[key] = ImageFont.truetype(FONT_B if bold else FONT_R, size)
+    return _cache[key]
+
+
+def ipa_font(size):
+    key = ("ipa", size)
+    if key not in _cache:
+        _cache[key] = ImageFont.truetype(FONT_IPA, size)
     return _cache[key]
 
 
@@ -159,19 +167,102 @@ def card_intro(im, d, ep, sec, seen):
     draw_text_block(d, 110, y + 30, ep.get("summary", ""), font(36, False), MUTED, W - 220, 14, max_y=950)
 
 
+def word_line(d, y, text, f, color, ipa, ipa_size, width):
+    """一行单词，音标放在右边；放不下就放到下一行。返回下一行的 y。"""
+    x = 110
+    lines = wrap(text, f, width)
+    for ln in lines:
+        d.text((x, y), ln, font=f, fill=color)
+        last_w = f.getlength(ln)
+        y += int(f.size * 1.18)
+    if ipa:
+        fi = ipa_font(ipa_size)
+        iw = fi.getlength(ipa)
+        if x + last_w + 28 + iw <= W - 110:
+            top = y - int(f.size * 1.18)
+            d.text((x + last_w + 28, top + int(f.size * 0.92) - int(ipa_size * 0.95)), ipa, font=fi, fill=MUTED)
+        else:
+            d.text((x, y + 4), ipa, font=fi, fill=MUTED)
+            y += int(ipa_size * 1.5)
+    return y
+
+
 def card_word(im, d, ep, k):
+    """词卡：英语 + 音标、德语 + 音标、中文。返回卡片底部的 y。"""
     w = ep["words"][k - 1]
     n = len(ep["words"])
-    rounded(d, (60, 180, W - 60, 980), CARD)
-    d.rectangle((60, 180, 72, 980), fill=GOLD)
-    d.text((110, 215), f"第 {k} / {n} 个词", font=font(38), fill=GOLD)
+    d.text((110, 196), f"第 {k} / {n} 个词", font=font(34), fill=GOLD)
+    y = 262
+    en_size = 96 if len(w["en"]) <= 12 else (78 if len(w["en"]) <= 20 else 64)
+    y = word_line(d, y, w["en"], font(en_size), EN, w.get("ipa"), 40, W - 220)
+    y = word_line(d, y + 6, w["de"], font(54), DE, w.get("ipa_de"), 34, W - 220)
+    d.line((110, y + 14, W - 110, y + 14), fill=LINE, width=2)
+    y = draw_text_block(d, 110, y + 32, w["zh"], font(44), TEXT, W - 220, 8)
+    bottom = y + 22
+    card = Image.new("RGB", (W - 120, bottom - 170), CARD)
+    return bottom
+
+
+def draw_word_card(im, d, ep, k):
+    # 先量出高度，再画背景，最后画内容
+    probe = Image.new("RGB", (W, H))
+    bottom = card_word(probe, ImageDraw.Draw(probe), ep, k)
+    rounded(d, (60, 170, W - 60, bottom), CARD)
+    d.rectangle((60, 170, 72, bottom), fill=GOLD)
+    w = ep["words"][k - 1]
     if w.get("pic"):
-        paste_emojis(im, w["pic"], W - 110 - 2 * 140 - 24, 205, 140)
-    f = font(112 if len(w["en"]) <= 12 else 88)
-    y = draw_text_block(d, 110, 380, w["en"], f, EN, W - 220, 6)
-    y = draw_text_block(d, 110, y + 30, w["de"], font(64), DE, W - 220, 10)
-    d.line((110, y + 30, W - 110, y + 30), fill=LINE, width=2)
-    draw_text_block(d, 110, y + 60, w["zh"], font(66), TEXT, W - 220, 12)
+        paste_emojis(im, w["pic"], W - 110 - 2 * 88 - 16, 182, 88, gap=16)
+    card_word(im, d, ep, k)
+    return bottom
+
+
+def examples_panel(d, items, cur, top, bottom):
+    """本词出现过的例句：外语句子 + 中文意思，当前这句高亮。"""
+    if not items:
+        return
+    d.text((70, top), "例句", font=font(32), fill=GOLD)
+    top += 56
+    fs, fz = font(40), font(34, False)
+    tw = W - 70 - 150 - 40
+
+    def height(it):
+        h = len(wrap(it["t"], fs, tw)) * (fs.size + 10)
+        if it["zh_shown"] and it["zh"]:
+            h += len(wrap(it["zh"], fz, tw)) * (fz.size + 8) + 4
+        return h + 30
+
+    show = list(range(len(items)))
+    while show and sum(height(items[j]) for j in show) > bottom - top:
+        show.pop(0)
+    y = top
+    for j in show:
+        it = items[j]
+        on = j == cur
+        if on:
+            d.rectangle((60, y - 6, 66, y + height(it) - 30), fill=GOLD)
+        pill(d, 80, y + 2, it["l"])
+        color = LANG_COLOR[it["l"]] if (on or cur is None) else tuple(int(c * 0.62) for c in LANG_COLOR[it["l"]])
+        for ln in wrap(it["t"], fs, tw):
+            d.text((160, y), ln, font=fs, fill=color)
+            y += fs.size + 10
+        if it["zh_shown"] and it["zh"]:
+            y += 4
+            for ln in wrap(it["zh"], fz, tw):
+                d.text((160, y), ln, font=fz, fill=TEXT if on else MUTED)
+                y += fz.size + 8
+        y += 30
+
+
+def subtitle_line(d, cue, top, bottom):
+    """词卡模式下的底部字幕：只显示正在读的这一句。"""
+    d.line((60, top - 16, W - 60, top - 16), fill=LINE, width=2)
+    f = font(46 if cue["l"] == "zh" else 44)
+    pw = pill(d, 60, top + 6, cue["l"], cue.get("rep"))
+    lines = wrap(cue["t"], f, W - 60 - (60 + pw + 20))
+    y = top
+    for ln in lines[:3]:
+        d.text((60 + pw + 20, y), ln, font=f, fill=LANG_COLOR[cue["l"]])
+        y += f.size + 12
 
 
 def card_quiz(im, d, ep, revealed):
@@ -261,12 +352,24 @@ def render_frames(ep, meta, outdir):
     sec = "intro"
     sec_start = 0
     quiz_en = 0
+    items, cur_item = [], None
     for i, (seg, cue) in enumerate(zip(segs, cues)):
         if "sec" in seg:
             sec = seg["sec"]
             sec_start = i
+            items, cur_item = [], None
         if sec == "quiz" and seg["l"] == "en":
             quiz_en += 1
+        if seg.get("rep") == 1:
+            items.append({"l": seg["l"], "t": seg["t"], "zh": seg.get("zh", ""), "zh_shown": False})
+            cur_item = len(items) - 1
+        elif seg.get("rep"):
+            cur_item = len(items) - 1
+        elif seg.get("zh_for") and items:
+            items[-1]["zh_shown"] = True
+            cur_item = len(items) - 1
+        else:
+            cur_item = None
         nxt = cues[i + 1]["start"] if i + 1 < len(cues) else total
         p = float(seg.get("p", 0.45))
         speak_end = max(cue["start"] + 0.3, nxt - p) if p >= 2 else nxt
@@ -275,12 +378,15 @@ def render_frames(ep, meta, outdir):
             d = ImageDraw.Draw(im)
             header(d, ep, sec, n_words)
             if isinstance(sec, int) and 1 <= sec <= n_words:
-                card_word(im, d, ep, sec)
-            elif sec == "quiz":
-                card_quiz(im, d, ep, quiz_en)
+                card_bottom = draw_word_card(im, d, ep, sec)
+                examples_panel(d, items, cur_item, card_bottom + 34, 1585)
+                subtitle_line(d, cue, 1630, 1800)
             else:
-                card_intro(im, d, ep, sec, cues[sec_start:i + 1])
-            subtitles(d, cues, i)
+                if sec == "quiz":
+                    card_quiz(im, d, ep, quiz_en)
+                else:
+                    card_intro(im, d, ep, sec, cues[sec_start:i + 1])
+                subtitles(d, cues, i)
             if phase == "pause":
                 badge(im, d, "think" if seg["l"] == "zh" else "shadow")
             path = os.path.join(outdir, f"f{i:04d}_{phase}.png")

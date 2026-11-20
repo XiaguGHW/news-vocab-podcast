@@ -50,13 +50,14 @@ def expand_segments(segments):
             out.append(seg)
             continue
         for k, rate in enumerate(SENTENCE_RATES):
-            c = {"l": seg["l"], "t": seg["t"], "rate": rate, "rep": k + 1, "p": REPEAT_PAUSE}
+            c = {"l": seg["l"], "t": seg["t"], "rate": rate, "rep": k + 1, "p": REPEAT_PAUSE,
+                 "zh": seg.get("zh", "")}
             if k == 0 and "sec" in seg:
                 c["sec"] = seg["sec"]
             out.append(c)
         if seg.get("zh"):
             out[-1]["p"] = 0.6
-            out.append({"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE)})
+            out.append({"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE), "zh_for": True})
         else:
             out[-1]["p"] = seg.get("p", DEFAULT_PAUSE)
     return out
