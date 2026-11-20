@@ -195,7 +195,7 @@ def card_word(im, d, ep, k):
     y = 262
     en_size = 96 if len(w["en"]) <= 12 else (78 if len(w["en"]) <= 20 else 64)
     y = word_line(d, y, w["en"], font(en_size), EN, w.get("ipa"), 40, W - 220)
-    y = word_line(d, y + 6, w["de"], font(54), DE, w.get("ipa_de"), 34, W - 220)
+    y = word_line(d, y + 6, w["de"], font(54), DE, None, 34, W - 220)
     d.line((110, y + 14, W - 110, y + 14), fill=LINE, width=2)
     y = draw_text_block(d, 110, y + 32, w["zh"], font(44), TEXT, W - 220, 8)
     bottom = y + 22

@@ -60,7 +60,7 @@ for f in files:
         errors.append(f"{f}: 缺少小测验的开头标记 \"sec\": \"quiz\"")
     needs_ipa = ep.get("date", "") >= "2026-11-21"   # 之前的期数没有音标，不要求
     for w in ep.get("words", []):
-        for key in ("ipa", "ipa_de"):
+        for key in ("ipa",):
             val = w.get(key, "")
             if needs_ipa and not val:
                 errors.append(f"{f}: 词 {w.get('en')!r} 缺少音标 \"{key}\"")
