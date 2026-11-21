@@ -515,22 +515,264 @@
       "history": []
     },
     {
-      "id": "comprehend",
-      "en": "comprehend",
+      "id": "preliminary",
+      "en": "preliminary",
       "forms": [],
-      "zh": "理解",
-      "de": "verstehen",
+      "zh": "初步的；预备的",
+      "de": "vorläufig",
       "added_on": "2026-11-21",
-      "learning_source": "current_conversation_explanation",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
       "episode_ids": [],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
       "next_review_on": "2026-11-22",
       "notes": [
-        "仅讲解过，未独立测验；不得标记掌握。"
+        "常见 preliminary results：初步结果。",
+        "尚未测验，不记录答对或错误。"
       ],
       "history": []
+    },
+    {
+      "id": "retrieval",
+      "en": "retrieval",
+      "forms": [],
+      "zh": "检索；调取；取回",
+      "de": "der Abruf",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "retrieve 的相关名词。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "provisional",
+      "en": "provisional",
+      "forms": [],
+      "zh": "暂定的；临时的",
+      "de": "vorläufig",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "强调尚未最终确定，之后可能改变；与 preliminary 对比。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "revision",
+      "en": "revision",
+      "forms": [],
+      "zh": "修订；修改",
+      "de": "die Überarbeitung",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "与 revise 关联；原输入 revisionborderline 按两个词处理。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "borderline",
+      "en": "borderline",
+      "forms": [],
+      "zh": "边界上的；难以明确归类的",
+      "de": "grenzwertig",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "borderline case：边界案例；原输入 revisionborderline 按两个词处理。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "set-out",
+      "en": "set out",
+      "forms": [],
+      "zh": "阐述；列出；着手；出发",
+      "de": "darlegen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "论文中常表示阐述或列出，需依原句选择义项。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "scheme",
+      "en": "scheme",
+      "forms": [],
+      "zh": "方案；体系；分类方法",
+      "de": "das Schema",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "论文中 classification scheme 可指分类体系；不机械翻译成阴谋。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "swivel",
+      "en": "swivel",
+      "forms": [
+        "swivelling"
+      ],
+      "zh": "绕轴转动",
+      "de": "schwenken",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "用户提供词形 swivelling；英式拼写，词卡与复习保留该形式。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "translational",
+      "en": "translational",
+      "forms": [],
+      "zh": "平移的",
+      "de": "translatorisch",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "工程运动语境；不是翻译的。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "thereby",
+      "en": "thereby",
+      "forms": [],
+      "zh": "从而；由此",
+      "de": "dadurch",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "强调通过前述动作产生后面的结果。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "enclosure",
+      "en": "enclosure",
+      "forms": [
+        "enclosures"
+      ],
+      "zh": "外壳；封闭空间；附件",
+      "de": "das Gehäuse / die Anlage",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "尚未看到论文原句，不能确定具体义项；工程外壳与文书附件的德语不同。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "ambiguity",
+      "en": "ambiguity",
+      "forms": [
+        "ambiguities"
+      ],
+      "zh": "歧义；多义性；不明确性",
+      "de": "die Mehrdeutigkeit",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "名词，与 ambiguous 同源；词源说明不等于已掌握。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    },
+    {
+      "id": "ambiguous",
+      "en": "ambiguous",
+      "forms": [],
+      "zh": "有歧义的；可有多种解释的",
+      "de": "mehrdeutig",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_new_thesis_vocabulary",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "形容词，与 ambiguity 同源。",
+        "尚未测验，不记录答对或错误。"
+      ],
+      "history": []
+    }
+  ],
+  "excluded_words": [
+    {
+      "en": "comprehend",
+      "excluded_on": "2026-11-21",
+      "reason": "用户明确要求不加入复习；后续候选词导入时不得自动重新加入。"
     }
   ]
 }
