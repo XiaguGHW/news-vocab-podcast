@@ -342,6 +342,32 @@ def badge(im, d, kind):
     d.text((180, 1822), t, font=font(44), fill=c)
 
 
+def recall_state(sec, n_words):
+    if not isinstance(sec, str):
+        return None
+    kind, _, value = sec.partition(":")
+    if kind in ("recall", "answer") and value.isdigit() and 1 <= int(value) <= n_words:
+        return kind, int(value)
+    return None
+
+
+def card_recall(im, d, ep, state, cue):
+    """独立回忆画面不绘制词卡、历史例句或历史字幕，避免泄露答案。"""
+    kind, k = state
+    rounded(d, (60, 180, W - 60, 1720), CARD)
+    d.text((110, 230), "回忆练习" if kind == "recall" else "参考答案", font=font(48), fill=GOLD)
+    d.text((110, 320), f"第 {k} 个词", font=font(36), fill=MUTED)
+    if kind == "recall":
+        draw_text_block(d, 110, 470, cue["t"], font(52), TEXT, W - 220, 18, max_y=1500)
+        d.text((110, 1550), "先想一想，再听答案", font=font(40), fill=GOLD)
+    else:
+        w = ep["words"][k - 1]
+        y = word_line(d, 470, w["en"], font(70), EN, w.get("ipa"), 38, W - 220)
+        y = word_line(d, y + 30, w["de"], font(50), DE, None, 34, W - 220)
+        draw_text_block(d, 110, y + 30, w["zh"], font(44), TEXT, W - 220, 14, max_y=1200)
+        subtitle_line(d, cue, 1400, 1650)
+
+
 def render_frames(ep, meta, outdir):
     """返回 [(png路径, 时长秒), ...]"""
     segs = ep["segments"]
@@ -376,8 +402,11 @@ def render_frames(ep, meta, outdir):
         for phase in ("speak", "pause") if p >= 2 else ("speak",):
             im = Image.new("RGB", (W, H), BG)
             d = ImageDraw.Draw(im)
-            header(d, ep, sec, n_words)
-            if isinstance(sec, int) and 1 <= sec <= n_words:
+            recall = recall_state(sec, n_words)
+            header(d, ep, recall[1] if recall else sec, n_words)
+            if recall:
+                card_recall(im, d, ep, recall, cue)
+            elif isinstance(sec, int) and 1 <= sec <= n_words:
                 card_bottom = draw_word_card(im, d, ep, sec)
                 examples_panel(d, items, cur_item, card_bottom + 34, 1585)
                 subtitle_line(d, cue, 1630, 1800)
