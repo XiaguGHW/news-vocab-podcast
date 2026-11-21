@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-21",
+  "timezone": "Europe/Berlin",
+  "owner_scope": "personal_english_vocabulary",
+  "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
+  "selection_policy": {
+    "questions_per_session": 5,
+    "preferred_mix": {
+      "weak": 3,
+      "recent": 1,
+      "older": 1
+    },
+    "note": "配额可按词量调整，类别不可用时补其他词，避免同一词重复占位；同一轮纠错重测除外。"
+  },
+  "words": [
+    {
+      "id": "designation",
+      "en": "designation",
+      "forms": [
+        "designations"
+      ],
+      "zh": "名称；称谓",
+      "de": "die Bezeichnung",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q18",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "designation",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "retrieve",
+      "en": "retrieve",
+      "forms": [
+        "retrieved"
+      ],
+      "zh": "检索；取回",
+      "de": "abrufen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q01",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "retrieve",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "retain",
+      "en": "retain",
+      "forms": [
+        "retained"
+      ],
+      "zh": "保留",
+      "de": "behalten",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q02",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "retain",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "compile",
+      "en": "compile",
+      "forms": [
+        "compiled"
+      ],
+      "zh": "收集整理；汇编",
+      "de": "zusammenstellen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q03",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "compile",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "supplementary",
+      "en": "supplementary",
+      "forms": [],
+      "zh": "补充的；附加的",
+      "de": "ergänzend",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "需要重新无提示检验；提示不要提前给 supplement。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q05",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "supplement已经太明显提示了 supplementary",
+          "result": "overcued_correct",
+          "hint_requests": 0,
+          "note": "助手已给出 supplement，不能计作独立回忆；此前输入 tis 含义不明，不作错误计分。"
+        }
+      ]
+    },
+    {
+      "id": "constitute",
+      "en": "constitute",
+      "forms": [],
+      "zh": "构成；组成",
+      "de": "bilden",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "部分 constitute 整体；虽然本题答对，之后用户明确自述三词难记，需优先复习。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q11",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "constitute",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "comprise",
+      "en": "comprise",
+      "forms": [
+        "comprises"
+      ],
+      "zh": "包含；由……组成",
+      "de": "umfassen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "整体 comprises 部分；与 compose、constitute 对比，曾明确自述难记；词源已解释，未验证效果。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q12",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "composes",
+          "result": "word_confusion",
+          "hint_requests": 1,
+          "note": "先有语义提示；把整体包含部分与 compose 的方向混淆。"
+        },
+        {
+          "event_id": "2026-11-21-chat-q14",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "comprises",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "in-house",
+      "en": "in-house",
+      "forms": [],
+      "zh": "内部的；在内部",
+      "de": "intern",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q13",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "in-house",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "eligible",
+      "en": "eligible",
+      "forms": [],
+      "zh": "符合条件的；有资格的",
+      "de": "berechtigt",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab1"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "重点：eligible 拼写，以及 eligible for 搭配。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q07",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "eligeble",
+          "result": "spelling_error",
+          "hint_requests": 0,
+          "note": "词义选择正确，拼写应为 eligible。"
+        }
+      ]
+    },
+    {
+      "id": "carry-out",
+      "en": "carry out",
+      "forms": [
+        "carried out"
+      ],
+      "zh": "开展；实施；执行",
+      "de": "durchführen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q15",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "carried out行吗",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "review-against",
+      "en": "review … against …",
+      "forms": [],
+      "zh": "依据某标准审核",
+      "de": "anhand von etwas überprüfen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "normal",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "结构：review something against a standard；对照标准审核。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q16",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "review？ / against",
+          "result": "independent_correct_in_parts",
+          "hint_requests": 0,
+          "note": "先独立答出 review，助手说明还缺介词后补出 against，未直接提示该介词。"
+        }
+      ]
+    },
+    {
+      "id": "revise",
+      "en": "revise",
+      "forms": [
+        "revised"
+      ],
+      "zh": "修订；修改",
+      "de": "überarbeiten",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q04",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "忘了",
+          "result": "not_recalled",
+          "hint_requests": 2,
+          "note": "两次提示后仍未想起，随后提供答案。"
+        },
+        {
+          "event_id": "2026-11-21-chat-q06",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "revised",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "in-line-with",
+      "en": "in line with",
+      "forms": [],
+      "zh": "按照；符合；与……一致",
+      "de": "im Einklang mit",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q09",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "in line with？",
+          "result": "hinted_correct",
+          "hint_requests": 1,
+          "note": "作答前讨论了 according to，最终给出三个首字母后答对。"
+        }
+      ]
+    },
+    {
+      "id": "subsequent",
+      "en": "subsequent",
+      "forms": [],
+      "zh": "随后的；后续的",
+      "de": "anschließend",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q08",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "subsequent？",
+          "result": "hinted_correct",
+          "hint_requests": 2,
+          "note": "先场景提示，再首字母提示。"
+        },
+        {
+          "event_id": "2026-11-21-chat-q10",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "subsequent",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "implication",
+      "en": "implication",
+      "forms": [
+        "implications"
+      ],
+      "zh": "影响；可能的后果；意义",
+      "de": "die Auswirkung",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explicit_study",
+      "episode_ids": [
+        "2026-11-21-vocab2"
+      ],
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-21",
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "重点：题目指定复数时使用 implications；区别词义正确与词形正确。"
+      ],
+      "history": [
+        {
+          "event_id": "2026-11-21-chat-q17",
+          "date": "2026-11-21",
+          "source": "visible_conversation_quiz",
+          "response": "implication",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "词想对；题目要求复数 implications，单数在其他语境中也正确。"
+        }
+      ]
+    },
+    {
+      "id": "compose",
+      "en": "compose",
+      "forms": [],
+      "zh": "组成；构成",
+      "de": "bilden",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explanation",
+      "episode_ids": [],
+      "priority": "high",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "仅讲解过，未独立测验；不得标记掌握。",
+        "部分 compose 整体；整体 is composed of 部分。与 comprise、constitute 对比。"
+      ],
+      "history": []
+    },
+    {
+      "id": "comprehend",
+      "en": "comprehend",
+      "forms": [],
+      "zh": "理解",
+      "de": "verstehen",
+      "added_on": "2026-11-21",
+      "learning_source": "current_conversation_explanation",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-22",
+      "notes": [
+        "仅讲解过，未独立测验；不得标记掌握。"
+      ],
+      "history": []
+    }
+  ]
+}

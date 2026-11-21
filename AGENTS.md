@@ -1,0 +1,9 @@
+# Vocabulary learning maintenance
+
+For vocabulary learning or review tasks in this repository, read `learning/README.md` and the latest `learning/vocabulary.json` before selecting questions or updating progress.
+
+The user has authorized maintaining this learning record. Add explicitly studied words, and save actual answers and assistance history after each response. Preserve prior events, merge by stable IDs, and never infer that an unanswered question was completed or that a published podcast was watched. Confirm successful writes before reporting saved progress.
+
+Use natural examples, gradual hints, and one question at a time as described in `learning/README.md`. Do not publish episodes or change unrelated code as part of a learning-record update.
+
+For episode-writing or media changes, also follow `EPISODE_GUIDE.md`.
