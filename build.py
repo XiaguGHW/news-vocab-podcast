@@ -42,10 +42,41 @@ def is_sentence(seg):
     return seg["l"] in ("en", "de") and len(seg["t"].split()) > 4 and seg.get("repeat", True)
 
 
+READING_RATES = {
+    "word": ["-30%"],       # 单词：慢读一次，由稿件显式提供两遍
+    "example": ["-20%", "-10%"],  # 例句：较慢一次、接近正常一次
+    "shadow": ["-20%"],     # 跟读：读一次，停顿留给听众
+    "answer": ["-10%"],     # 测验：直接给一次答案
+}
+
+
+def expand_reading(seg):
+    role = seg["reading"]
+    rates = READING_RATES[role]
+    out = []
+    for k, rate in enumerate(rates):
+        c = dict(seg, rate=rate, p=REPEAT_PAUSE, speed=f"{1 + int(rate.rstrip('%')) / 100:.1f}×")
+        if k:
+            c.pop("sec", None)
+        if role == "example":
+            c["rep"] = k + 1
+        out.append(c)
+    # 所有例句（包括短句）都只自动翻译一次；答案和跟读不额外打断。
+    if role == "example" and seg.get("zh"):
+        out[-1]["p"] = 0.6
+        out.append({"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE), "zh_for": True})
+    else:
+        out[-1]["p"] = seg.get("p", DEFAULT_PAUSE)
+    return out
+
+
 def expand_segments(segments):
     """把每个句子展开成：0.6 倍速 ×2、0.8 倍速 ×1、中文意思。"""
     out = []
     for seg in segments:
+        if seg.get("reading"):
+            out.extend(expand_reading(seg))
+            continue
         if not is_sentence(seg):
             out.append(seg)
             continue
@@ -129,6 +160,8 @@ def synth_audio(ep, mp3):
         cue = {"start": round(t, 2), "l": seg["l"], "t": seg["t"]}
         if seg.get("rep"):
             cue["rep"] = seg["rep"]
+        if seg.get("speed"):
+            cue["speed"] = seg["speed"]
         cues.append(cue)
         parts.append(wav)
         t += d

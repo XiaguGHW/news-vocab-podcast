@@ -98,9 +98,9 @@ def rounded(d, box, fill, r=28, outline=None, width=0):
     d.rounded_rectangle(box, r, fill=fill, outline=outline, width=width)
 
 
-def pill(d, x, y, lang, rep=None):
+def pill(d, x, y, lang, rep=None, speed=None):
     f = font(30)
-    t = LANG_TAG[lang] + (f" {['', '0.6×', '0.6×', '0.8×'][rep]}" if rep else "")
+    t = LANG_TAG[lang] + (" " + speed if speed else (f" {['', '0.6×', '0.6×', '0.8×'][rep]}" if rep else ""))
     w = f.getlength(t) + 28
     rounded(d, (x, y, x + w, y + 46), (42, 44, 50) if lang == "zh" else
             ((29, 44, 68) if lang == "en" else (58, 42, 23)), r=10)
@@ -257,7 +257,7 @@ def subtitle_line(d, cue, top, bottom):
     """词卡模式下的底部字幕：只显示正在读的这一句。"""
     d.line((60, top - 16, W - 60, top - 16), fill=LINE, width=2)
     f = font(46 if cue["l"] == "zh" else 44)
-    pw = pill(d, 60, top + 6, cue["l"], cue.get("rep"))
+    pw = pill(d, 60, top + 6, cue["l"], cue.get("rep"), cue.get("speed"))
     lines = wrap(cue["t"], f, W - 60 - (60 + pw + 20))
     y = top
     for ln in lines[:3]:
@@ -324,7 +324,7 @@ def subtitles(d, cues, i):
             d.text((150, yy), ln, font=prev_f, fill=MUTED)
             yy += prev_f.size + 10
         y -= 26
-    pw = pill(d, 60, y0 + 12, cur["l"], cur.get("rep"))
+    pw = pill(d, 60, y0 + 12, cur["l"], cur.get("rep"), cur.get("speed"))
     yy = y0
     tx = 150 if not cur.get("rep") else 60 + pw + 20
     for ln in cur_lines:

@@ -1,0 +1,535 @@
+{
+  "format_version": 2,
+  "id": "2026-11-21-vocab3",
+  "date": "2026-11-21",
+  "pub": "2026-11-21T11:33:05+01:00",
+  "title": "11月21日 · 资料怎么处理｜retrieve · retain · compile",
+  "topic": "词汇试验 / 调取、保留与汇总",
+  "summary": "用准备报告的连续场景区分三个动作，讲清正式用法，配自然例句、跟读和隐藏答案的回忆练习。",
+  "pic": "🔍📚",
+  "words": [
+    {
+      "en": "retrieve",
+      "de": "abrufen",
+      "zh": "检索；调取",
+      "ipa": "/rɪˈtriːv/",
+      "pic": "🔍"
+    },
+    {
+      "en": "retain",
+      "de": "behalten",
+      "zh": "保留；继续持有",
+      "ipa": "/rɪˈteɪn/",
+      "pic": "📌"
+    },
+    {
+      "en": "compile",
+      "de": "zusammenstellen",
+      "zh": "收集并整理",
+      "ipa": "/kəmˈpaɪl/",
+      "pic": "📚"
+    }
+  ],
+  "sources": [],
+  "segments": [
+    {
+      "l": "zh",
+      "t": "欢迎收听词汇试验期。今天用准备报告的过程，区分调取、保留和收集整理三个动作。",
+      "p": 0.4,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "每个词都有自然例句和跟读，中途和结尾也会留时间让你自己想答案。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "第一个词。报告已经存进数据库，现在需要把它找出来。",
+      "p": 0.4,
+      "sec": 1
+    },
+    {
+      "l": "en",
+      "t": "retrieve.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "en",
+      "t": "retrieve.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "这是动词，核心是从已有位置找出并取回。电脑里的信息可以调取，落在某处的物品也可以取回。先学习调取信息这个用法。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "工作中常见的搭配是调取文件。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retrieve a file.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "德语在电脑数据这个场景里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "abrufen.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "听一个工作例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The system retrieves customer records.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "系统调取客户记录。"
+    },
+    {
+      "l": "de",
+      "t": "Das System ruft Kundendaten ab.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "系统调取客户数据。"
+    },
+    {
+      "l": "zh",
+      "t": "再听一个取回物品的例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "She retrieved her bag from the car.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "她从车里取回了包。"
+    },
+    {
+      "l": "zh",
+      "t": "这里是取回物品，德语更自然地用另一个说法。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Sie holte ihre Tasche aus dem Auto.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "她从车里取回了包。"
+    },
+    {
+      "l": "zh",
+      "t": "它比日常的拿、取更正式。平常说去车里拿包，英语用下面的短句也很自然。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "Get my bag.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "记忆画面：信息原本在数据库里，你搜索后把它调出来。重点是从已有位置取出，不是继续保存。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "跟我读，调取文件。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retrieve a file.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "de",
+      "t": "eine Datei abrufen.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "zh",
+      "t": "第二个词。资料拿到了，检查后把有用的记录留下。",
+      "p": 0.4,
+      "sec": 2
+    },
+    {
+      "l": "en",
+      "t": "retain.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "en",
+      "t": "retain.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "动词，核心是继续保留已经有的东西。它比较正式，常用于记录、权利、信息或员工。日常说留着一张照片，通常用更普通的词。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "keep.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "正式语境下，保留记录可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retain records.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "德语可对应保留。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "behalten.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "en",
+      "t": "The company retains records for five years.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "公司将记录保留五年。"
+    },
+    {
+      "l": "de",
+      "t": "Das Unternehmen bewahrt Unterlagen fünf Jahre lang auf.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "公司将资料保存五年。"
+    },
+    {
+      "l": "zh",
+      "t": "这里德语用保存资料的常见动词，和刚才的保留意思接近。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "aufbewahren.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "生活中也会在退货说明这类正式文字里遇到这个词。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "Please retain the receipt until your refund arrives.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "请保留收据，直到退款到账。"
+    },
+    {
+      "l": "de",
+      "t": "Bitte behalten Sie den Beleg, bis die Rückerstattung eintrifft.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "请保留凭证，直到退款到账。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆画面：一堆记录经过检查，有用的继续留在文件夹里。第一个词是从里面取出，这个词是让它继续留下。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "跟我读，保留记录。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retain records.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "de",
+      "t": "Unterlagen aufbewahren.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "zh",
+      "t": "现在先回忆前两个动作。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "从数据库里找出并调取一份报告，刚学的英语动词是什么？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "retrieve.",
+      "p": 0.5,
+      "reading": "answer",
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "abrufen.",
+      "p": 1,
+      "reading": "answer",
+      "zh": "检索；调取。"
+    },
+    {
+      "l": "zh",
+      "t": "检查完记录后，让有用的记录继续留下，正式英语动词是什么？",
+      "p": 4,
+      "sec": "recall:2"
+    },
+    {
+      "l": "en",
+      "t": "retain.",
+      "p": 0.5,
+      "reading": "answer",
+      "sec": "answer:2"
+    },
+    {
+      "l": "de",
+      "t": "behalten.",
+      "p": 1,
+      "reading": "answer",
+      "zh": "保留；继续持有。"
+    },
+    {
+      "l": "zh",
+      "t": "第三个词。现在把不同来源的资料汇总成一份报告。",
+      "p": 0.4,
+      "sec": 3
+    },
+    {
+      "l": "en",
+      "t": "compile.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "en",
+      "t": "compile.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "动词，核心是收集材料并整理成一个整体，例如清单、报告或资料集。它不只是拿到资料，还包括把资料汇到一起。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是整理一份清单。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "compile a list.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "德语可说收集整理。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "zusammenstellen.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "en",
+      "t": "We compiled a report using data from three departments.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "我们利用三个部门的数据汇编了一份报告。"
+    },
+    {
+      "l": "de",
+      "t": "Wir stellten einen Bericht mit Daten aus drei Abteilungen zusammen.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "我们利用三个部门的数据汇编了一份报告。"
+    },
+    {
+      "l": "zh",
+      "t": "再听一个生活场景。你把亲友传来的食谱整理成册。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "She compiled a cookbook from family recipes.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "她把家传食谱整理成了一本食谱集。"
+    },
+    {
+      "l": "de",
+      "t": "Sie stellte ein Kochbuch aus Familienrezepten zusammen.",
+      "p": 0.5,
+      "reading": "example",
+      "zh": "她把家传食谱整理成了一本食谱集。"
+    },
+    {
+      "l": "zh",
+      "t": "这个词也可以表示编译程序，那是另一个技术用法，今天先记收集并整理这一层意思。记忆画面：把几叠分散的纸汇到一起，整理成一本册子。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "跟我读，整理一份清单。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "compile a list.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "de",
+      "t": "eine Liste zusammenstellen.",
+      "p": 3,
+      "reading": "shadow"
+    },
+    {
+      "l": "zh",
+      "t": "把三个动作连起来。从数据库调取资料。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retrieve data.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "把有用的记录保留下来。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "retain useful records.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "最后把资料整理成报告。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "compile a report.",
+      "p": 0.5,
+      "reading": "word"
+    },
+    {
+      "l": "zh",
+      "t": "现在开始全部词的小测验。顺序打乱，先想英语，再听德语。",
+      "p": 0.4,
+      "sec": "quiz"
+    },
+    {
+      "l": "zh",
+      "t": "把不同来源的材料收集整理成报告，刚学的动词是什么？",
+      "p": 4,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "compile.",
+      "p": 0.5,
+      "reading": "answer",
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "zusammenstellen.",
+      "p": 1,
+      "reading": "answer",
+      "zh": "收集并整理。"
+    },
+    {
+      "l": "zh",
+      "t": "信息本来存放在数据库里，现在把它调出来，动词是什么？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "retrieve.",
+      "p": 0.5,
+      "reading": "answer",
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "abrufen.",
+      "p": 1,
+      "reading": "answer",
+      "zh": "检索；调取。"
+    },
+    {
+      "l": "zh",
+      "t": "正式说明中，请把收据继续保留到退款到账，保留用哪个动词？",
+      "p": 4,
+      "sec": "recall:2"
+    },
+    {
+      "l": "en",
+      "t": "retain.",
+      "p": 0.5,
+      "reading": "answer",
+      "sec": "answer:2"
+    },
+    {
+      "l": "de",
+      "t": "behalten.",
+      "p": 1,
+      "reading": "answer",
+      "zh": "保留；继续持有。"
+    },
+    {
+      "l": "zh",
+      "t": "记住三个动作：从已有位置取出，继续留下，收集后整理成整体。今天就到这里，我们下次见。",
+      "p": 0.4,
+      "sec": "intro"
+    }
+  ]
+}

@@ -35,6 +35,16 @@ def validate_learning(ep):
     quizzed = set()
     in_quiz = False
     for i, seg in enumerate(segs):
+        role = seg.get("reading")
+        if role is not None:
+            if role not in ("word", "example", "shadow", "answer") or seg.get("l") not in ("en", "de"):
+                errors.append(f"第 {i} 句朗读用途无效")
+            if any(key in seg for key in ("rate", "slow", "repeat")):
+                errors.append(f"第 {i} 句朗读用途不能与旧语速字段混用")
+            if role == "example" and not seg.get("zh"):
+                errors.append(f"第 {i} 句例句须有中文意思")
+            if role == "shadow" and seg.get("p", 0) < 3:
+                errors.append(f"第 {i} 句跟读须留至少三秒")
         sec = seg.get("sec")
         if sec == "quiz":
             in_quiz = True
