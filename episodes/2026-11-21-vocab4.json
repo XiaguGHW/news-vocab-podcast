@@ -1,0 +1,1153 @@
+{
+  "format_version": 2,
+  "id": "2026-11-21-vocab4",
+  "date": "2026-11-21",
+  "pub": "2026-11-21T23:08:51+01:00",
+  "title": "11月21日 · 从初步结果到修订｜论文词汇（一）",
+  "topic": "论文词汇 / 研究流程与表达",
+  "summary": "今天学习研究流程中常见的七个词和表达，重点区分初步与暂定，以及怎样描述检索、修订和结果。",
+  "pic": "📚🔍",
+  "words": [
+    {
+      "en": "preliminary",
+      "ipa": "/prɪˈlɪməneri/",
+      "de": "vorläufig",
+      "zh": "初步的；预备的",
+      "pic": "🔎"
+    },
+    {
+      "en": "provisional",
+      "ipa": "/prəˈvɪʒənəl/",
+      "de": "vorläufig",
+      "zh": "暂定的；临时的",
+      "pic": "📅"
+    },
+    {
+      "en": "retrieval",
+      "ipa": "/rɪˈtriːvəl/",
+      "de": "der Abruf",
+      "zh": "检索；调取；取回",
+      "pic": "🔍"
+    },
+    {
+      "en": "revision",
+      "ipa": "/rɪˈvɪʒən/",
+      "de": "die Überarbeitung",
+      "zh": "修订；修改",
+      "pic": "✏"
+    },
+    {
+      "en": "set out",
+      "ipa": "/set aʊt/",
+      "de": "darlegen",
+      "zh": "阐述；列出",
+      "pic": "📋"
+    },
+    {
+      "en": "scheme",
+      "ipa": "/skiːm/",
+      "de": "das Schema",
+      "zh": "体系；方案",
+      "pic": "🗂"
+    },
+    {
+      "en": "thereby",
+      "ipa": "/ˌðerˈbaɪ/",
+      "de": "dadurch",
+      "zh": "从而；由此",
+      "pic": "➡"
+    }
+  ],
+  "sources": [],
+  "segments": [
+    {
+      "l": "zh",
+      "t": "欢迎收听论文词汇专题。",
+      "p": 0.3,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "今天学习研究流程中常见的七个词和表达，重点区分初步与暂定，以及怎样描述检索、修订和结果。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "这一期用自然例句解释用法，并安排跟读和隐藏答案的小测验。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "第一个词。实验刚完成第一轮，你还不能把结果当成最终结论。",
+      "p": 0.4,
+      "sec": 1
+    },
+    {
+      "l": "en",
+      "t": "preliminary.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "preliminary.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "形容词，强调处于前期阶段，或为后续工作做准备。常见于初步结果、初步分析。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "preliminary results.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "vorläufig.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The preliminary results look promising.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "初步结果看起来很有希望。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Die vorläufigen Ergebnisse sehen vielversprechend aus.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "初步结果看起来很有希望。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "We held a preliminary meeting before starting the project.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "项目开始前，我们举行了一次预备会议。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象一张草图，先勾出轮廓，之后才完善。它提醒你工作还处在前期。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "不要把初步结果说成最终结论。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "preliminary results.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "de",
+      "t": "vorläufige Ergebnisse.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 1
+    },
+    {
+      "l": "zh",
+      "t": "第二个词。你先定下会议日期，但还要等导师确认。",
+      "p": 0.4,
+      "sec": 2
+    },
+    {
+      "l": "en",
+      "t": "provisional.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "provisional.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "形容词，强调暂时采用，尚未最终确定，之后可能调整。前一个词强调前期阶段，这个词强调暂定状态。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "德语有时会用同一个词。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a provisional date.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "暂定的；临时的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "vorläufig.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "暂定的；临时的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "We agreed on a provisional date for the workshop.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们商定了一个暂定的工作坊日期。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Wir haben einen vorläufigen Termin für den Workshop vereinbart.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们商定了一个暂定的工作坊日期。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The hotel sent us a provisional booking confirmation.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "酒店给我们发来了暂定的预订确认。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象日历上的日期先用铅笔写下来，确认后再固定。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "暂定日期不一定是最初的日期，关键是还没最终敲定。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a provisional date.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "暂定的；临时的。"
+    },
+    {
+      "l": "de",
+      "t": "ein vorläufiger Termin.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "暂定的；临时的。"
+    },
+    {
+      "l": "zh",
+      "t": "先暂停一下，回忆刚才的表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "结果来自研究的前期阶段，初步的这个形容词怎么说？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "preliminary.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "vorläufig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 2
+    },
+    {
+      "l": "zh",
+      "t": "第三个词。资料已经存进数据库，现在讨论怎样更快地把它调出来。",
+      "p": 0.4,
+      "sec": 3
+    },
+    {
+      "l": "en",
+      "t": "retrieval.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "retrieval.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是名词，与之前学过的取回、调取那个动词对应。今天重点学习信息检索这个意义。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "information retrieval.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "der Abruf.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The software supports fast retrieval of technical documents.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这款软件支持快速检索技术文件。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Die Software ermöglicht den schnellen Abruf technischer Dokumente.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这款软件支持快速调取技术文件。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The library offers a document retrieval service.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "图书馆提供文献检索服务。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：可以联系之前学过的动词。词尾变化后，变成调取这个过程的名称。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "想象从数据库的抽屉里找出文件。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "information retrieval.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "de",
+      "t": "der Informationsabruf.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 3
+    },
+    {
+      "l": "zh",
+      "t": "第四个词。导师给出反馈，你要修改论文；现在需要表达修改这个过程。",
+      "p": 0.4,
+      "sec": 4
+    },
+    {
+      "l": "en",
+      "t": "revision.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "revision.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "名词，表示修订的过程，也可以指具体修改。与之前学过的修订这个动词属于同一词族。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "今天先记修改文稿这一义项。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a major revision.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "修订；修改。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "die Überarbeitung.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "修订；修改。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The manuscript needs substantial revision.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这份稿件需要大幅修订。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Das Manuskript muss umfassend überarbeitet werden.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这份稿件需要全面修订。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "I made a few revisions to my cover letter.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我对求职信做了几处修改。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象同一份草稿上留下修改痕迹。动词表示去修改，名词表示修改这个过程或做出的改动。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a major revision.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "修订；修改。"
+    },
+    {
+      "l": "de",
+      "t": "eine umfassende Überarbeitung.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "修订；修改。"
+    },
+    {
+      "l": "zh",
+      "t": "先暂停一下，回忆刚才的表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "信息检索、资料调取，今天学的名词是什么？",
+      "p": 4,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "retrieval.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "der Abruf.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 4
+    },
+    {
+      "l": "zh",
+      "t": "第五个词。一章论文开头，要清楚列出这一章的研究目标。",
+      "p": 0.4,
+      "sec": 5
+    },
+    {
+      "l": "en",
+      "t": "set out.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "set out.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "动词短语，在论文中常表示有条理地阐述或列出。也可以表示出发，或者着手做某事，必须看句子。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "今天重点是写清楚内容。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "set out the objectives.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "darlegen.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "This chapter sets out the research objectives.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "本章阐述研究目标。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Dieses Kapitel legt die Forschungsziele dar.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "本章阐述研究目标。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The agreement sets out the rules for using the shared kitchen.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "协议列出了共用厨房的使用规则。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：把写好的几张目标卡按顺序摆开，让别人清楚读懂。这个画面帮助记住有条理地列出；",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "它是记忆联想，不是历史词源。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "set out the objectives.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "de",
+      "t": "die Ziele darlegen.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 5
+    },
+    {
+      "l": "zh",
+      "t": "第六个词。你设计了一套规则，把不同装配体分到不同类别。",
+      "p": 0.4,
+      "sec": 6
+    },
+    {
+      "l": "en",
+      "t": "scheme.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "scheme.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "可数名词，在分类研究中常指分类体系或方案。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "在其他语境也可能指计划，甚至阴谋，不能看到它就只想到负面意思。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a classification scheme.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "体系；方案。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "das Schema.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "体系；方案。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "We developed a classification scheme for the assemblies.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们为这些装配体制定了一套分类体系。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Wir entwickelten ein Klassifikationsschema für die Baugruppen.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们为这些装配体制定了一套分类体系。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "She chose a warm color scheme for her bedroom.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "她为卧室选择了暖色配色方案。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象一张分类图，顶上是总体，下面按规则分支。分类体系和房间配色都体现有组织的安排。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a classification scheme.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "体系；方案。"
+    },
+    {
+      "l": "de",
+      "t": "ein Klassifikationsschema.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "体系；方案。"
+    },
+    {
+      "l": "zh",
+      "t": "先暂停一下，回忆刚才的表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "在章节中清楚阐述研究目标，用哪个两个词的短语？",
+      "p": 4,
+      "sec": "recall:5"
+    },
+    {
+      "l": "en",
+      "t": "set out.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:5"
+    },
+    {
+      "l": "de",
+      "t": "darlegen.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 6
+    },
+    {
+      "l": "zh",
+      "t": "第七个词。你删除重复记录，通过这个动作减少了处理时间。",
+      "p": 0.4,
+      "sec": 7
+    },
+    {
+      "l": "en",
+      "t": "thereby.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "thereby.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "副词，较正式，强调通过刚才说的动作产生后面的结果。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "后面常接动词的现在分词形式，但不只这一种结构。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "thereby reducing costs.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "从而；由此。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "dadurch.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "从而；由此。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "We removed duplicate entries, thereby reducing processing time.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们删除了重复条目，从而缩短了处理时间。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Wir entfernten doppelte Einträge und verkürzten dadurch die Bearbeitungszeit.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "我们删除了重复条目，从而缩短了处理时间。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "She turned off unused lights, thereby saving electricity.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "她关掉不用的灯，从而节省了电。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：把动作和结果用一条箭头连起来：通过这个动作，从而产生那个结果。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "日常聊天中也常直接说所以或这样就。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "thereby reducing costs.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "从而；由此。"
+    },
+    {
+      "l": "de",
+      "t": "dadurch Kosten senken.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "从而；由此。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 7
+    },
+    {
+      "l": "zh",
+      "t": "现在开始全部词的小测验。请先自己想英语，再听德语答案。",
+      "p": 0.4,
+      "sec": "quiz"
+    },
+    {
+      "l": "zh",
+      "t": "日期先这样定，但之后可能改变，暂定的怎么说？",
+      "p": 4,
+      "sec": "recall:2"
+    },
+    {
+      "l": "en",
+      "t": "provisional.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:2"
+    },
+    {
+      "l": "de",
+      "t": "vorläufig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "暂定的；临时的。"
+    },
+    {
+      "l": "zh",
+      "t": "对稿件进行修订，修订这个名词是什么？",
+      "p": 4,
+      "sec": "recall:4"
+    },
+    {
+      "l": "en",
+      "t": "revision.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:4"
+    },
+    {
+      "l": "de",
+      "t": "die Überarbeitung.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "修订；修改。"
+    },
+    {
+      "l": "zh",
+      "t": "分类体系、配色方案里的体系或方案，名词怎么说？",
+      "p": 4,
+      "sec": "recall:6"
+    },
+    {
+      "l": "en",
+      "t": "scheme.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:6"
+    },
+    {
+      "l": "de",
+      "t": "das Schema.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "体系；方案。"
+    },
+    {
+      "l": "zh",
+      "t": "结果来自研究的前期阶段，初步的这个形容词怎么说？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "preliminary.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "vorläufig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "初步的；预备的。"
+    },
+    {
+      "l": "zh",
+      "t": "信息检索、资料调取，今天学的名词是什么？",
+      "p": 4,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "retrieval.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "der Abruf.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "检索；调取；取回。"
+    },
+    {
+      "l": "zh",
+      "t": "在章节中清楚阐述研究目标，用哪个两个词的短语？",
+      "p": 4,
+      "sec": "recall:5"
+    },
+    {
+      "l": "en",
+      "t": "set out.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:5"
+    },
+    {
+      "l": "de",
+      "t": "darlegen.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "阐述；列出。"
+    },
+    {
+      "l": "zh",
+      "t": "通过前面的动作产生后面的结果，从而这个副词怎么说？",
+      "p": 4,
+      "sec": "recall:7"
+    },
+    {
+      "l": "en",
+      "t": "thereby.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:7"
+    },
+    {
+      "l": "de",
+      "t": "dadurch.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "从而；由此。"
+    },
+    {
+      "l": "zh",
+      "t": "今天就到这里。有些词比较正式，记住它们常出现的语境，比把它们硬套进所有生活场景更有用。",
+      "p": 0.3,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "我们下次见。",
+      "p": 0.4
+    }
+  ]
+}

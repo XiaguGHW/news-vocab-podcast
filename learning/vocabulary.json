@@ -522,7 +522,9 @@
       "de": "vorläufig",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -531,7 +533,8 @@
         "常见 preliminary results：初步结果。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/prɪˈlɪməneri/"
     },
     {
       "id": "retrieval",
@@ -541,7 +544,9 @@
       "de": "der Abruf",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -550,7 +555,8 @@
         "retrieve 的相关名词。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/rɪˈtriːvəl/"
     },
     {
       "id": "provisional",
@@ -560,7 +566,9 @@
       "de": "vorläufig",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -569,7 +577,8 @@
         "强调尚未最终确定，之后可能改变；与 preliminary 对比。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/prəˈvɪʒənəl/"
     },
     {
       "id": "revision",
@@ -579,7 +588,9 @@
       "de": "die Überarbeitung",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -588,7 +599,8 @@
         "与 revise 关联；原输入 revisionborderline 按两个词处理。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/rɪˈvɪʒən/"
     },
     {
       "id": "borderline",
@@ -598,7 +610,9 @@
       "de": "grenzwertig",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -607,7 +621,8 @@
         "borderline case：边界案例；原输入 revisionborderline 按两个词处理。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/ˈbɔːrdərlaɪn/"
     },
     {
       "id": "set-out",
@@ -617,7 +632,9 @@
       "de": "darlegen",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -626,7 +643,8 @@
         "论文中常表示阐述或列出，需依原句选择义项。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/set aʊt/"
     },
     {
       "id": "scheme",
@@ -636,7 +654,9 @@
       "de": "das Schema",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -645,7 +665,8 @@
         "论文中 classification scheme 可指分类体系；不机械翻译成阴谋。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/skiːm/"
     },
     {
       "id": "swivel",
@@ -657,7 +678,9 @@
       "de": "schwenken",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -666,7 +689,10 @@
         "用户提供词形 swivelling；英式拼写，词卡与复习保留该形式。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "form_ipa": {
+        "swivelling": "/ˈswɪvəlɪŋ/"
+      }
     },
     {
       "id": "translational",
@@ -676,7 +702,9 @@
       "de": "translatorisch",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -685,7 +713,8 @@
         "工程运动语境；不是翻译的。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/trænsˈleɪʃənəl/"
     },
     {
       "id": "thereby",
@@ -695,7 +724,9 @@
       "de": "dadurch",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab4"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -704,7 +735,8 @@
         "强调通过前述动作产生后面的结果。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/ˌðerˈbaɪ/"
     },
     {
       "id": "enclosure",
@@ -716,7 +748,9 @@
       "de": "das Gehäuse / die Anlage",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -725,7 +759,10 @@
         "尚未看到论文原句，不能确定具体义项；工程外壳与文书附件的德语不同。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "form_ipa": {
+        "enclosures": "/ɪnˈkloʊʒərz/"
+      }
     },
     {
       "id": "ambiguity",
@@ -737,7 +774,9 @@
       "de": "die Mehrdeutigkeit",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
@@ -746,7 +785,8 @@
         "名词，与 ambiguous 同源；词源说明不等于已掌握。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/ˌæmbɪˈɡjuːəti/"
     },
     {
       "id": "ambiguous",
@@ -756,16 +796,20 @@
       "de": "mehrdeutig",
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
-      "episode_ids": [],
+      "episode_ids": [
+        "2026-11-21-vocab5"
+      ],
       "priority": "normal",
       "status": "introduced_unassessed",
       "last_practiced_on": null,
       "next_review_on": "2026-11-22",
       "notes": [
         "形容词，与 ambiguity 同源。",
-        "尚未测验，不记录答对或错误。"
+        "尚未测验，不记录答对或错误。",
+        "用户再次明确要求加入生词本；保持未测验状态。"
       ],
-      "history": []
+      "history": [],
+      "ipa": "/æmˈbɪɡjuəs/"
     }
   ],
   "excluded_words": [

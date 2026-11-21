@@ -1,0 +1,993 @@
+{
+  "format_version": 2,
+  "id": "2026-11-21-vocab5",
+  "date": "2026-11-21",
+  "pub": "2026-11-21T23:13:51+01:00",
+  "title": "11月21日 · 歧义、边界与运动｜论文词汇（二）",
+  "topic": "论文词汇 / 分类边界与工程描述",
+  "summary": "今天学习六个分类和工程描述词，包括歧义的名词与形容词，以及摆转、平移和外壳。",
+  "pic": "📚🔍",
+  "words": [
+    {
+      "en": "borderline",
+      "ipa": "/ˈbɔːrdərlaɪn/",
+      "de": "grenzwertig",
+      "zh": "边界上的；难以明确归类的",
+      "pic": "📏"
+    },
+    {
+      "en": "ambiguous",
+      "ipa": "/æmˈbɪɡjuəs/",
+      "de": "mehrdeutig",
+      "zh": "有歧义的；有多种解释的",
+      "pic": "❓"
+    },
+    {
+      "en": "ambiguity",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "de": "die Mehrdeutigkeit",
+      "zh": "歧义；多义性",
+      "pic": "🔀"
+    },
+    {
+      "en": "swivelling",
+      "ipa": "/ˈswɪvəlɪŋ/",
+      "de": "schwenkend",
+      "zh": "绕轴转动的；摆转的",
+      "pic": "🔄"
+    },
+    {
+      "en": "translational",
+      "ipa": "/trænsˈleɪʃənəl/",
+      "de": "translatorisch",
+      "zh": "平移的",
+      "pic": "↔"
+    },
+    {
+      "en": "enclosures",
+      "ipa": "/ɪnˈkloʊʒərz/",
+      "de": "die Gehäuse",
+      "zh": "外壳；箱体（复数）",
+      "pic": "📦"
+    }
+  ],
+  "sources": [],
+  "segments": [
+    {
+      "l": "zh",
+      "t": "欢迎收听论文词汇专题。",
+      "p": 0.3,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "今天学习六个分类和工程描述词，包括歧义的名词与形容词，以及摆转、平移和外壳。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "这一期用自然例句解释用法，并安排跟读和隐藏答案的小测验。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "第一个词。一个装配体的特征刚好处在两类之间，不容易决定属于哪类。",
+      "p": 0.4,
+      "sec": 1
+    },
+    {
+      "l": "en",
+      "t": "borderline.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "borderline.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "今天作形容词使用，表示接近分界线、难以明确归类。常与案例搭配。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "用于考试或医学时具体含义又取决于判断标准。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a borderline case.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "grenzwertig.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "This assembly is a borderline case between two classes.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这个装配体是介于两个类别之间的边界案例。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Diese Baugruppe ist ein Grenzfall zwischen zwei Klassen.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这个装配体是介于两个类别之间的边界案例。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "His test score was borderline, so the examiner reviewed it again.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "他的考试分数接近分界线，因此考官重新审核了一遍。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：这个词里能认出边界和线的意思。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "想象一个案例站在分界线上，一只脚在一边，另一只脚在另一边。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a borderline case.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "de",
+      "t": "ein Grenzfall.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 1
+    },
+    {
+      "l": "zh",
+      "t": "第二个词。一句分类规则有两种合理读法，参与者可能理解得不同。",
+      "p": 0.4,
+      "sec": 2
+    },
+    {
+      "l": "en",
+      "t": "ambiguous.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "ambiguous.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "形容词，表示可以有多种解释，并非所有不清楚的情况都适合这个词。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "难以读懂可能只是用词复杂，有歧义则是解释不唯一。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an ambiguous statement.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "有歧义的；有多种解释的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "mehrdeutig.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "有歧义的；有多种解释的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The instruction is ambiguous and needs clarification.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这条指示有歧义，需要进一步说明。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Die Anweisung ist mehrdeutig und muss präzisiert werden.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这条指示有歧义，需要进一步说明。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "His message was ambiguous, so I asked what he meant.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "他的信息有歧义，所以我问他是什么意思。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：它的拉丁语词源涉及绕行，后来联系到犹疑、不确定。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "可以想象一条路分成两条，两种解释都说得通。英语词尾提示这是形容词。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an ambiguous statement.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "有歧义的；有多种解释的。"
+    },
+    {
+      "l": "de",
+      "t": "eine mehrdeutige Aussage.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "有歧义的；有多种解释的。"
+    },
+    {
+      "l": "zh",
+      "t": "先暂停一下，回忆刚才的表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "一个案例接近分类边界，很难明确归类，用哪个形容词？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "borderline.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "grenzwertig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 2
+    },
+    {
+      "l": "zh",
+      "t": "第三个词。现在不描述规则是怎样的，而是讨论规则中存在的歧义。",
+      "p": 0.4,
+      "sec": 3
+    },
+    {
+      "l": "en",
+      "t": "ambiguity.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "ambiguity.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "名词，和刚才的形容词同源。可以指多义性这种状态，也可以指具体的歧义。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "不要误以为名词和形容词可以直接放在相同位置。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "reduce ambiguity.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "die Mehrdeutigkeit.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "Clear definitions reduce ambiguity in the classification rules.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "清晰的定义能减少分类规则中的歧义。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Klare Definitionen verringern die Mehrdeutigkeit der Klassifikationsregeln.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "清晰的定义能减少分类规则中的歧义。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "To avoid ambiguity, we wrote the meeting time in full.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "为避免歧义，我们把会议时间完整写了出来。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：这个词和刚才的形容词共用同一幅分岔路画面。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "形容词描述有歧义的，名词给歧义这个现象命名。记住词性再选句子位置。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "reduce ambiguity.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "de",
+      "t": "Mehrdeutigkeit verringern.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 3
+    },
+    {
+      "l": "zh",
+      "t": "第四个词。你坐在办公椅上，椅子的位置没有平移，人却转向了旁边。",
+      "p": 0.4,
+      "sec": 4
+    },
+    {
+      "l": "en",
+      "t": "swivelling.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "swivelling.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是转动这个动词的现在分词，也可修饰部件，表示能够绕轴摆转。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "这里保留用户提供的英式双写形式，美式常用单写。不要把摆转机械理解成完整转一圈。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a swivelling seat.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "绕轴转动的；摆转的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "schwenkend.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "绕轴转动的；摆转的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The operator adjusted the swivelling monitor arm.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "操作员调整了可以摆转的显示器支架。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Der Bediener stellte den schwenkbaren Monitorarm ein.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "操作员调整了可以摆转的显示器支架。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "She sat on a swivelling stool at the counter.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "她坐在柜台旁的一张转凳上。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象显示器支架沿一个转轴转向你，而不是整块向前滑。画面记的是运动方式。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "a swivelling seat.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "绕轴转动的；摆转的。"
+    },
+    {
+      "l": "de",
+      "t": "ein schwenkbarer Sitz.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "绕轴转动的；摆转的。"
+    },
+    {
+      "l": "zh",
+      "t": "先暂停一下，回忆刚才的表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "规则中存在歧义，歧义这个名词是什么？",
+      "p": 4,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "ambiguity.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "die Mehrdeutigkeit.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 4
+    },
+    {
+      "l": "zh",
+      "t": "第五个词。滑台沿直线移动，台面方向保持不变。",
+      "p": 0.4,
+      "sec": 5
+    },
+    {
+      "l": "en",
+      "t": "translational.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "translational.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "工程语境中的形容词，表示平移的，不是语言翻译的。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "物理中的平移运动也不一定只沿一条直线，但今天的直线滑台是一个简单例子。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "translational motion.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "平移的。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "translatorisch.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "平移的。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The linear stage produces translational motion.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "直线滑台产生平移运动。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Der Lineartisch erzeugt eine translatorische Bewegung.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "直线滑台产生平移运动。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The mechanism converts rotational motion into translational motion.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这个机构将旋转运动转化为平移运动。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：想象把一本书沿桌面推走，书的朝向保持不变。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "正式工程词使用工程例句，不强行当作日常聊天用词。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "translational motion.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "平移的。"
+    },
+    {
+      "l": "de",
+      "t": "translatorische Bewegung.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "平移的。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 5
+    },
+    {
+      "l": "zh",
+      "t": "第六个词。控制器装进防护箱中，外面的箱体保护内部元件。",
+      "p": 0.4,
+      "sec": 6
+    },
+    {
+      "l": "en",
+      "t": "enclosures.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "enclosures.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是名词复数。工程中可以指外壳或箱体，今天先学这一义项。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "文书中也可能指随信附件，动物园中则可指围起来的区域；没有原句，不能确定你论文里用的是哪一种。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "常见搭配是。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "protective enclosures.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "外壳；箱体（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "德语在这个语境里可以说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "die Gehäuse.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "外壳；箱体（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "先听一个例句。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The controllers are housed in protective enclosures.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这些控制器装在防护箱体中。"
+    },
+    {
+      "l": "zh",
+      "t": "同一场景，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Die Steuerungen sind in schützenden Gehäusen untergebracht.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这些控制器装在防护箱体中。"
+    },
+    {
+      "l": "zh",
+      "t": "再听另一个自然场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "These enclosures protect the electronics from dust.",
+      "reading": "example",
+      "p": 0.5,
+      "zh": "这些外壳保护电子元件免受灰尘影响。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆提示：可以联系封闭起来这个动作，想象把电子元件包在一个保护箱里。",
+      "p": 0.3
+    },
+    {
+      "l": "zh",
+      "t": "随信附件是另一个意义，不能直接套用外壳这个德语词。",
+      "p": 0.6
+    },
+    {
+      "l": "zh",
+      "t": "跟我读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "protective enclosures.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "外壳；箱体（复数）。"
+    },
+    {
+      "l": "de",
+      "t": "schützende Gehäuse.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "外壳；箱体（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "我们继续。",
+      "p": 1.2,
+      "sec": 6
+    },
+    {
+      "l": "zh",
+      "t": "现在开始全部词的小测验。请先自己想英语，再听德语答案。",
+      "p": 0.4,
+      "sec": "quiz"
+    },
+    {
+      "l": "zh",
+      "t": "一句话可以有多种解释，有歧义的这个形容词怎么说？",
+      "p": 4,
+      "sec": "recall:2"
+    },
+    {
+      "l": "en",
+      "t": "ambiguous.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:2"
+    },
+    {
+      "l": "de",
+      "t": "mehrdeutig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "有歧义的；有多种解释的。"
+    },
+    {
+      "l": "zh",
+      "t": "座椅或支架绕轴转动，今天学的现在分词形式是什么？",
+      "p": 4,
+      "sec": "recall:4"
+    },
+    {
+      "l": "en",
+      "t": "swivelling.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:4"
+    },
+    {
+      "l": "de",
+      "t": "schwenkend.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "绕轴转动的；摆转的。"
+    },
+    {
+      "l": "zh",
+      "t": "控制器外面的防护箱体，今天学的英语复数形式是什么？",
+      "p": 4,
+      "sec": "recall:6"
+    },
+    {
+      "l": "en",
+      "t": "enclosures.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:6"
+    },
+    {
+      "l": "de",
+      "t": "die Gehäuse.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "外壳；箱体（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "一个案例接近分类边界，很难明确归类，用哪个形容词？",
+      "p": 4,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "borderline.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "grenzwertig.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "边界上的；难以明确归类的。"
+    },
+    {
+      "l": "zh",
+      "t": "规则中存在歧义，歧义这个名词是什么？",
+      "p": 4,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "ambiguity.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "die Mehrdeutigkeit.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "歧义；多义性。"
+    },
+    {
+      "l": "zh",
+      "t": "工程中表示平移的，而非语言翻译的，形容词怎么说？",
+      "p": 4,
+      "sec": "recall:5"
+    },
+    {
+      "l": "en",
+      "t": "translational.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:5"
+    },
+    {
+      "l": "de",
+      "t": "translatorisch.",
+      "reading": "answer",
+      "p": 1,
+      "zh": "平移的。"
+    },
+    {
+      "l": "zh",
+      "t": "今天就到这里。有些词比较正式，记住它们常出现的语境，比把它们硬套进所有生活场景更有用。",
+      "p": 0.3,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "我们下次见。",
+      "p": 0.4
+    }
+  ]
+}
