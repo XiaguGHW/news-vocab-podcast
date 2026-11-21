@@ -1,0 +1,632 @@
+{
+ "v": 3,
+ "src_hash": "91021e5d14fd280e",
+ "duration": 545,
+ "size": 4359985,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "欢迎收听词汇试验期。今天用准备报告的过程，区分调取、保留和收集整理三个动作。"
+  },
+  {
+   "start": 10.65,
+   "l": "zh",
+   "t": "每个词都有自然例句和跟读，中途和结尾也会留时间让你自己想答案。"
+  },
+  {
+   "start": 18.37,
+   "l": "zh",
+   "t": "第一个词。报告已经存进数据库，现在需要把它找出来。"
+  },
+  {
+   "start": 24.86,
+   "l": "en",
+   "t": "retrieve.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 27.26,
+   "l": "en",
+   "t": "retrieve.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 29.66,
+   "l": "zh",
+   "t": "这是动词，核心是从已有位置找出并取回。电脑里的信息可以调取，落在某处的物品也可以取回。先学习调取信息这个用法。"
+  },
+  {
+   "start": 43.54,
+   "l": "zh",
+   "t": "工作中常见的搭配是调取文件。"
+  },
+  {
+   "start": 47.66,
+   "l": "en",
+   "t": "retrieve a file.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 50.4,
+   "l": "zh",
+   "t": "德语在电脑数据这个场景里可以说。"
+  },
+  {
+   "start": 54.61,
+   "l": "de",
+   "t": "abrufen.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 57.66,
+   "l": "zh",
+   "t": "听一个工作例句。"
+  },
+  {
+   "start": 60.19,
+   "l": "en",
+   "t": "The system retrieves customer records.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 64.57,
+   "l": "en",
+   "t": "The system retrieves customer records.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 68.27,
+   "l": "zh",
+   "t": "系统调取客户记录。"
+  },
+  {
+   "start": 71.41,
+   "l": "de",
+   "t": "Das System ruft Kundendaten ab.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 76.24,
+   "l": "de",
+   "t": "Das System ruft Kundendaten ab.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 80.35,
+   "l": "zh",
+   "t": "系统调取客户数据。"
+  },
+  {
+   "start": 83.56,
+   "l": "zh",
+   "t": "再听一个取回物品的例句。"
+  },
+  {
+   "start": 86.77,
+   "l": "en",
+   "t": "She retrieved her bag from the car.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 90.6,
+   "l": "en",
+   "t": "She retrieved her bag from the car.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 93.79,
+   "l": "zh",
+   "t": "她从车里取回了包。"
+  },
+  {
+   "start": 96.66,
+   "l": "zh",
+   "t": "这里是取回物品，德语更自然地用另一个说法。"
+  },
+  {
+   "start": 101.77,
+   "l": "de",
+   "t": "Sie holte ihre Tasche aus dem Auto.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 106.36,
+   "l": "de",
+   "t": "Sie holte ihre Tasche aus dem Auto.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 110.25,
+   "l": "zh",
+   "t": "她从车里取回了包。"
+  },
+  {
+   "start": 113.13,
+   "l": "zh",
+   "t": "它比日常的拿、取更正式。平常说去车里拿包，英语用下面的短句也很自然。"
+  },
+  {
+   "start": 121.88,
+   "l": "en",
+   "t": "Get my bag.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 124.25,
+   "l": "zh",
+   "t": "记忆画面：信息原本在数据库里，你搜索后把它调出来。重点是从已有位置取出，不是继续保存。"
+  },
+  {
+   "start": 134.97,
+   "l": "zh",
+   "t": "跟我读，调取文件。"
+  },
+  {
+   "start": 137.94,
+   "l": "en",
+   "t": "retrieve a file.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 142.88,
+   "l": "de",
+   "t": "eine Datei abrufen.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 148.98,
+   "l": "zh",
+   "t": "第二个词。资料拿到了，检查后把有用的记录留下。"
+  },
+  {
+   "start": 155.33,
+   "l": "en",
+   "t": "retain.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 157.7,
+   "l": "en",
+   "t": "retain.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 160.08,
+   "l": "zh",
+   "t": "动词，核心是继续保留已经有的东西。它比较正式，常用于记录、权利、信息或员工。日常说留着一张照片，通常用更普通的词。"
+  },
+  {
+   "start": 175.28,
+   "l": "en",
+   "t": "keep.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 177.66,
+   "l": "zh",
+   "t": "正式语境下，保留记录可以说。"
+  },
+  {
+   "start": 181.49,
+   "l": "en",
+   "t": "retain records.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 184.24,
+   "l": "zh",
+   "t": "德语可对应保留。"
+  },
+  {
+   "start": 186.95,
+   "l": "de",
+   "t": "behalten.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 189.9,
+   "l": "en",
+   "t": "The company retains records for five years.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 194.52,
+   "l": "en",
+   "t": "The company retains records for five years.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 198.43,
+   "l": "zh",
+   "t": "公司将记录保留五年。"
+  },
+  {
+   "start": 201.88,
+   "l": "de",
+   "t": "Das Unternehmen bewahrt Unterlagen fünf Jahre lang auf.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 208.35,
+   "l": "de",
+   "t": "Das Unternehmen bewahrt Unterlagen fünf Jahre lang auf.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 213.92,
+   "l": "zh",
+   "t": "公司将资料保存五年。"
+  },
+  {
+   "start": 217.3,
+   "l": "zh",
+   "t": "这里德语用保存资料的常见动词，和刚才的保留意思接近。"
+  },
+  {
+   "start": 223.67,
+   "l": "de",
+   "t": "aufbewahren.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 226.86,
+   "l": "zh",
+   "t": "生活中也会在退货说明这类正式文字里遇到这个词。"
+  },
+  {
+   "start": 233.14,
+   "l": "en",
+   "t": "Please retain the receipt until your refund arrives.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 238.26,
+   "l": "en",
+   "t": "Please retain the receipt until your refund arrives.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 242.63,
+   "l": "zh",
+   "t": "请保留收据，直到退款到账。"
+  },
+  {
+   "start": 246.52,
+   "l": "de",
+   "t": "Bitte behalten Sie den Beleg, bis die Rückerstattung eintrifft.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 253.58,
+   "l": "de",
+   "t": "Bitte behalten Sie den Beleg, bis die Rückerstattung eintrifft.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 259.68,
+   "l": "zh",
+   "t": "请保留凭证，直到退款到账。"
+  },
+  {
+   "start": 263.59,
+   "l": "zh",
+   "t": "记忆画面：一堆记录经过检查，有用的继续留在文件夹里。第一个词是从里面取出，这个词是让它继续留下。"
+  },
+  {
+   "start": 275.36,
+   "l": "zh",
+   "t": "跟我读，保留记录。"
+  },
+  {
+   "start": 278.33,
+   "l": "en",
+   "t": "retain records.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 283.32,
+   "l": "de",
+   "t": "Unterlagen aufbewahren.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 289.52,
+   "l": "zh",
+   "t": "现在先回忆前两个动作。"
+  },
+  {
+   "start": 292.82,
+   "l": "zh",
+   "t": "从数据库里找出并调取一份报告，刚学的英语动词是什么？"
+  },
+  {
+   "start": 302.92,
+   "l": "en",
+   "t": "retrieve.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 305.29,
+   "l": "de",
+   "t": "abrufen.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 308.28,
+   "l": "zh",
+   "t": "检查完记录后，让有用的记录继续留下，正式英语动词是什么？"
+  },
+  {
+   "start": 318.69,
+   "l": "en",
+   "t": "retain.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 321.06,
+   "l": "de",
+   "t": "behalten.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 323.96,
+   "l": "zh",
+   "t": "第三个词。现在把不同来源的资料汇总成一份报告。"
+  },
+  {
+   "start": 330.6,
+   "l": "en",
+   "t": "compile.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 332.97,
+   "l": "en",
+   "t": "compile.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 335.34,
+   "l": "zh",
+   "t": "动词，核心是收集材料并整理成一个整体，例如清单、报告或资料集。它不只是拿到资料，还包括把资料汇到一起。"
+  },
+  {
+   "start": 348.41,
+   "l": "zh",
+   "t": "常见搭配是整理一份清单。"
+  },
+  {
+   "start": 352.1,
+   "l": "en",
+   "t": "compile a list.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 354.9,
+   "l": "zh",
+   "t": "德语可说收集整理。"
+  },
+  {
+   "start": 357.8,
+   "l": "de",
+   "t": "zusammenstellen.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 361.23,
+   "l": "en",
+   "t": "We compiled a report using data from three departments.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 366.54,
+   "l": "en",
+   "t": "We compiled a report using data from three departments.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 371.08,
+   "l": "zh",
+   "t": "我们利用三个部门的数据汇编了一份报告。"
+  },
+  {
+   "start": 375.8,
+   "l": "de",
+   "t": "Wir stellten einen Bericht mit Daten aus drei Abteilungen zusammen.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 382.8,
+   "l": "de",
+   "t": "Wir stellten einen Bericht mit Daten aus drei Abteilungen zusammen.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 388.82,
+   "l": "zh",
+   "t": "我们利用三个部门的数据汇编了一份报告。"
+  },
+  {
+   "start": 393.55,
+   "l": "zh",
+   "t": "再听一个生活场景。你把亲友传来的食谱整理成册。"
+  },
+  {
+   "start": 399.8,
+   "l": "en",
+   "t": "She compiled a cookbook from family recipes.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 404.52,
+   "l": "en",
+   "t": "She compiled a cookbook from family recipes.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 408.5,
+   "l": "zh",
+   "t": "她把家传食谱整理成了一本食谱集。"
+  },
+  {
+   "start": 412.99,
+   "l": "de",
+   "t": "Sie stellte ein Kochbuch aus Familienrezepten zusammen.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 419.65,
+   "l": "de",
+   "t": "Sie stellte ein Kochbuch aus Familienrezepten zusammen.",
+   "rep": 2,
+   "speed": "0.9×"
+  },
+  {
+   "start": 425.38,
+   "l": "zh",
+   "t": "她把家传食谱整理成了一本食谱集。"
+  },
+  {
+   "start": 429.87,
+   "l": "zh",
+   "t": "这个词也可以表示编译程序，那是另一个技术用法，今天先记收集并整理这一层意思。记忆画面：把几叠分散的纸汇到一起，整理成一本册子。"
+  },
+  {
+   "start": 444.69,
+   "l": "zh",
+   "t": "跟我读，整理一份清单。"
+  },
+  {
+   "start": 447.92,
+   "l": "en",
+   "t": "compile a list.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 452.94,
+   "l": "de",
+   "t": "eine Liste zusammenstellen.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 459.28,
+   "l": "zh",
+   "t": "把三个动作连起来。从数据库调取资料。"
+  },
+  {
+   "start": 464.48,
+   "l": "en",
+   "t": "retrieve data.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 467.06,
+   "l": "zh",
+   "t": "把有用的记录保留下来。"
+  },
+  {
+   "start": 470.27,
+   "l": "en",
+   "t": "retain useful records.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 473.6,
+   "l": "zh",
+   "t": "最后把资料整理成报告。"
+  },
+  {
+   "start": 477.12,
+   "l": "en",
+   "t": "compile a report.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 479.95,
+   "l": "zh",
+   "t": "现在开始全部词的小测验。顺序打乱，先想英语，再听德语。"
+  },
+  {
+   "start": 487.38,
+   "l": "zh",
+   "t": "把不同来源的材料收集整理成报告，刚学的动词是什么？"
+  },
+  {
+   "start": 497.36,
+   "l": "en",
+   "t": "compile.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 499.73,
+   "l": "de",
+   "t": "zusammenstellen.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 503.01,
+   "l": "zh",
+   "t": "信息本来存放在数据库里，现在把它调出来，动词是什么？"
+  },
+  {
+   "start": 513.11,
+   "l": "en",
+   "t": "retrieve.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 515.48,
+   "l": "de",
+   "t": "abrufen.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 518.47,
+   "l": "zh",
+   "t": "正式说明中，请把收据继续保留到退款到账，保留用哪个动词？"
+  },
+  {
+   "start": 529.14,
+   "l": "en",
+   "t": "retain.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 531.52,
+   "l": "de",
+   "t": "behalten.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 534.41,
+   "l": "zh",
+   "t": "记住三个动作：从已有位置取出，继续留下，收集后整理成整体。今天就到这里，我们下次见。"
+  }
+ ],
+ "video_size": 7334689,
+ "built": "2026-11-21T10:37:18.326484+00:00"
+}
