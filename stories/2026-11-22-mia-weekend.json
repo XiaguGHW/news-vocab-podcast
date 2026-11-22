@@ -541,5 +541,133 @@
       "en": "There was still plenty of tea.",
       "zh": "壶里的茶，也还很足。"
     }
+  ],
+  "words": [
+    {
+      "en": "ambiguous",
+      "zh": "有歧义的；可有多种解释的",
+      "de": "mehrdeutig",
+      "ipa": "/æmˈbɪɡjuəs/"
+    },
+    {
+      "en": "discrepancy",
+      "zh": "不一致；差异",
+      "de": "die Abweichung",
+      "ipa": "/dɪˈskrepənsi/"
+    },
+    {
+      "en": "refine",
+      "zh": "完善；细化",
+      "de": "verfeinern",
+      "ipa": "/rɪˈfaɪn/"
+    },
+    {
+      "en": "eligibility",
+      "zh": "资格；符合条件",
+      "de": "die Berechtigung",
+      "ipa": "/ˌelɪdʒəˈbɪləti/"
+    },
+    {
+      "en": "exemption",
+      "zh": "豁免；免除",
+      "de": "die Befreiung",
+      "ipa": "/ɪɡˈzempʃən/"
+    },
+    {
+      "en": "pending",
+      "zh": "待处理的；尚未完成的",
+      "de": "ausstehend",
+      "ipa": "/ˈpendɪŋ/"
+    },
+    {
+      "en": "workaround",
+      "zh": "变通办法；绕过问题的办法",
+      "de": "die Umgehungslösung",
+      "ipa": "/ˈwɜːrkəraʊnd/"
+    },
+    {
+      "en": "friction",
+      "zh": "摩擦；操作或合作中的阻力",
+      "de": "die Reibung",
+      "ipa": "/ˈfrɪkʃən/"
+    },
+    {
+      "en": "seamless",
+      "zh": "衔接流畅的；无缝的",
+      "de": "nahtlos",
+      "ipa": "/ˈsiːmləs/"
+    },
+    {
+      "en": "rollback",
+      "zh": "回滚；恢复到先前版本",
+      "de": "das Zurücksetzen",
+      "ipa": "/ˈroʊlbæk/"
+    },
+    {
+      "en": "edge case",
+      "zh": "边界情况",
+      "de": "der Grenzfall",
+      "ipa": "/ˈedʒ keɪs/"
+    },
+    {
+      "en": "delegate",
+      "zh": "委派；分派任务",
+      "de": "delegieren",
+      "ipa": "/ˈdelɪɡeɪt/"
+    },
+    {
+      "en": "overlook",
+      "zh": "忽略；漏看",
+      "de": "übersehen",
+      "ipa": "/ˌoʊvərˈlʊk/"
+    },
+    {
+      "en": "feasible",
+      "zh": "可行的",
+      "de": "machbar",
+      "ipa": "/ˈfiːzəbəl/"
+    },
+    {
+      "en": "accountability",
+      "zh": "对行为和结果负责；问责",
+      "de": "die Rechenschaftspflicht",
+      "ipa": "/əˌkaʊntəˈbɪləti/"
+    },
+    {
+      "en": "reimburse",
+      "zh": "报销；偿还垫付费用",
+      "de": "erstatten",
+      "ipa": "/ˌriːɪmˈbɜːrs/"
+    },
+    {
+      "en": "replenish",
+      "zh": "补充；重新添满",
+      "de": "auffüllen",
+      "ipa": "/rɪˈplenɪʃ/"
+    },
+    {
+      "en": "allocate",
+      "zh": "分配；划拨",
+      "de": "zuteilen",
+      "ipa": "/ˈæləkeɪt/"
+    },
+    {
+      "en": "tentative",
+      "zh": "暂定的；尚未确定的",
+      "de": "vorläufig",
+      "ipa": "/ˈtentətɪv/"
+    },
+    {
+      "en": "clutter",
+      "zh": "堆积的杂物；杂乱",
+      "de": "das Durcheinander",
+      "ipa": "/ˈklʌtər/"
+    },
+    {
+      "en": "nuanced",
+      "zh": "细致有层次的；考虑细微差别的",
+      "de": "differenziert",
+      "ipa": "/ˈnuːɑːnst/"
+    }
   ]
 }

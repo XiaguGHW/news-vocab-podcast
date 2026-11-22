@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "baseline_on": "2026-11-22",
+  "baseline_note": "启用自动同步前的已发布期数；建立指纹基线，不批量回填旧新闻词。",
+  "episodes": {
+    "2026-11-22-mia-weekend": {
+      "words_hash": "0a4ed0e6b83b29c2905ec0f962034bed69672f3a3c5f1ec6c49638556677eed1",
+      "baseline": true,
+      "word_count": 21
+    },
+    "2026-11-21-vocab5": {
+      "words_hash": "1a99b06c763989f2afcbd2cb1f8fa86444759cb630e415fc5b61289053c1145d",
+      "baseline": true,
+      "word_count": 6
+    },
+    "2026-11-21-vocab4": {
+      "words_hash": "013ada8430c1547208b60184ee80312aa5ec6c8a79513fa6a76262d875c93064",
+      "baseline": true,
+      "word_count": 7
+    },
+    "2026-11-21-vocab3": {
+      "words_hash": "b162c27f24a52d6dd3be01b4dc05cf2abbbf2ff286df7273ad2b24d3f815f230",
+      "baseline": true,
+      "word_count": 3
+    },
+    "2026-11-21-vocab2": {
+      "words_hash": "10cb1920e12b3b765d7e7038e60d20f9c81e8617bc7ac79d3f13ff38b14f594c",
+      "baseline": true,
+      "word_count": 6
+    },
+    "2026-11-21-vocab1": {
+      "words_hash": "a32829d9f1fe630b07ca0993e5cbb78944c3755e0f0fb88a136bb2089f3323d7",
+      "baseline": true,
+      "word_count": 9
+    },
+    "2026-11-19-2": {
+      "words_hash": "76fda4019619a82b29e1e80f89a2b27d39c4ecfff99d393f571105f345b6a8cb",
+      "baseline": true,
+      "word_count": 13
+    },
+    "2026-11-19": {
+      "words_hash": "f712ff1673128a4dcc313c1f3be8c2024cf2da11af803da26b8521bd64ba9b1a",
+      "baseline": true,
+      "word_count": 5
+    },
+    "2026-11-18-3": {
+      "words_hash": "778a0e9e9ff6985b0667755f29d6163b7512972390a91a24cd3e581fcb9e93f2",
+      "baseline": true,
+      "word_count": 5
+    },
+    "2026-11-18-job1": {
+      "words_hash": "878c0dec12809ecc232f02ca80e148fe29db9e56e820a3866b2143fd62a14c69",
+      "baseline": true,
+      "word_count": 11
+    },
+    "2026-11-18-2": {
+      "words_hash": "576ee8d324b5bfb852a94c80689d02e588b41aef7017a362e1fab73deea847fe",
+      "baseline": true,
+      "word_count": 5
+    },
+    "2026-11-18": {
+      "words_hash": "407c8f0f42c55adb27240058c355c9152869c5761d9c402e50c4604a318b8a51",
+      "baseline": true,
+      "word_count": 3
+    }
+  }
+}

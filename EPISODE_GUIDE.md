@@ -113,6 +113,9 @@
 
 ## 发布
 
+用户已授权每期发布后把明确的 `words` 自动同步到 `learning/vocabulary.json`。每个词写清英文原形（或提供 `lemma`）、中文与德语；词形可列入 `forms`。
+发布流程部署前校验导入计划、部署后自动去重同步。跳过排除词、保留旧练习记录，新词仅标为未测验。确认最后的词汇同步步骤成功后再报告发布完成。
+
 写好后先运行 `python check_episode.py episodes/YYYY-MM-DD.json`，通过了再提交：
 
 ```

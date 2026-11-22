@@ -8,6 +8,8 @@ on:
       - "stories/**"
       - "build_story.py"
       - "story_podcast.py"
+      - "sync_podcast_vocabulary.py"
+      - "tests/test_podcast_sync.py"
       - "build.py"
       - "video.py"
       - "fonts/**"
@@ -67,6 +69,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python build.py
 
+      - name: Validate vocabulary synchronization before publishing
+        run: python sync_podcast_vocabulary.py --feed site/feed.xml --dry-run
+
       - name: Commit built files
         run: |
           git config user.name "podcast-bot"
@@ -84,3 +89,6 @@ jobs:
           path: site
       - id: deploy
         uses: actions/deploy-pages@v4
+
+      - name: Sync published vocabulary to daily review list
+        run: python sync_podcast_vocabulary.py --feed site/feed.xml --commit
