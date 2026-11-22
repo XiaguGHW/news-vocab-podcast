@@ -743,14 +743,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "与 revise 关联；原输入 revisionborderline 按两个词处理。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q15",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "revision",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/rɪˈvɪʒən/"
     },
     {
@@ -787,14 +797,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "论文中常表示阐述或列出，需依原句选择义项。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q14",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "sets out",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/set aʊt/"
     },
     {
@@ -879,14 +899,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "强调通过前述动作产生后面的结果。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q09",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "thereby",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "用户表示已经很熟悉"
+        }
+      ],
       "ipa": "/ˌðerˈbaɪ/"
     },
     {
@@ -1027,14 +1057,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "refine a system / method：在已有基础上进一步改进。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q13",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "refined",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "eligibility",
@@ -1049,14 +1089,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "eligibility for a fee exemption：费用豁免资格；与 eligible 关联但保留独立词条。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q02",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "eligibility",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "exemption",
@@ -1070,15 +1120,34 @@
       "episode_ids": [
         "2026-11-22-mia-weekend"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "an exemption from a fee：免缴费用。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q06",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "exemption",
+          "result": "hinted_correct",
+          "hint_requests": 1,
+          "note": "场景提示后答对"
+        },
+        {
+          "event_id": "2026-11-23-review-round2-q10",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "exemption",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "同轮重测答对，保留此前提示"
+        }
+      ]
     },
     {
       "id": "pending",
@@ -1093,14 +1162,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a pending payment：尚未处理完成的付款。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q03",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "pending",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "用户表示已经很熟悉"
+        }
+      ]
     },
     {
       "id": "workaround",
@@ -1169,14 +1248,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a seamless booking experience：顺畅衔接的预约体验。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q07",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "seamless",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "rollback",
@@ -1190,15 +1279,25 @@
       "episode_ids": [
         "2026-11-22-mia-weekend"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a rollback plan；名词 rollback，动词短语 roll back。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q11",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "roll back",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "意思正确，题目要求名词 rollback；回答动词短语"
+        }
+      ]
     },
     {
       "id": "edge-case",
@@ -1213,14 +1312,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "接近条件边界或极端条件时的情况，不把所有罕见情况都等同于边界情况。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q12",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "edge case",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "delegate",
@@ -1299,14 +1408,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a feasible plan / solution；较正式，考虑时间、资源等现实条件。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q08",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "feasible",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "accountability",
@@ -1406,15 +1525,34 @@
       "episode_ids": [
         "2026-11-22-mia-weekend"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "allocate time to tasks / resources to a project；常用于工作或正式语境。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q01",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "delegate",
+          "result": "word_confusion",
+          "hint_requests": 0,
+          "note": "将 allocate 与 delegate 混淆"
+        },
+        {
+          "event_id": "2026-11-23-review-round2-q05",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "allocate",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "同轮重测答对，保留此前混淆"
+        }
+      ]
     },
     {
       "id": "tentative",
@@ -1451,14 +1589,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "clear clutter；通常不可数，不一定全是垃圾。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round2-q04",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "clutter",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "nuanced",
