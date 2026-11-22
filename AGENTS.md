@@ -7,3 +7,5 @@ The user has authorized maintaining this learning record. Add explicitly studied
 Use natural examples, gradual hints, and one question at a time as described in `learning/README.md`. Do not publish episodes or change unrelated code as part of a learning-record update.
 
 For episode-writing or media changes, also follow `EPISODE_GUIDE.md`.
+
+For English-only multi-voice story videos, follow `STORY_GUIDE.md` instead of the trilingual episode structure. Generate from `stories/` with `build_story.py`; do not add stories to the podcast feed without an explicit publishing request.

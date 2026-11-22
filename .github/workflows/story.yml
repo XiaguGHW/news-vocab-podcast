@@ -1,0 +1,105 @@
+name: Build story video
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'stories/**'
+      - 'build_story.py'
+      - 'tests/test_story.py'
+      - '.github/workflows/story.yml'
+  workflow_dispatch:
+    inputs:
+      story:
+        description: 'Story JSON path'
+        required: true
+        default: 'stories/mia-weekend-preview.json'
+        type: string
+      orientation:
+        description: 'Video layout'
+        type: choice
+        options: [from-file, portrait, landscape, both]
+        default: from-file
+      preview_segments:
+        description: 'First N segments only (blank means full story)'
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: story-video-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install edge-tts pillow fonttools
+      - name: Test story tools
+        run: python -m unittest discover -s tests -p 'test_story.py'
+      - uses: actions/cache@v4
+        with:
+          path: .cache/story-tts
+          key: ${{ runner.os }}-story-tts-v1-${{ hashFiles('stories/**/*.json', 'build_story.py') }}
+          restore-keys: |
+            ${{ runner.os }}-story-tts-v1-
+      - name: Generate selected stories
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          STORY: ${{ inputs.story }}
+          ORIENTATION: ${{ inputs.orientation }}
+          PREVIEW_SEGMENTS: ${{ inputs.preview_segments }}
+        run: |
+          python - <<'PY'
+          import os
+          import subprocess
+          import sys
+          from pathlib import Path
+
+          root = Path.cwd()
+          if os.environ['EVENT'] == 'workflow_dispatch':
+              paths = [Path(os.environ['STORY'])]
+          else:
+              before = os.environ.get('BEFORE', '')
+              if before and set(before) != {'0'}:
+                  changed = subprocess.check_output(['git', 'diff', '--name-only', before, 'HEAD'], text=True).splitlines()
+              else:
+                  changed = ['build_story.py']
+              tool_change = any(p in ('build_story.py', '.github/workflows/story.yml', 'tests/test_story.py') for p in changed)
+              paths = sorted(Path('stories').glob('*.json')) if tool_change else [Path(p) for p in changed if p.startswith('stories/') and p.endswith('.json') and Path(p).is_file()]
+          for path in paths:
+              resolved = path.resolve()
+              if not resolved.is_relative_to(root / 'stories') or resolved.suffix != '.json' or not resolved.is_file():
+                  raise ValueError('Select an existing JSON file inside stories/')
+              command = [sys.executable, 'build_story.py', str(resolved)]
+              orientation = os.environ.get('ORIENTATION')
+              if orientation and orientation != 'from-file':
+                  command += ['--orientation', orientation]
+              preview = os.environ.get('PREVIEW_SEGMENTS', '').strip()
+              if preview:
+                  if not preview.isdigit() or int(preview) < 1:
+                      raise ValueError('preview_segments must be a positive integer')
+                  command += ['--preview-segments', preview]
+              subprocess.run(command, check=True)
+          PY
+      - name: Download story videos here
+        uses: actions/upload-artifact@v4
+        with:
+          name: story-videos
+          path: dist/stories/
+          if-no-files-found: warn
+          retention-days: 90

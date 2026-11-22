@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "mia-weekend-preview",
+  "title": "A Weekend with Nothing to Prove",
+  "title_zh": "不必证明什么的周末：试听节选",
+  "theme": "dark",
+  "orientation": "both",
+  "speed": 0.8,
+  "pause": 0.6,
+  "segments": [
+    {
+      "speaker": "Narrator",
+      "en": "On Friday afternoon, Mia was still at her desk.",
+      "zh": "周五下午，米娅还坐在办公桌前。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "And the update?",
+      "zh": "那这次更新呢？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We have a rollback plan. If anything goes wrong, we can restore the previous version.",
+      "zh": "我们有回滚方案。如果出了问题，可以恢复到之前的版本。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "There’s one last edge case I need to check.",
+      "zh": "还有最后一个边界情况，我需要检查一下。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I’ll test that. You can delegate a few things, you know.",
+      "zh": "那个我来测试。你知道的，有些事情可以分给别人做。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia smiled and closed her laptop before she could change her mind.",
+      "zh": "米娅笑了笑，趁自己还没改变主意，合上了电脑。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "That evening, she arrived at a small guesthouse beside a lake.",
+      "zh": "那天傍晚，她来到一家湖边的小旅馆。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Anything planned for tomorrow?",
+      "zh": "明天有什么安排吗？"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Not really.",
+      "zh": "没什么安排。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Good. Breakfast is until eleven.",
+      "zh": "那挺好。早餐供应到十一点。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "The next morning, Mia joined a pottery class. Rosa gave her a piece of clay.",
+      "zh": "第二天早上，米娅参加了一节陶艺课。罗莎递给她一块陶土。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I’ve never done this before.",
+      "zh": "我以前从来没做过这个。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "That’s usually how people start.",
+      "zh": "大家通常都是这样开始的。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia’s cup leaned slightly to one side. She tried to straighten it and pressed too hard.",
+      "zh": "米娅的杯子有点歪。她想把它扶正，却用力过大。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I think I’ve overlooked a step.",
+      "zh": "我想我可能漏掉了一个步骤。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Let’s have a look.",
+      "zh": "我们看看。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Rosa checked the base and smoothed a small crack.",
+      "zh": "罗莎检查了杯底，抹平了一道小裂缝。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "There. It’ll hold tea. That’s a useful quality in a cup.",
+      "zh": "好了，能装茶。对一个杯子来说，这是个很实用的优点。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "After class, they sat in the garden. Daniel brought them a fresh plate of biscuits.",
+      "zh": "下课后，她们坐在花园里。丹尼尔给她们端来了一盘饼干。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I’m better at working than resting. I keep checking things even when I’m supposed to be off.",
+      "zh": "和休息相比，我更擅长工作。即使已经休息了，我还是忍不住反复检查。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Do the others do their jobs?",
+      "zh": "其他人会做好自己的工作吗？"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Yes.",
+      "zh": "会。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Then perhaps you can let them.",
+      "zh": "那也许你可以让他们去做。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia laughed. She picked up her tea and watched the leaves moving in the garden.",
+      "zh": "米娅笑了。她端起茶，看着花园里轻轻摇动的树叶。"
+    }
+  ]
+}

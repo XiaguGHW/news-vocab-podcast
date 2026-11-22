@@ -13,3 +13,7 @@
 3. 媒体文件永久存在 GitHub Releases（每期一个），最近 30 期同时放在 GitHub Pages 上供播放和订阅；仓库里只提交时间轴、缩略图、feed 和网页。
 4. `.github/workflows/build.yml`：每次推送讲解稿后自动运行 `check_episode.py` 和 `build.py`，并发布到 GitHub Pages。
 5. `fonts/`：思源黑体简体（常用字子集）和 Noto 彩色 emoji，用于视频画面。
+
+## 英语多角色故事视频
+
+见 [STORY_GUIDE.md](STORY_GUIDE.md)。独立的 `build_story.py` 支持深色中英字幕、自然慢速英文、多角色音色、竖屏或横屏（也可同时输出）。`stories/` 新稿推送后由 **Build story video** 生成可下载的 Actions 附件；不自动发布到三语播客。
