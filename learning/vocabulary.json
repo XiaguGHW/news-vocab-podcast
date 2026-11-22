@@ -285,8 +285,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "重点：eligible 拼写，以及 eligible for 搭配。"
       ],
@@ -299,6 +299,15 @@
           "result": "spelling_error",
           "hint_requests": 0,
           "note": "词义选择正确，拼写应为 eligible。"
+        },
+        {
+          "event_id": "2026-11-22-early-review-q02",
+          "date": "2026-11-22",
+          "source": "visible_conversation_early_review",
+          "response": "eligible",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "本轮无提示答对；按跨日复习安排再次练习。"
         }
       ]
     },
@@ -377,8 +386,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -400,6 +409,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-22-early-review-q03",
+          "date": "2026-11-22",
+          "source": "visible_conversation_early_review",
+          "response": "revised",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "本轮无提示答对；按跨日复习安排再次练习。"
         }
       ]
     },
@@ -446,8 +464,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -469,6 +487,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-22-early-review-q04",
+          "date": "2026-11-22",
+          "source": "visible_conversation_early_review",
+          "response": "subsequent",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "本轮无提示答对；按跨日复习安排再次练习。"
         }
       ]
     },
@@ -535,14 +562,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "常见 preliminary results：初步结果。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-22-early-review-q05",
+          "date": "2026-11-22",
+          "source": "visible_conversation_early_review",
+          "response": "preliminary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "本轮无提示答对；按跨日复习安排再次练习。"
+        }
+      ],
       "ipa": "/prɪˈlɪməneri/"
     },
     {
