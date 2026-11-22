@@ -59,8 +59,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [],
       "history": [
         {
@@ -71,6 +71,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-22-evening-review-q05",
+          "date": "2026-11-22",
+          "source": "scheduled_review_visible_answer",
+          "response": "retrieved",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目：The researchers ______ the relevant documents from the database. 无提示正确使用过去式。"
         }
       ]
     },
