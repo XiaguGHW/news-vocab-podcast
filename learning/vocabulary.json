@@ -186,8 +186,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "部分 constitute 整体；虽然本题答对，之后用户明确自述三词难记，需优先复习。"
       ],
@@ -200,6 +200,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-22-evening-review-q02",
+          "date": "2026-11-22",
+          "source": "scheduled_review_visible_answer",
+          "response": "constitute",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目：Four engineers and twelve students ______ the group of workshop participants. 无提示正确。"
         }
       ]
     },
