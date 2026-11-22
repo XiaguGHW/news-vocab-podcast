@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-21",
+  "updated_on": "2026-11-22",
   "timezone": "Europe/Berlin",
   "owner_scope": "personal_english_vocabulary",
   "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
@@ -797,7 +797,8 @@
       "added_on": "2026-11-21",
       "learning_source": "current_conversation_new_thesis_vocabulary",
       "episode_ids": [
-        "2026-11-21-vocab5"
+        "2026-11-21-vocab5",
+        "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
       "status": "introduced_unassessed",
@@ -810,6 +811,446 @@
       ],
       "history": [],
       "ipa": "/æmˈbɪɡjuəs/"
+    },
+    {
+      "id": "discrepancy",
+      "en": "discrepancy",
+      "forms": [],
+      "zh": "不一致；差异",
+      "de": "die Abweichung",
+      "ipa": "/dɪˈskrepənsi/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a discrepancy between A and B：两处本应对应的信息不一致。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "refine",
+      "en": "refine",
+      "forms": [],
+      "zh": "完善；细化",
+      "de": "verfeinern",
+      "ipa": "/rɪˈfaɪn/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "refine a system / method：在已有基础上进一步改进。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "eligibility",
+      "en": "eligibility",
+      "forms": [],
+      "zh": "资格；符合条件",
+      "de": "die Berechtigung",
+      "ipa": "/ˌelɪdʒəˈbɪləti/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "eligibility for a fee exemption：费用豁免资格；与 eligible 关联但保留独立词条。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "exemption",
+      "en": "exemption",
+      "forms": [],
+      "zh": "豁免；免除",
+      "de": "die Befreiung",
+      "ipa": "/ɪɡˈzempʃən/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "an exemption from a fee：免缴费用。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "pending",
+      "en": "pending",
+      "forms": [],
+      "zh": "待处理的；尚未完成的",
+      "de": "ausstehend",
+      "ipa": "/ˈpendɪŋ/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a pending payment：尚未处理完成的付款。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "workaround",
+      "en": "workaround",
+      "forms": [],
+      "zh": "变通办法；绕过问题的办法",
+      "de": "die Umgehungslösung",
+      "ipa": "/ˈwɜːrkəraʊnd/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "find a workaround：先绕过问题使事情继续，不保证修复根源。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "friction",
+      "en": "friction",
+      "forms": [],
+      "zh": "摩擦；操作或合作中的阻力",
+      "de": "die Reibung",
+      "ipa": "/ˈfrɪkʃən/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "故事中 reduce friction 指减少操作麻烦；产品用法与工程物理义要区分。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "seamless",
+      "en": "seamless",
+      "forms": [],
+      "zh": "衔接流畅的；无缝的",
+      "de": "nahtlos",
+      "ipa": "/ˈsiːmləs/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a seamless booking experience：顺畅衔接的预约体验。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "rollback",
+      "en": "rollback",
+      "forms": [],
+      "zh": "回滚；恢复到先前版本",
+      "de": "das Zurücksetzen",
+      "ipa": "/ˈroʊlbæk/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a rollback plan；名词 rollback，动词短语 roll back。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "edge-case",
+      "en": "edge case",
+      "forms": [],
+      "zh": "边界情况",
+      "de": "der Grenzfall",
+      "ipa": "/ˈedʒ keɪs/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "接近条件边界或极端条件时的情况，不把所有罕见情况都等同于边界情况。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "delegate",
+      "en": "delegate",
+      "forms": [],
+      "zh": "委派；分派任务",
+      "de": "delegieren",
+      "ipa": "/ˈdelɪɡeɪt/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "动词：delegate tasks to someone。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "overlook",
+      "en": "overlook",
+      "forms": [],
+      "zh": "忽略；漏看",
+      "de": "übersehen",
+      "ipa": "/ˌoʊvərˈlʊk/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "overlook a detail；a room overlooking the garden 中另有朝向、俯瞰的意思。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "feasible",
+      "en": "feasible",
+      "forms": [],
+      "zh": "可行的",
+      "de": "machbar",
+      "ipa": "/ˈfiːzəbəl/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a feasible plan / solution；较正式，考虑时间、资源等现实条件。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "accountability",
+      "en": "accountability",
+      "forms": [],
+      "zh": "对行为和结果负责；问责",
+      "de": "die Rechenschaftspflicht",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "强调需要解释并承担行为或结果的责任，不仅是任务分工。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "reimburse",
+      "en": "reimburse",
+      "forms": [],
+      "zh": "报销；偿还垫付费用",
+      "de": "erstatten",
+      "ipa": "/ˌriːɪmˈbɜːrs/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "reimburse someone for travel expenses；退还多收的房费用 refund 更自然。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "replenish",
+      "en": "replenish",
+      "forms": [],
+      "zh": "补充；重新添满",
+      "de": "auffüllen",
+      "ipa": "/rɪˈplenɪʃ/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "replenish supplies：补充已消耗的物资；略书面。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "allocate",
+      "en": "allocate",
+      "forms": [],
+      "zh": "分配；划拨",
+      "de": "zuteilen",
+      "ipa": "/ˈæləkeɪt/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "allocate time to tasks / resources to a project；常用于工作或正式语境。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "tentative",
+      "en": "tentative",
+      "forms": [],
+      "zh": "暂定的；尚未确定的",
+      "de": "vorläufig",
+      "ipa": "/ˈtentətɪv/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a tentative booking / date / plan：安排可能再调整。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "clutter",
+      "en": "clutter",
+      "forms": [],
+      "zh": "堆积的杂物；杂乱",
+      "de": "das Durcheinander",
+      "ipa": "/ˈklʌtər/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "clear clutter；通常不可数，不一定全是垃圾。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
+    },
+    {
+      "id": "nuanced",
+      "en": "nuanced",
+      "forms": [],
+      "zh": "细致有层次的；考虑细微差别的",
+      "de": "differenziert",
+      "ipa": "/ˈnuːɑːnst/",
+      "added_on": "2026-11-22",
+      "learning_source": "visible_conversation_story_and_explicit_explanations",
+      "episode_ids": [
+        "2026-11-22-mia-weekend"
+      ],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-23",
+      "notes": [
+        "a nuanced view：考虑不同层面的看法；也曾在本对话《寂静协议》中讲解。",
+        "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
+      ],
+      "history": []
     }
   ],
   "excluded_words": [
@@ -817,6 +1258,31 @@
       "en": "comprehend",
       "excluded_on": "2026-11-21",
       "reason": "用户明确要求不加入复习；后续候选词导入时不得自动重新加入。"
+    },
+    {
+      "en": "robust",
+      "excluded_on": "2026-11-22",
+      "reason": "用户在本对话明确说明已经认识，不作为生词加入复习；无测验结果，不推断具体掌握分数。"
+    },
+    {
+      "en": "constraint",
+      "excluded_on": "2026-11-22",
+      "reason": "用户在本对话明确说明已经认识，不作为生词加入复习；无测验结果，不推断具体掌握分数。"
+    },
+    {
+      "en": "clarify",
+      "excluded_on": "2026-11-22",
+      "reason": "用户在本对话明确说明已经认识，不作为生词加入复习；无测验结果，不推断具体掌握分数。"
+    },
+    {
+      "en": "extension",
+      "excluded_on": "2026-11-22",
+      "reason": "用户在本对话明确说明已经认识，不作为生词加入复习；无测验结果，不推断具体掌握分数。"
+    },
+    {
+      "en": "submit",
+      "excluded_on": "2026-11-22",
+      "reason": "用户在本对话明确说明已经认识，不作为生词加入复习；无测验结果，不推断具体掌握分数。"
     }
   ]
 }
