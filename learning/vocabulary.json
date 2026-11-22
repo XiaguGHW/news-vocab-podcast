@@ -147,8 +147,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "需要重新无提示检验；提示不要提前给 supplement。"
       ],
@@ -161,6 +161,15 @@
           "result": "overcued_correct",
           "hint_requests": 0,
           "note": "助手已给出 supplement，不能计作独立回忆；此前输入 tis 含义不明，不作错误计分。"
+        },
+        {
+          "event_id": "2026-11-22-evening-review-q01",
+          "date": "2026-11-22",
+          "source": "scheduled_review_visible_answer",
+          "response": "supplementary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目：The full questionnaire is available in the ______ materials. 用户先作答，助手随后才解释词义。"
         }
       ]
     },
