@@ -209,8 +209,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "整体 comprises 部分；与 compose、constitute 对比，曾明确自述难记；词源已解释，未验证效果。"
       ],
@@ -232,6 +232,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-22-early-review-q01",
+          "date": "2026-11-22",
+          "source": "visible_conversation_early_review",
+          "response": "comprises",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目 The course ______ four modules.；无提示，单数主语词形正确。首次跨日无提示正确，约三日后再练；保留易混词高优先级。"
         }
       ]
     },
