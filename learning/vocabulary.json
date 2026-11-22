@@ -372,8 +372,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-22",
+      "next_review_on": "2026-11-25",
       "notes": [
         "结构：review something against a standard；对照标准审核。"
       ],
@@ -386,6 +386,15 @@
           "result": "independent_correct_in_parts",
           "hint_requests": 0,
           "note": "先独立答出 review，助手说明还缺介词后补出 against，未直接提示该介词。"
+        },
+        {
+          "event_id": "2026-11-22-evening-review-q03",
+          "date": "2026-11-22",
+          "source": "scheduled_review_visible_answer",
+          "response": "against",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目：The classification results were reviewed ______ the classification rules. 无提示正确填入介词。"
         }
       ]
     },
