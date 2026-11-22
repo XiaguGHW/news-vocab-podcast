@@ -5,13 +5,8 @@
   "owner_scope": "personal_english_vocabulary",
   "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
   "selection_policy": {
-    "questions_per_session": 5,
-    "preferred_mix": {
-      "weak": 3,
-      "recent": 1,
-      "older": 1
-    },
-    "note": "配额可按词量调整，类别不可用时补其他词，避免同一词重复占位；同一轮纠错重测除外。"
+    "questions_per_session": 15,
+    "note": "每轮15题，优先到期薄弱词，兼顾近期新增和较早学词，类别不足时灵活轮换；同轮结束后统一记录。"
   },
   "words": [
     {
