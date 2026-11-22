@@ -144,6 +144,15 @@
           "result": "form_error",
           "hint_requests": 0,
           "note": "要求过去式"
+        },
+        {
+          "event_id": "2026-11-23-review-round3-q15",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "compiled",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "过去式正确；保留此前词形错误"
         }
       ]
     },
@@ -604,6 +613,15 @@
           "result": "form_error",
           "hint_requests": 0,
           "note": "复测仍用单数"
+        },
+        {
+          "event_id": "2026-11-23-review-round3-q14",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "implications",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "复数形式正确；保留此前错误"
         }
       ]
     },
@@ -689,14 +707,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "retrieve 的相关名词。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q02",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "retrieval",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/rɪˈtriːvəl/"
     },
     {
@@ -727,6 +755,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-23-review-round3-q10",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "provisional",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "目标 tentative，但 provisional 亦为自然正确答案；不算 tentative 作答"
         }
       ],
       "ipa": "/prəˈvɪʒənəl/"
@@ -774,15 +811,25 @@
       "episode_ids": [
         "2026-11-21-vocab5"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "borderline case：边界案例；原输入 revisionborderline 按两个词处理。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q04",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "bordercase",
+          "result": "word_confusion",
+          "hint_requests": 0,
+          "note": "目标 borderline；写成 bordercase"
+        }
+      ],
       "ipa": "/ˈbɔːrdərlaɪn/"
     },
     {
@@ -829,14 +876,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "论文中 classification scheme 可指分类体系；不机械翻译成阴谋。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q03",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "scheme",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/skiːm/"
     },
     {
@@ -853,14 +910,24 @@
         "2026-11-21-vocab5"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "用户提供词形 swivelling；英式拼写，词卡与复习保留该形式。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q05",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "swivel",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "答题正确；另询问 mounting bracket 含义"
+        }
+      ],
       "form_ipa": {
         "swivelling": "/ˈswɪvəlɪŋ/"
       }
@@ -877,14 +944,24 @@
         "2026-11-21-vocab5"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "工程运动语境；不是翻译的。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q01",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "translational",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/trænsˈleɪʃənəl/"
     },
     {
@@ -934,14 +1011,24 @@
         "2026-11-21-vocab5"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "尚未看到论文原句，不能确定具体义项；工程外壳与文书附件的德语不同。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q06",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "enclosure",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "工程外壳义"
+        }
+      ],
       "form_ipa": {
         "enclosures": "/ɪnˈkloʊʒərz/"
       }
@@ -960,14 +1047,24 @@
         "2026-11-21-vocab5"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "名词，与 ambiguous 同源；词源说明不等于已掌握。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q07",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "ambiguity",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/ˌæmbɪˈɡjuːəti/"
     },
     {
@@ -1228,14 +1325,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "故事中 reduce friction 指减少操作麻烦；产品用法与工程物理义要区分。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q08",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "friction",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "产品操作阻力义"
+        }
+      ]
     },
     {
       "id": "seamless",
@@ -1442,14 +1549,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "强调需要解释并承担行为或结果的责任，不仅是任务分工。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q09",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "accountability",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "reimburse",
@@ -1553,6 +1670,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "同轮重测答对，保留此前混淆"
+        },
+        {
+          "event_id": "2026-11-23-review-round3-q12",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "allocate",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "无提示独立答对；保留此前混淆"
         }
       ]
     },
@@ -1569,14 +1695,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a tentative booking / date / plan：安排可能再调整。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q13",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "tentative",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "clutter",
@@ -1623,14 +1759,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "a nuanced view：考虑不同层面的看法；也曾在本对话《寂静协议》中讲解。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round3-q11",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "nuanced",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     }
   ],
   "excluded_words": [
