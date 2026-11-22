@@ -66,6 +66,7 @@ jobs:
         run: |
           python - <<'PY'
           import os
+          import json
           import subprocess
           import sys
           from pathlib import Path
@@ -85,6 +86,9 @@ jobs:
               resolved = path.resolve()
               if not resolved.is_relative_to(root / 'stories') or resolved.suffix != '.json' or not resolved.is_file():
                   raise ValueError('Select an existing JSON file inside stories/')
+              if os.environ['EVENT'] == 'push' and json.loads(resolved.read_text()).get('publish') is True:
+                  print('Published story is handled by build podcast:', path)
+                  continue
               command = [sys.executable, 'build_story.py', str(resolved)]
               orientation = os.environ.get('ORIENTATION')
               if orientation and orientation != 'from-file':

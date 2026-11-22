@@ -208,6 +208,7 @@ def main():
     parser.add_argument('--preview-segments', type=int)
     parser.add_argument('--check', action='store_true')
     parser.add_argument('--render-only', action='store_true', help='Generate all subtitle cards without TTS')
+    parser.add_argument('--mp3', action='store_true', help='Also export podcast MP3 directly from the uncompressed sentence audio')
     args = parser.parse_args()
     story = json.loads(args.story.read_text(encoding='utf-8'))
     voices = validate(story)
@@ -244,6 +245,8 @@ def main():
         (output / 'timeline.json').write_text(json.dumps({'story':story, 'timeline':timeline}, ensure_ascii=False, indent=2), encoding='utf-8')
         audio = output / f'{story["id"]}.m4a'
         run('ffmpeg', '-y', '-f', 'concat', '-safe', '0', '-i', str(tmp / 'audio.txt'), '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-c:a', 'aac', '-b:a', '192k', str(audio))
+        if args.mp3:
+            run('ffmpeg', '-y', '-f', 'concat', '-safe', '0', '-i', str(tmp / 'audio.txt'), '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-c:a', 'libmp3lame', '-b:a', '192k', str(output / f'{story["id"]}.mp3'))
         for orient in orientations:
             card_dir = tmp / orient
             concat = card_dir / 'frames.txt'

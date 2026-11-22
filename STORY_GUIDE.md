@@ -69,6 +69,16 @@ python3 build_story.py stories/mia-weekend-preview.json --orientation both
 运行完成后在该次 Actions 的 **Artifacts** 下载 `story-videos`，包含生成的视频、音频和时间轴。附件保留九十天；需要长期收藏时下载保存。
 这一步不更新播客源、网站或 Releases。发布需要用户另外明确要求。
 
+### 经用户明确同意后发布全文
+
+仅在用户明确要求发布时，在故事 JSON 增加 `"publish": true`、`date`（当天柏林日期）和带时区的 `pub`。
+`id` 必须与故事文件名一致，且不能与已有播客期数重复。可选 `podcast_title`；默认显示中文故事标题与期型。
+发布采用 `orientation`，若为 `both`，默认以竖屏进入播客；可用 `podcast_orientation` 明确选择。
+**build podcast** 会生成故事、上传 MP3 和 MP4 到独立 Release，将其加入现有音频源与视频源并部署网站。
+以后的普通词汇期构建也会保留已批准的故事。试听稿默认不发布。
+MP3 从原始句段音频直接编码，不从已压缩的 M4A 再转换；保留英文多角色音色，中文仅用于字幕与讲解稿。
+确认 Actions 成功、线上音频源及视频源都含本期后，才能报告发布成功。
+
 ## 交付检查
 
 1. 检查说话人分配、英文台词、中文译文和人物引号。

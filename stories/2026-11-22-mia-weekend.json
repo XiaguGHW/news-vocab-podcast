@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-22-mia-weekend",
+  "date": "2026-11-22",
+  "pub": "2026-11-22T11:30:00+01:00",
+  "publish": true,
+  "title": "A Weekend with Nothing to Prove",
+  "title_zh": "不必证明什么的周末",
+  "summary": "全文英语多角色故事：米娅离开忙碌的工作，来到湖边旅馆，慢慢学会安心休息。深色竖屏，中英逐句字幕，英文自然慢速朗读。",
+  "theme": "dark",
+  "orientation": "portrait",
+  "speed": 0.8,
+  "pause": 0.6,
+  "segments": [
+    {
+      "speaker": "Narrator",
+      "en": "On Friday afternoon, Mia’s team was still trying to refine a new booking system.",
+      "zh": "周五下午，米娅的团队还在继续完善新的订房系统。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "They wanted customers to move from choosing a room to making a payment in one seamless process.",
+      "zh": "他们希望顾客从选房到付款，整个过程都能顺畅衔接。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "But the extra login page was creating friction: some customers simply gave up.",
+      "zh": "但额外的登录页面增加了操作阻力，有些顾客干脆放弃了。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We’ve found a workaround.",
+      "zh": "我们找到了一个变通办法。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Ben said.",
+      "zh": "本说。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Customers can book without creating an account.",
+      "zh": "顾客不用注册账号就能完成预订。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We’ll test the permanent fix next week.",
+      "zh": "下周我们再测试正式的修复方案。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "And the update?",
+      "zh": "那这次更新呢？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We have a rollback plan.",
+      "zh": "我们有回滚方案。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "If anything goes wrong, we can restore the previous version.",
+      "zh": "如果出了问题，可以恢复到之前的版本。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia pointed to one last edge case: what happened if a customer changed the booking at exactly midnight?",
+      "zh": "米娅指着最后一个边界情况：如果顾客恰好在午夜修改预订，会发生什么？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I’ll test that.",
+      "zh": "那个我来测试。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Ben said.",
+      "zh": "本说。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "You can delegate a few things, you know.",
+      "zh": "你知道的，有些事情可以分给别人做。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia smiled and closed her laptop before she could change her mind.",
+      "zh": "米娅笑了笑，趁自己还没改变主意，合上了电脑。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "On the train, she checked the confirmation for a small guesthouse by a lake.",
+      "zh": "在火车上，她查看了一家湖边小旅馆的确认邮件。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She had made a tentative booking weeks ago, when a quiet weekend had seemed like a nice idea for somebody with more free time.",
+      "zh": "几周前，她曾做过一个暂定的预订。当时，她觉得安静的周末似乎更适合那些比自己有空的人。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Before leaving work, she had checked her calendar one last time.",
+      "zh": "下班前，她最后确认了一遍日历。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "There were no meetings, no appointments, and no family visits.",
+      "zh": "没有会议，没有预约，也不用探亲。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Taking the weekend off was perfectly feasible.",
+      "zh": "周末休息两天完全行得通。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She just wasn’t used to doing it.",
+      "zh": "她只是不太习惯这样做。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "There was a small discrepancy between the room price in her confirmation and the amount on the payment page.",
+      "zh": "确认邮件里的房价和付款页面上的金额有一点不一致。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "The breakfast description was ambiguous, too.",
+      "zh": "早餐说明也不太明确。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She emailed the owner.",
+      "zh": "她给店主发了封邮件。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "His reply arrived before the next station.",
+      "zh": "火车还没到下一站，店主就回复了。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "The lower price is correct, and breakfast is included.",
+      "zh": "按低的价格算，包含早餐。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Your booking is confirmed.",
+      "zh": "你的预订已经确认。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "The payment is still pending, so you can pay when you arrive.",
+      "zh": "付款仍待处理，你可以到了再付。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia put her phone away and watched the buildings give way to fields.",
+      "zh": "米娅收起手机，看着窗外的楼房渐渐变成田野。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "The guesthouse had a blue front door and a kitchen that smelled of warm bread.",
+      "zh": "小旅馆有一扇蓝色的大门，厨房里飘着热面包的香味。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Its owner, Daniel, carried her bag upstairs.",
+      "zh": "店主丹尼尔帮她把包提上楼。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Anything planned for tomorrow?",
+      "zh": "明天有什么安排吗？",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "He asked.",
+      "zh": "他问。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Not really.",
+      "zh": "没什么安排。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Good.",
+      "zh": "那挺好。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Breakfast is until eleven.",
+      "zh": "早餐供应到十一点。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "In her room, Mia found an old armchair beside the window.",
+      "zh": "房间里，窗边放着一把旧扶手椅。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She sat down without unpacking.",
+      "zh": "米娅连行李都没收拾，就坐了下来。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "For a while, she watched a bird pull at something in the grass.",
+      "zh": "她看了一会儿花园里的鸟，看它在草地上啄着什么东西。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Her phone lit up with a work notification.",
+      "zh": "手机亮了，是一条工作通知。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "It was only a reminder that the company would reimburse her for her train fare from a recent business trip.",
+      "zh": "只是提醒她，公司会报销她最近一次出差的火车票费用。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She marked it to deal with on Monday.",
+      "zh": "她做了个标记，留到周一处理。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Then she turned the phone face down.",
+      "zh": "然后，她把手机翻了过去。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "At breakfast the next morning, Daniel mentioned a pottery class at the village community centre.",
+      "zh": "第二天早餐时，丹尼尔提起村里活动中心的陶艺课。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I help with their website.",
+      "zh": "我帮他们维护网站。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "He said.",
+      "zh": "他说。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Actually, perhaps you could settle something for us.",
+      "zh": "说起来，也许你能帮我们判断一下。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "We’re rewriting the page about eligibility for a fee exemption.",
+      "zh": "我们正在重写一个页面，说明谁有资格获得费用豁免。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "It’s meant to explain who can attend without paying.",
+      "zh": "它是用来说明哪些人可以免费参加的。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "He showed her two short paragraphs.",
+      "zh": "他给她看了两小段文字。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "This one.",
+      "zh": "这一段。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia said.",
+      "zh": "米娅说。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "It tells people exactly what they need to know.",
+      "zh": "它把大家需要知道的事情说清楚了。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "That’s what I thought.",
+      "zh": "我也这么想。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Website consultation finished.",
+      "zh": "网站咨询结束。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "He put the paper away.",
+      "zh": "他收起纸。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Today’s introductory class is free for everyone, by the way.",
+      "zh": "顺便说一下，今天的体验课对所有人免费。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Would you like to come?",
+      "zh": "你想去吗？"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "The pottery teacher, Rosa, gave Mia a piece of clay and showed her how to begin.",
+      "zh": "陶艺老师罗莎递给米娅一块陶土，教她怎么开始。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I’ve never done this before.",
+      "zh": "我以前从来没做过这个。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia said.",
+      "zh": "米娅说。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "That’s usually how people start.",
+      "zh": "大家通常都是这样开始的。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia’s cup leaned slightly to one side.",
+      "zh": "米娅的杯子有点歪。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She tried to straighten it, pressed too hard, and made the other side lean instead.",
+      "zh": "她想把它扶正，结果用力过大，另一边又歪了。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I think I’ve overlooked a step.",
+      "zh": "我想我可能漏掉了一个步骤。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Let’s have a look.",
+      "zh": "我们看看。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Rosa said.",
+      "zh": "罗莎说。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She checked the base and smoothed a small crack.",
+      "zh": "她检查了一下杯底，抹平了一道小裂缝。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "There.",
+      "zh": "好了。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "It’ll hold tea.",
+      "zh": "能装茶。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "That’s a useful quality in a cup.",
+      "zh": "对一个杯子来说，这是个很实用的优点。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "After class, they sat in the garden behind the centre.",
+      "zh": "下课后，她们坐在活动中心后面的花园里。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Daniel came out to replenish the supply of biscuits, placing a fresh plate between them.",
+      "zh": "丹尼尔出来补充饼干，把新端来的一盘放在她们中间。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia told Rosa that she was better at working than resting.",
+      "zh": "米娅告诉罗莎，和休息相比，自己更擅长工作。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Our team talks a lot about accountability.",
+      "zh": "我们团队经常谈到责任承担。",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She said.",
+      "zh": "她说。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Everyone needs to take responsibility for their part.",
+      "zh": "每个人都应该对自己负责的部分承担责任。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I agree with that.",
+      "zh": "这一点我同意。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "But I keep checking things even when I’m supposed to be off.",
+      "zh": "但即使已经休息了，我还是忍不住反复检查。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Do the others do their jobs?",
+      "zh": "其他人会做好自己的工作吗？"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Yes.",
+      "zh": "会。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Then perhaps you can let them.",
+      "zh": "那也许你可以让他们去做。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia laughed.",
+      "zh": "米娅笑了。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Later, she would think of it as a more nuanced view of responsibility: doing her share mattered, but so did trusting other people to do theirs.",
+      "zh": "后来，她觉得这是一种对责任更细致的理解：做好自己的部分很重要，相信别人也能做好他们的部分，同样重要。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "That afternoon, she walked beside the lake without tracking the distance.",
+      "zh": "那天下午，她沿着湖边散步，没有记录走了多远。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She stopped when she found a comfortable bench and stayed until she felt like moving again.",
+      "zh": "碰到一张坐着舒服的长椅，她就停下来，等到想走的时候再走。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Back at the guesthouse, she opened her notebook.",
+      "zh": "回到旅馆，她打开笔记本。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "At work, she used it to allocate time to different tasks.",
+      "zh": "工作时，她用它来为不同任务分配时间。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Today, she turned to a clean page and drew the shape of the lake.",
+      "zh": "今天，她翻到空白的一页，画了画湖的形状。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "The drawing wasn’t particularly accurate.",
+      "zh": "画得不算准确。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She liked it anyway.",
+      "zh": "不过，她还是挺喜欢的。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Before dinner, she cleared some clutter from her bag: old receipts, sweet wrappers, a pen that no longer worked.",
+      "zh": "晚饭前，她清理了包里的一些杂物：旧收据、糖纸，还有一支写不出字的笔。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "At the bottom, she found a book she had been meaning to read.",
+      "zh": "在最底下，她找到了一本一直想读的书。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She took it downstairs.",
+      "zh": "她拿着书下了楼。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Tea?",
+      "zh": "喝茶吗？",
+      "pause": 0.22
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Daniel asked.",
+      "zh": "丹尼尔问。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Yes, please.",
+      "zh": "好的，谢谢。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "He placed a pot beside the armchair.",
+      "zh": "他把一壶茶放在扶手椅旁。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Outside, the garden was slowly growing dark.",
+      "zh": "窗外，花园慢慢暗了下来。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Mia read a few pages, then rested the book on her lap.",
+      "zh": "米娅读了几页，把书轻轻放在膝上。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "Somewhere in the kitchen, a spoon touched the side of a cup.",
+      "zh": "厨房里传来勺子碰到杯沿的声音。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "She had nowhere else to be.",
+      "zh": "她不需要赶去别的地方。"
+    },
+    {
+      "speaker": "Narrator",
+      "en": "There was still plenty of tea.",
+      "zh": "壶里的茶，也还很足。"
+    }
+  ]
+}

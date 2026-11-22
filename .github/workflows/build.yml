@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - "episodes/**"
+      - "stories/**"
+      - "build_story.py"
+      - "story_podcast.py"
       - "build.py"
       - "video.py"
       - "fonts/**"
@@ -48,6 +51,16 @@ jobs:
 
       - name: Check episode scripts
         run: python check_episode.py
+
+      - name: Test media tools
+        run: python -m unittest discover -s tests -p 'test_*.py'
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache/story-tts
+          key: ${{ runner.os }}-story-tts-v1-${{ hashFiles('stories/**/*.json', 'build_story.py') }}
+          restore-keys: |
+            ${{ runner.os }}-story-tts-v1-
 
       - name: Build audio, video, feed and page
         env:

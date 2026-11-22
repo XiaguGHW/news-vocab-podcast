@@ -205,6 +205,9 @@ def release_download(slug):
 
 
 def build_episode(ep, src_hash):
+    if ep.get('kind') == 'story':
+        from story_podcast import build_published_story
+        return build_published_story(ep, src_hash, DOCS, DIST, release_upload)
     import video
     slug = slug_of(ep)
     meta_path = os.path.join(DOCS, "episodes", f"{slug}.json")
@@ -238,7 +241,10 @@ def transcript_html(meta):
     rows = []
     for c in meta["cues"]:
         m, s = divmod(int(c["start"]), 60)
-        rows.append(f"[{m}:{s:02d}] {tag[c['l']]} · {html.escape(c['t'])}")
+        speaker = f" · {html.escape(c['speaker'])}" if c.get('speaker') else ''
+        rows.append(f"[{m}:{s:02d}] {tag[c['l']]}{speaker} · {html.escape(c['t'])}")
+        if c.get('zh'):
+            rows.append(html.escape(c['zh']))
     return "<br>".join(rows)
 
 
@@ -247,8 +253,10 @@ def episode_desc(ep, meta):
                         for w in ep.get("words", []))
     src = "".join(f'<br><a href="{html.escape(s["url"])}">{html.escape(s["name"])}</a>'
                   for s in ep.get("sources", []))
-    return (f"<p>{html.escape(ep.get('summary', ''))}</p><p><b>今天的词</b><br>{words}</p>"
-            f"<p><b>讲解稿</b><br>{transcript_html(meta)}</p><p><b>新闻来源</b>{src}</p>")
+    word_block = f"<p><b>今天的词</b><br>{words}</p>" if words else ''
+    source_block = f"<p><b>新闻来源</b>{src}</p>" if src else ''
+    return (f"<p>{html.escape(ep.get('summary', ''))}</p>{word_block}"
+            f"<p><b>讲解稿</b><br>{transcript_html(meta)}</p>{source_block}")
 
 
 def feed_xml(entries, kind):
@@ -338,6 +346,16 @@ def main():
         raw = open(path, "rb").read()
         ep = json.loads(raw)
         build_episode(ep, hashlib.sha256(raw).hexdigest()[:16])
+        episodes.append(ep)
+    from story_podcast import story_episode
+    for path in sorted(glob.glob('stories/*.json')):
+        approved = story_episode(path)
+        if approved is None:
+            continue
+        ep, src_hash = approved
+        if any(slug_of(other) == ep['id'] for other in episodes):
+            raise ValueError(f"Duplicate podcast id: {ep['id']}")
+        build_episode(ep, src_hash)
         episodes.append(ep)
     episodes.sort(key=pub_of, reverse=True)
 
