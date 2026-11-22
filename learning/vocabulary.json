@@ -898,14 +898,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-22",
       "next_review_on": "2026-11-23",
       "notes": [
         "a discrepancy between A and B：两处本应对应的信息不一致。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-22-evening-review-q04",
+          "date": "2026-11-22",
+          "source": "scheduled_review_visible_answer",
+          "response": "discrepancy",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "题目：There is a ______ between the two values in the results table. 无提示正确。"
+        }
+      ]
     },
     {
       "id": "refine",
