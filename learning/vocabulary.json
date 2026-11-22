@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-22",
+  "updated_on": "2026-11-23",
   "timezone": "Europe/Berlin",
   "owner_scope": "personal_english_vocabulary",
   "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
@@ -121,10 +121,10 @@
       "episode_ids": [
         "2026-11-21-vocab1"
       ],
-      "priority": "normal",
+      "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [],
       "history": [
         {
@@ -135,6 +135,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q06",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "compile",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "要求过去式"
         }
       ]
     },
@@ -417,8 +426,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-26",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -449,6 +458,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "本轮无提示答对；按跨日复习安排再次练习。"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q12",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "revised",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "revised 为合理答案；原目标 refine 未测"
         }
       ]
     },
@@ -465,8 +483,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -479,6 +497,15 @@
           "result": "hinted_correct",
           "hint_requests": 1,
           "note": "作答前讨论了 according to，最终给出三个首字母后答对。"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q01",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "in line with",
+          "result": "hinted_correct",
+          "hint_requests": 1,
+          "note": "场景提示后答对"
         }
       ]
     },
@@ -545,8 +572,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "重点：题目指定复数时使用 implications；区别词义正确与词形正确。"
       ],
@@ -559,6 +586,24 @@
           "result": "form_error",
           "hint_requests": 0,
           "note": "词想对；题目要求复数 implications，单数在其他语境中也正确。"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q02",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "implication",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "要求复数"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q10",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "implication",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "复测仍用单数"
         }
       ]
     },
@@ -572,14 +617,24 @@
       "learning_source": "current_conversation_explanation",
       "episode_ids": [],
       "priority": "high",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "仅讲解过，未独立测验；不得标记掌握。",
         "部分 compose 整体；整体 is composed of 部分。与 comprise、constitute 对比。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q03",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "composed",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "be composed of"
+        }
+      ]
     },
     {
       "id": "preliminary",
@@ -594,8 +649,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-26",
       "notes": [
         "常见 preliminary results：初步结果。",
         "尚未测验，不记录答对或错误。"
@@ -609,6 +664,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "本轮无提示答对；按跨日复习安排再次练习。"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q15",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "preliminary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
         }
       ],
       "ipa": "/prɪˈlɪməneri/"
@@ -647,14 +711,24 @@
         "2026-11-21-vocab4"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "强调尚未最终确定，之后可能改变；与 preliminary 对比。",
         "尚未测验，不记录答对或错误。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q04",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "provisional",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/prəˈvɪʒənəl/"
     },
     {
@@ -878,15 +952,25 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-22",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "形容词，与 ambiguity 同源。",
         "尚未测验，不记录答对或错误。",
         "用户再次明确要求加入生词本；保持未测验状态。"
       ],
-      "history": [],
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q07",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "ambiguous",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ],
       "ipa": "/æmˈbɪɡjuəs/"
     },
     {
@@ -903,8 +987,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-23",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-26",
       "notes": [
         "a discrepancy between A and B：两处本应对应的信息不一致。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -918,6 +1002,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "题目：There is a ______ between the two values in the results table. 无提示正确。"
+        },
+        {
+          "event_id": "2026-11-23-review-round1-q11",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "discrepancy",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
         }
       ]
     },
@@ -1022,14 +1115,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "find a workaround：先绕过问题使事情继续，不保证修复根源。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q05",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "workaround",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "friction",
@@ -1131,15 +1234,25 @@
       "episode_ids": [
         "2026-11-22-mia-weekend"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "动词：delegate tasks to someone。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q08",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "delegate",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "要求过去式"
+        }
+      ]
     },
     {
       "id": "overlook",
@@ -1154,14 +1267,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "overlook a detail；a room overlooking the garden 中另有朝向、俯瞰的意思。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q14",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "overlooked",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "feasible",
@@ -1220,14 +1343,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "reimburse someone for travel expenses；退还多收的房费用 refund 更自然。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q09",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "reimburse",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "replenish",
@@ -1242,14 +1375,24 @@
         "2026-11-22-mia-weekend"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-23",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-23",
+      "next_review_on": "2026-11-24",
       "notes": [
         "replenish supplies：补充已消耗的物资；略书面。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
       ],
-      "history": []
+      "history": [
+        {
+          "event_id": "2026-11-23-review-round1-q13",
+          "date": "2026-11-23",
+          "source": "visible_conversation_quiz",
+          "response": "replenish",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": ""
+        }
+      ]
     },
     {
       "id": "allocate",
