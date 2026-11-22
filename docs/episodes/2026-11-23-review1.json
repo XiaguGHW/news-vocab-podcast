@@ -1,0 +1,1014 @@
+{
+ "review_v": 1,
+ "src_hash": "99ad6ab0e68b38a6",
+ "duration": 879,
+ "size": 14064045,
+ "video_size": 17711380,
+ "cues": [
+  {
+   "start": 0,
+   "l": "zh",
+   "t": "本期复习25个词。每题留三秒，先想答案，再听例句。"
+  },
+  {
+   "start": 6.79,
+   "l": "zh",
+   "t": "表格里要求填写职位的正式名称，表示名称、称谓的英语名词是什么？"
+  },
+  {
+   "start": 16.48,
+   "l": "en",
+   "t": "designation."
+  },
+  {
+   "start": 18.76,
+   "l": "de",
+   "t": "die Bezeichnung."
+  },
+  {
+   "start": 21.53,
+   "l": "zh",
+   "t": "名称，称谓。"
+  },
+  {
+   "start": 24.08,
+   "l": "en",
+   "t": "Please enter your job designation on the form."
+  },
+  {
+   "start": 28.53,
+   "l": "en",
+   "t": "Please enter your job designation on the form."
+  },
+  {
+   "start": 32.98,
+   "l": "en",
+   "t": "Please enter your job designation on the form."
+  },
+  {
+   "start": 36.75,
+   "l": "zh",
+   "t": "请在表格上填写你的职位名称。"
+  },
+  {
+   "start": 41.63,
+   "l": "zh",
+   "t": "从数据库里把需要的文件调出来，英语动词是什么？"
+  },
+  {
+   "start": 49.6,
+   "l": "en",
+   "t": "retrieve."
+  },
+  {
+   "start": 51.87,
+   "l": "de",
+   "t": "abrufen."
+  },
+  {
+   "start": 54.5,
+   "l": "zh",
+   "t": "检索，取回。"
+  },
+  {
+   "start": 57.07,
+   "l": "en",
+   "t": "You can retrieve the file from the database."
+  },
+  {
+   "start": 61.24,
+   "l": "en",
+   "t": "You can retrieve the file from the database."
+  },
+  {
+   "start": 65.4,
+   "l": "en",
+   "t": "You can retrieve the file from the database."
+  },
+  {
+   "start": 68.9,
+   "l": "zh",
+   "t": "你可以从数据库中调取这个文件。"
+  },
+  {
+   "start": 73.69,
+   "l": "zh",
+   "t": "不扔掉旧文件，而是把它保存下来，表示保留的英语动词是什么？"
+  },
+  {
+   "start": 82.64,
+   "l": "en",
+   "t": "retain."
+  },
+  {
+   "start": 84.92,
+   "l": "de",
+   "t": "behalten."
+  },
+  {
+   "start": 87.45,
+   "l": "zh",
+   "t": "保留。"
+  },
+  {
+   "start": 89.92,
+   "l": "en",
+   "t": "Please retain a copy of the receipt."
+  },
+  {
+   "start": 93.68,
+   "l": "en",
+   "t": "Please retain a copy of the receipt."
+  },
+  {
+   "start": 97.44,
+   "l": "en",
+   "t": "Please retain a copy of the receipt."
+  },
+  {
+   "start": 100.58,
+   "l": "zh",
+   "t": "请保留一份收据副本。"
+  },
+  {
+   "start": 104.46,
+   "l": "zh",
+   "t": "把几个来源的资料收集起来整理成清单，英语动词是什么？"
+  },
+  {
+   "start": 113.0,
+   "l": "en",
+   "t": "compile."
+  },
+  {
+   "start": 115.27,
+   "l": "de",
+   "t": "zusammenstellen."
+  },
+  {
+   "start": 118.24,
+   "l": "zh",
+   "t": "收集整理，汇编。"
+  },
+  {
+   "start": 121.14,
+   "l": "en",
+   "t": "She compiled a list of useful sources."
+  },
+  {
+   "start": 125.72,
+   "l": "en",
+   "t": "She compiled a list of useful sources."
+  },
+  {
+   "start": 130.29,
+   "l": "en",
+   "t": "She compiled a list of useful sources."
+  },
+  {
+   "start": 134.15,
+   "l": "zh",
+   "t": "她整理了一份有用的资料来源清单。"
+  },
+  {
+   "start": 138.99,
+   "l": "zh",
+   "t": "除了主要材料，还有一份补充材料。表示补充的、附加的英语形容词是什么？"
+  },
+  {
+   "start": 149.36,
+   "l": "en",
+   "t": "supplementary."
+  },
+  {
+   "start": 151.63,
+   "l": "de",
+   "t": "ergänzend."
+  },
+  {
+   "start": 154.28,
+   "l": "zh",
+   "t": "补充的，附加的。"
+  },
+  {
+   "start": 157.16,
+   "l": "en",
+   "t": "The supplementary material includes two diagrams."
+  },
+  {
+   "start": 162.34,
+   "l": "en",
+   "t": "The supplementary material includes two diagrams."
+  },
+  {
+   "start": 167.51,
+   "l": "en",
+   "t": "The supplementary material includes two diagrams."
+  },
+  {
+   "start": 171.92,
+   "l": "zh",
+   "t": "补充材料包含两张示意图。"
+  },
+  {
+   "start": 176.5,
+   "l": "zh",
+   "t": "几个部分共同构成一个整体，表示构成的英语动词是什么？"
+  },
+  {
+   "start": 184.82,
+   "l": "en",
+   "t": "constitute."
+  },
+  {
+   "start": 187.1,
+   "l": "de",
+   "t": "bilden."
+  },
+  {
+   "start": 189.37,
+   "l": "zh",
+   "t": "构成，组成。"
+  },
+  {
+   "start": 192.01,
+   "l": "en",
+   "t": "These three parts constitute the whole device."
+  },
+  {
+   "start": 196.51,
+   "l": "en",
+   "t": "These three parts constitute the whole device."
+  },
+  {
+   "start": 201.01,
+   "l": "en",
+   "t": "These three parts constitute the whole device."
+  },
+  {
+   "start": 204.82,
+   "l": "zh",
+   "t": "这三个部件构成了整台设备。"
+  },
+  {
+   "start": 209.42,
+   "l": "zh",
+   "t": "从整体来看，它包含哪些组成部分。表示包含、由什么组成的英语动词是什么？"
+  },
+  {
+   "start": 220.08,
+   "l": "en",
+   "t": "comprise."
+  },
+  {
+   "start": 222.35,
+   "l": "de",
+   "t": "umfassen."
+  },
+  {
+   "start": 224.91,
+   "l": "zh",
+   "t": "包含，由……组成。"
+  },
+  {
+   "start": 227.91,
+   "l": "en",
+   "t": "The kit comprises a camera and two lenses."
+  },
+  {
+   "start": 232.72,
+   "l": "en",
+   "t": "The kit comprises a camera and two lenses."
+  },
+  {
+   "start": 237.53,
+   "l": "en",
+   "t": "The kit comprises a camera and two lenses."
+  },
+  {
+   "start": 241.61,
+   "l": "zh",
+   "t": "这套器材包含一台相机和两个镜头。"
+  },
+  {
+   "start": 247.07,
+   "l": "zh",
+   "t": "这套软件是公司内部自己开发的。表示内部的、在内部的英语表达是什么？"
+  },
+  {
+   "start": 257.32,
+   "l": "en",
+   "t": "in-house."
+  },
+  {
+   "start": 259.59,
+   "l": "de",
+   "t": "intern."
+  },
+  {
+   "start": 262.46,
+   "l": "zh",
+   "t": "内部的，在内部。"
+  },
+  {
+   "start": 265.32,
+   "l": "en",
+   "t": "We developed the software in-house."
+  },
+  {
+   "start": 268.96,
+   "l": "en",
+   "t": "We developed the software in-house."
+  },
+  {
+   "start": 272.59,
+   "l": "en",
+   "t": "We developed the software in-house."
+  },
+  {
+   "start": 275.64,
+   "l": "zh",
+   "t": "这套软件由我们内部开发。"
+  },
+  {
+   "start": 279.88,
+   "l": "zh",
+   "t": "满足申请条件，有资格获得这项资助，英语形容词是什么？"
+  },
+  {
+   "start": 288.83,
+   "l": "en",
+   "t": "eligible."
+  },
+  {
+   "start": 290.76,
+   "l": "de",
+   "t": "berechtigt."
+  },
+  {
+   "start": 293.37,
+   "l": "zh",
+   "t": "符合条件的，有资格的。"
+  },
+  {
+   "start": 296.78,
+   "l": "en",
+   "t": "You may be eligible for a travel grant."
+  },
+  {
+   "start": 300.78,
+   "l": "en",
+   "t": "You may be eligible for a travel grant."
+  },
+  {
+   "start": 304.77,
+   "l": "en",
+   "t": "You may be eligible for a travel grant."
+  },
+  {
+   "start": 308.13,
+   "l": "zh",
+   "t": "你可能符合申请旅行补助的条件。"
+  },
+  {
+   "start": 313.18,
+   "l": "zh",
+   "t": "团队准备实施一项安全测试。表示开展、执行的英语短语是什么？"
+  },
+  {
+   "start": 322.81,
+   "l": "en",
+   "t": "carry out."
+  },
+  {
+   "start": 325.08,
+   "l": "de",
+   "t": "durchführen."
+  },
+  {
+   "start": 327.74,
+   "l": "zh",
+   "t": "开展，实施，执行。"
+  },
+  {
+   "start": 331.12,
+   "l": "en",
+   "t": "The team will carry out a safety test."
+  },
+  {
+   "start": 335.09,
+   "l": "en",
+   "t": "The team will carry out a safety test."
+  },
+  {
+   "start": 339.06,
+   "l": "en",
+   "t": "The team will carry out a safety test."
+  },
+  {
+   "start": 342.4,
+   "l": "zh",
+   "t": "团队将开展一项安全测试。"
+  },
+  {
+   "start": 346.95,
+   "l": "zh",
+   "t": "按照一份检查清单审核方案，表示依据某标准审核的英语表达是什么？"
+  },
+  {
+   "start": 356.81,
+   "l": "en",
+   "t": "review something against something."
+  },
+  {
+   "start": 359.78,
+   "l": "de",
+   "t": "anhand von etwas überprüfen."
+  },
+  {
+   "start": 363.97,
+   "l": "zh",
+   "t": "依据某标准审核。"
+  },
+  {
+   "start": 366.85,
+   "l": "en",
+   "t": "We reviewed the plan against the checklist."
+  },
+  {
+   "start": 371.04,
+   "l": "en",
+   "t": "We reviewed the plan against the checklist."
+  },
+  {
+   "start": 375.23,
+   "l": "en",
+   "t": "We reviewed the plan against the checklist."
+  },
+  {
+   "start": 378.76,
+   "l": "zh",
+   "t": "我们依据检查清单审核了这份方案。"
+  },
+  {
+   "start": 383.88,
+   "l": "zh",
+   "t": "收到反馈后修改报告，表示修订的英语动词是什么？"
+  },
+  {
+   "start": 391.85,
+   "l": "en",
+   "t": "revise."
+  },
+  {
+   "start": 394.12,
+   "l": "de",
+   "t": "überarbeiten."
+  },
+  {
+   "start": 396.94,
+   "l": "zh",
+   "t": "修订，修改。"
+  },
+  {
+   "start": 399.54,
+   "l": "en",
+   "t": "I need to revise the report before Friday."
+  },
+  {
+   "start": 404.04,
+   "l": "en",
+   "t": "I need to revise the report before Friday."
+  },
+  {
+   "start": 408.54,
+   "l": "en",
+   "t": "I need to revise the report before Friday."
+  },
+  {
+   "start": 412.33,
+   "l": "zh",
+   "t": "我需要在周五之前修改报告。"
+  },
+  {
+   "start": 416.83,
+   "l": "zh",
+   "t": "方案符合学校的要求，表示符合、与什么一致的英语表达是什么？"
+  },
+  {
+   "start": 425.76,
+   "l": "en",
+   "t": "in line with."
+  },
+  {
+   "start": 428.03,
+   "l": "de",
+   "t": "im Einklang mit."
+  },
+  {
+   "start": 431.04,
+   "l": "zh",
+   "t": "按照，符合，与……一致。"
+  },
+  {
+   "start": 434.76,
+   "l": "en",
+   "t": "The plan is in line with university guidelines."
+  },
+  {
+   "start": 439.7,
+   "l": "en",
+   "t": "The plan is in line with university guidelines."
+  },
+  {
+   "start": 444.63,
+   "l": "en",
+   "t": "The plan is in line with university guidelines."
+  },
+  {
+   "start": 448.83,
+   "l": "zh",
+   "t": "这个方案符合学校的指导要求。"
+  },
+  {
+   "start": 453.62,
+   "l": "zh",
+   "t": "第一次测试之后又进行了一次测试，表示随后的英语形容词是什么？"
+  },
+  {
+   "start": 462.74,
+   "l": "en",
+   "t": "subsequent."
+  },
+  {
+   "start": 464.77,
+   "l": "de",
+   "t": "nachfolgend."
+  },
+  {
+   "start": 467.57,
+   "l": "zh",
+   "t": "随后的，后续的。"
+  },
+  {
+   "start": 470.45,
+   "l": "en",
+   "t": "The subsequent test confirmed the result."
+  },
+  {
+   "start": 474.88,
+   "l": "en",
+   "t": "The subsequent test confirmed the result."
+  },
+  {
+   "start": 479.3,
+   "l": "en",
+   "t": "The subsequent test confirmed the result."
+  },
+  {
+   "start": 483.05,
+   "l": "zh",
+   "t": "随后的测试证实了这个结果。"
+  },
+  {
+   "start": 487.69,
+   "l": "zh",
+   "t": "一个决定可能带来什么影响或后果，表示这种影响的英语名词是什么？"
+  },
+  {
+   "start": 497.0,
+   "l": "en",
+   "t": "implication."
+  },
+  {
+   "start": 499.28,
+   "l": "de",
+   "t": "die Auswirkung."
+  },
+  {
+   "start": 502.24,
+   "l": "zh",
+   "t": "影响，可能的后果，意义。"
+  },
+  {
+   "start": 505.87,
+   "l": "en",
+   "t": "We discussed the implications of the delay."
+  },
+  {
+   "start": 510.08,
+   "l": "en",
+   "t": "We discussed the implications of the delay."
+  },
+  {
+   "start": 514.29,
+   "l": "en",
+   "t": "We discussed the implications of the delay."
+  },
+  {
+   "start": 517.84,
+   "l": "zh",
+   "t": "我们讨论了延期可能带来的影响。"
+  },
+  {
+   "start": 522.73,
+   "l": "zh",
+   "t": "几个部分组成一个整体，表示组成的英语动词是什么？"
+  },
+  {
+   "start": 530.67,
+   "l": "en",
+   "t": "compose."
+  },
+  {
+   "start": 532.94,
+   "l": "de",
+   "t": "bilden."
+  },
+  {
+   "start": 535.22,
+   "l": "zh",
+   "t": "组成，构成。"
+  },
+  {
+   "start": 537.83,
+   "l": "en",
+   "t": "The report is composed of several short sections."
+  },
+  {
+   "start": 543.08,
+   "l": "en",
+   "t": "The report is composed of several short sections."
+  },
+  {
+   "start": 548.32,
+   "l": "en",
+   "t": "The report is composed of several short sections."
+  },
+  {
+   "start": 552.78,
+   "l": "zh",
+   "t": "这份报告由几个简短的章节组成。"
+  },
+  {
+   "start": 557.76,
+   "l": "zh",
+   "t": "正式调查前先做初步核查，表示初步的、预备的英语形容词是什么？"
+  },
+  {
+   "start": 567.32,
+   "l": "en",
+   "t": "preliminary."
+  },
+  {
+   "start": 569.59,
+   "l": "de",
+   "t": "vorläufig."
+  },
+  {
+   "start": 572.2,
+   "l": "zh",
+   "t": "初步的，预备的。"
+  },
+  {
+   "start": 574.98,
+   "l": "en",
+   "t": "The preliminary results look promising."
+  },
+  {
+   "start": 579.29,
+   "l": "en",
+   "t": "The preliminary results look promising."
+  },
+  {
+   "start": 583.6,
+   "l": "en",
+   "t": "The preliminary results look promising."
+  },
+  {
+   "start": 587.24,
+   "l": "zh",
+   "t": "初步结果看起来很有希望。"
+  },
+  {
+   "start": 591.6,
+   "l": "zh",
+   "t": "从系统里取回资料这个过程，表示检索、调取的英语名词是什么？"
+  },
+  {
+   "start": 600.82,
+   "l": "en",
+   "t": "retrieval."
+  },
+  {
+   "start": 603.09,
+   "l": "de",
+   "t": "der Abruf."
+  },
+  {
+   "start": 605.7,
+   "l": "zh",
+   "t": "检索，调取，取回。"
+  },
+  {
+   "start": 608.98,
+   "l": "en",
+   "t": "The new system makes data retrieval faster."
+  },
+  {
+   "start": 613.87,
+   "l": "en",
+   "t": "The new system makes data retrieval faster."
+  },
+  {
+   "start": 618.75,
+   "l": "en",
+   "t": "The new system makes data retrieval faster."
+  },
+  {
+   "start": 622.9,
+   "l": "zh",
+   "t": "新系统让数据检索更快。"
+  },
+  {
+   "start": 627.43,
+   "l": "zh",
+   "t": "正式结果还没出来，先给一个临时安排。表示暂定的、临时的英语形容词是什么？"
+  },
+  {
+   "start": 638.13,
+   "l": "en",
+   "t": "provisional."
+  },
+  {
+   "start": 640.4,
+   "l": "de",
+   "t": "vorläufig."
+  },
+  {
+   "start": 643.01,
+   "l": "zh",
+   "t": "暂定的，临时的。"
+  },
+  {
+   "start": 645.89,
+   "l": "en",
+   "t": "We received provisional approval for the project."
+  },
+  {
+   "start": 650.56,
+   "l": "en",
+   "t": "We received provisional approval for the project."
+  },
+  {
+   "start": 655.23,
+   "l": "en",
+   "t": "We received provisional approval for the project."
+  },
+  {
+   "start": 659.19,
+   "l": "zh",
+   "t": "我们的项目获得了临时批准。"
+  },
+  {
+   "start": 663.76,
+   "l": "zh",
+   "t": "报告经过修改后有了新版本，表示修订、修改的英语名词是什么？"
+  },
+  {
+   "start": 672.88,
+   "l": "en",
+   "t": "revision."
+  },
+  {
+   "start": 675.15,
+   "l": "de",
+   "t": "die Überarbeitung."
+  },
+  {
+   "start": 678.31,
+   "l": "zh",
+   "t": "修订，修改。"
+  },
+  {
+   "start": 680.9,
+   "l": "en",
+   "t": "This revision makes the instructions clearer."
+  },
+  {
+   "start": 685.45,
+   "l": "en",
+   "t": "This revision makes the instructions clearer."
+  },
+  {
+   "start": 690.0,
+   "l": "en",
+   "t": "This revision makes the instructions clearer."
+  },
+  {
+   "start": 693.84,
+   "l": "zh",
+   "t": "这次修订让说明更清楚了。"
+  },
+  {
+   "start": 698.22,
+   "l": "zh",
+   "t": "一个样本正好在两个类别的边界，难以明确归类。表示边界上的英语形容词是什么？"
+  },
+  {
+   "start": 709.19,
+   "l": "en",
+   "t": "borderline."
+  },
+  {
+   "start": 711.46,
+   "l": "de",
+   "t": "grenzwertig."
+  },
+  {
+   "start": 714.28,
+   "l": "zh",
+   "t": "边界上的，难以明确归类的。"
+  },
+  {
+   "start": 717.93,
+   "l": "en",
+   "t": "This is a borderline case between the two categories."
+  },
+  {
+   "start": 723.18,
+   "l": "en",
+   "t": "This is a borderline case between the two categories."
+  },
+  {
+   "start": 728.42,
+   "l": "en",
+   "t": "This is a borderline case between the two categories."
+  },
+  {
+   "start": 732.88,
+   "l": "zh",
+   "t": "这是处于两个类别之间的边界案例。"
+  },
+  {
+   "start": 737.74,
+   "l": "zh",
+   "t": "在文件里清楚列出规则或要求，表示阐述、列出的英语短语是什么？"
+  },
+  {
+   "start": 747.37,
+   "l": "en",
+   "t": "set out."
+  },
+  {
+   "start": 749.64,
+   "l": "de",
+   "t": "darlegen."
+  },
+  {
+   "start": 752.15,
+   "l": "zh",
+   "t": "阐述，列出，着手，出发。"
+  },
+  {
+   "start": 756.11,
+   "l": "en",
+   "t": "The document sets out the safety requirements."
+  },
+  {
+   "start": 760.61,
+   "l": "en",
+   "t": "The document sets out the safety requirements."
+  },
+  {
+   "start": 765.11,
+   "l": "en",
+   "t": "The document sets out the safety requirements."
+  },
+  {
+   "start": 768.9,
+   "l": "zh",
+   "t": "这份文件列明了安全要求。"
+  },
+  {
+   "start": 773.38,
+   "l": "zh",
+   "t": "把文件按统一方法分类，表示方案、分类体系的英语名词是什么？"
+  },
+  {
+   "start": 782.67,
+   "l": "en",
+   "t": "scheme."
+  },
+  {
+   "start": 784.94,
+   "l": "de",
+   "t": "das Schema."
+  },
+  {
+   "start": 787.45,
+   "l": "zh",
+   "t": "方案，体系，分类方法。"
+  },
+  {
+   "start": 791.03,
+   "l": "en",
+   "t": "We use a simple scheme to classify the files."
+  },
+  {
+   "start": 795.84,
+   "l": "en",
+   "t": "We use a simple scheme to classify the files."
+  },
+  {
+   "start": 800.65,
+   "l": "en",
+   "t": "We use a simple scheme to classify the files."
+  },
+  {
+   "start": 804.73,
+   "l": "zh",
+   "t": "我们用一套简单的方法给文件分类。"
+  },
+  {
+   "start": 809.71,
+   "l": "zh",
+   "t": "椅子绕着底下的轴转向另一边，表示绕轴转动的英语动词是什么？"
+  },
+  {
+   "start": 818.78,
+   "l": "en",
+   "t": "swivel."
+  },
+  {
+   "start": 821.06,
+   "l": "de",
+   "t": "schwenken."
+  },
+  {
+   "start": 823.5,
+   "l": "zh",
+   "t": "绕轴转动。"
+  },
+  {
+   "start": 825.97,
+   "l": "en",
+   "t": "She swivelled her chair to face the window."
+  },
+  {
+   "start": 830.42,
+   "l": "en",
+   "t": "She swivelled her chair to face the window."
+  },
+  {
+   "start": 834.87,
+   "l": "en",
+   "t": "She swivelled her chair to face the window."
+  },
+  {
+   "start": 838.64,
+   "l": "zh",
+   "t": "她转动椅子，面向窗户。"
+  },
+  {
+   "start": 843.07,
+   "l": "zh",
+   "t": "零件沿直线移动，不发生转动。表示平移的英语形容词是什么？"
+  },
+  {
+   "start": 852.36,
+   "l": "en",
+   "t": "translational."
+  },
+  {
+   "start": 854.63,
+   "l": "de",
+   "t": "translatorisch."
+  },
+  {
+   "start": 857.69,
+   "l": "zh",
+   "t": "平移的。"
+  },
+  {
+   "start": 860.16,
+   "l": "en",
+   "t": "The guide allows only translational motion."
+  },
+  {
+   "start": 865.19,
+   "l": "en",
+   "t": "The guide allows only translational motion."
+  },
+  {
+   "start": 870.22,
+   "l": "en",
+   "t": "The guide allows only translational motion."
+  },
+  {
+   "start": 874.49,
+   "l": "zh",
+   "t": "这个导轨只允许平移运动。"
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "review_v": 1,
+ "src_hash": "0a7977a988fcc8c8",
+ "duration": 859,
+ "size": 13743021,
+ "video_size": 17617961,
+ "cues": [
+  {
+   "start": 0,
+   "l": "zh",
+   "t": "本期复习24个词。每题留三秒，先想答案，再听例句。"
+  },
+  {
+   "start": 6.86,
+   "l": "zh",
+   "t": "一个动作由此带来结果，表示从而、由此的英语副词是什么？"
+  },
+  {
+   "start": 15.55,
+   "l": "en",
+   "t": "thereby."
+  },
+  {
+   "start": 17.82,
+   "l": "de",
+   "t": "dadurch."
+  },
+  {
+   "start": 20.21,
+   "l": "zh",
+   "t": "从而，由此。"
+  },
+  {
+   "start": 22.76,
+   "l": "en",
+   "t": "We removed one step, thereby saving time."
+  },
+  {
+   "start": 27.64,
+   "l": "en",
+   "t": "We removed one step, thereby saving time."
+  },
+  {
+   "start": 32.52,
+   "l": "en",
+   "t": "We removed one step, thereby saving time."
+  },
+  {
+   "start": 36.68,
+   "l": "zh",
+   "t": "我们去掉了一个步骤，从而节省了时间。"
+  },
+  {
+   "start": 41.82,
+   "l": "zh",
+   "t": "保护电子部件的外部壳体，英语名词是什么？"
+  },
+  {
+   "start": 49.17,
+   "l": "en",
+   "t": "enclosure."
+  },
+  {
+   "start": 51.44,
+   "l": "de",
+   "t": "das Gehäuse."
+  },
+  {
+   "start": 54.19,
+   "l": "zh",
+   "t": "外壳，壳体。"
+  },
+  {
+   "start": 56.78,
+   "l": "en",
+   "t": "The enclosure protects the electronic components."
+  },
+  {
+   "start": 61.91,
+   "l": "en",
+   "t": "The enclosure protects the electronic components."
+  },
+  {
+   "start": 67.03,
+   "l": "en",
+   "t": "The enclosure protects the electronic components."
+  },
+  {
+   "start": 71.38,
+   "l": "zh",
+   "t": "外壳保护着电子元件。"
+  },
+  {
+   "start": 75.37,
+   "l": "zh",
+   "t": "一句话可以有不止一种解释，这种歧义、不明确性，英语名词是什么？"
+  },
+  {
+   "start": 85.04,
+   "l": "en",
+   "t": "ambiguity."
+  },
+  {
+   "start": 87.32,
+   "l": "de",
+   "t": "die Mehrdeutigkeit."
+  },
+  {
+   "start": 90.62,
+   "l": "zh",
+   "t": "歧义，多义性，不明确性。"
+  },
+  {
+   "start": 94.41,
+   "l": "en",
+   "t": "The wording leaves room for ambiguity."
+  },
+  {
+   "start": 98.48,
+   "l": "en",
+   "t": "The wording leaves room for ambiguity."
+  },
+  {
+   "start": 102.55,
+   "l": "en",
+   "t": "The wording leaves room for ambiguity."
+  },
+  {
+   "start": 105.98,
+   "l": "zh",
+   "t": "这种措辞留下了歧义的空间。"
+  },
+  {
+   "start": 110.62,
+   "l": "zh",
+   "t": "一句指示有两种解释，说它有歧义，英语形容词是什么？"
+  },
+  {
+   "start": 119.43,
+   "l": "en",
+   "t": "ambiguous."
+  },
+  {
+   "start": 121.7,
+   "l": "de",
+   "t": "mehrdeutig."
+  },
+  {
+   "start": 124.31,
+   "l": "zh",
+   "t": "有歧义的，可有多种解释的。"
+  },
+  {
+   "start": 127.91,
+   "l": "en",
+   "t": "The instructions were ambiguous, so I asked for an example."
+  },
+  {
+   "start": 133.71,
+   "l": "en",
+   "t": "The instructions were ambiguous, so I asked for an example."
+  },
+  {
+   "start": 139.5,
+   "l": "en",
+   "t": "The instructions were ambiguous, so I asked for an example."
+  },
+  {
+   "start": 144.47,
+   "l": "zh",
+   "t": "这些说明有歧义，所以我请对方举个例子。"
+  },
+  {
+   "start": 150.24,
+   "l": "zh",
+   "t": "账单上的金额和收据对不上，这种不一致、差异，英语名词是什么？"
+  },
+  {
+   "start": 159.7,
+   "l": "en",
+   "t": "discrepancy."
+  },
+  {
+   "start": 161.97,
+   "l": "de",
+   "t": "die Abweichung."
+  },
+  {
+   "start": 164.89,
+   "l": "zh",
+   "t": "不一致，差异。"
+  },
+  {
+   "start": 167.58,
+   "l": "en",
+   "t": "We found a discrepancy between the invoice and the receipt."
+  },
+  {
+   "start": 172.94,
+   "l": "en",
+   "t": "We found a discrepancy between the invoice and the receipt."
+  },
+  {
+   "start": 178.31,
+   "l": "en",
+   "t": "We found a discrepancy between the invoice and the receipt."
+  },
+  {
+   "start": 182.89,
+   "l": "zh",
+   "t": "我们发现账单和收据之间存在差异。"
+  },
+  {
+   "start": 188.16,
+   "l": "zh",
+   "t": "先有一个大致方案，再逐步完善细节，英语动词是什么？"
+  },
+  {
+   "start": 196.58,
+   "l": "en",
+   "t": "refine."
+  },
+  {
+   "start": 198.86,
+   "l": "de",
+   "t": "verfeinern."
+  },
+  {
+   "start": 201.44,
+   "l": "zh",
+   "t": "完善，细化。"
+  },
+  {
+   "start": 204.03,
+   "l": "en",
+   "t": "We refined the design after the first test."
+  },
+  {
+   "start": 208.56,
+   "l": "en",
+   "t": "We refined the design after the first test."
+  },
+  {
+   "start": 213.08,
+   "l": "en",
+   "t": "We refined the design after the first test."
+  },
+  {
+   "start": 216.9,
+   "l": "zh",
+   "t": "首次测试后，我们完善了设计。"
+  },
+  {
+   "start": 221.73,
+   "l": "zh",
+   "t": "能否申请取决于是否满足条件，表示资格、符合条件的英语名词是什么？"
+  },
+  {
+   "start": 231.76,
+   "l": "en",
+   "t": "eligibility."
+  },
+  {
+   "start": 234.04,
+   "l": "de",
+   "t": "die Berechtigung."
+  },
+  {
+   "start": 236.91,
+   "l": "zh",
+   "t": "资格，符合条件。"
+  },
+  {
+   "start": 239.86,
+   "l": "en",
+   "t": "Please check your eligibility before applying."
+  },
+  {
+   "start": 244.26,
+   "l": "en",
+   "t": "Please check your eligibility before applying."
+  },
+  {
+   "start": 248.67,
+   "l": "en",
+   "t": "Please check your eligibility before applying."
+  },
+  {
+   "start": 252.39,
+   "l": "zh",
+   "t": "申请前请确认自己是否符合条件。"
+  },
+  {
+   "start": 257.49,
+   "l": "zh",
+   "t": "原本要交一项费用，但获准不用交，表示豁免的英语名词是什么？"
+  },
+  {
+   "start": 266.61,
+   "l": "en",
+   "t": "exemption."
+  },
+  {
+   "start": 268.88,
+   "l": "de",
+   "t": "die Befreiung."
+  },
+  {
+   "start": 271.56,
+   "l": "zh",
+   "t": "豁免，免除。"
+  },
+  {
+   "start": 274.25,
+   "l": "en",
+   "t": "She applied for an exemption from the fee."
+  },
+  {
+   "start": 278.27,
+   "l": "en",
+   "t": "She applied for an exemption from the fee."
+  },
+  {
+   "start": 282.29,
+   "l": "en",
+   "t": "She applied for an exemption from the fee."
+  },
+  {
+   "start": 285.67,
+   "l": "zh",
+   "t": "她申请了费用豁免。"
+  },
+  {
+   "start": 289.36,
+   "l": "zh",
+   "t": "申请已经交上去了，还在等待处理，表示待处理的英语词是什么？"
+  },
+  {
+   "start": 298.4,
+   "l": "en",
+   "t": "pending."
+  },
+  {
+   "start": 300.68,
+   "l": "de",
+   "t": "ausstehend."
+  },
+  {
+   "start": 303.24,
+   "l": "zh",
+   "t": "待处理的，尚未完成的。"
+  },
+  {
+   "start": 306.67,
+   "l": "en",
+   "t": "My application is still pending."
+  },
+  {
+   "start": 310.47,
+   "l": "en",
+   "t": "My application is still pending."
+  },
+  {
+   "start": 314.28,
+   "l": "en",
+   "t": "My application is still pending."
+  },
+  {
+   "start": 317.47,
+   "l": "zh",
+   "t": "我的申请还在等待处理。"
+  },
+  {
+   "start": 321.75,
+   "l": "zh",
+   "t": "系统有故障，先换一条路把事情做完，这种变通办法，英语名词是什么？"
+  },
+  {
+   "start": 331.78,
+   "l": "en",
+   "t": "workaround."
+  },
+  {
+   "start": 334.06,
+   "l": "de",
+   "t": "die Umgehungslösung."
+  },
+  {
+   "start": 337.29,
+   "l": "zh",
+   "t": "变通办法，绕过问题的办法。"
+  },
+  {
+   "start": 340.84,
+   "l": "en",
+   "t": "Saving the file locally is a temporary workaround."
+  },
+  {
+   "start": 346.06,
+   "l": "en",
+   "t": "Saving the file locally is a temporary workaround."
+  },
+  {
+   "start": 351.28,
+   "l": "en",
+   "t": "Saving the file locally is a temporary workaround."
+  },
+  {
+   "start": 355.72,
+   "l": "zh",
+   "t": "把文件保存在本地是一个临时变通办法。"
+  },
+  {
+   "start": 361.23,
+   "l": "zh",
+   "t": "多余的操作步骤让用户办事不顺畅，表示使用阻力的英语名词是什么？"
+  },
+  {
+   "start": 370.73,
+   "l": "en",
+   "t": "friction."
+  },
+  {
+   "start": 373.0,
+   "l": "de",
+   "t": "die Reibung."
+  },
+  {
+   "start": 375.52,
+   "l": "zh",
+   "t": "摩擦，操作或合作中的阻力。"
+  },
+  {
+   "start": 379.36,
+   "l": "en",
+   "t": "Extra forms create friction for users."
+  },
+  {
+   "start": 383.71,
+   "l": "en",
+   "t": "Extra forms create friction for users."
+  },
+  {
+   "start": 388.07,
+   "l": "en",
+   "t": "Extra forms create friction for users."
+  },
+  {
+   "start": 391.74,
+   "l": "zh",
+   "t": "额外的表格给用户增加了阻力。"
+  },
+  {
+   "start": 396.53,
+   "l": "zh",
+   "t": "切换设备后仍能顺畅接着工作，表示衔接流畅的英语形容词是什么？"
+  },
+  {
+   "start": 405.98,
+   "l": "en",
+   "t": "seamless."
+  },
+  {
+   "start": 408.26,
+   "l": "de",
+   "t": "nahtlos."
+  },
+  {
+   "start": 410.91,
+   "l": "zh",
+   "t": "衔接流畅的，无缝的。"
+  },
+  {
+   "start": 414.18,
+   "l": "en",
+   "t": "The transition between devices was seamless."
+  },
+  {
+   "start": 419.25,
+   "l": "en",
+   "t": "The transition between devices was seamless."
+  },
+  {
+   "start": 424.33,
+   "l": "en",
+   "t": "The transition between devices was seamless."
+  },
+  {
+   "start": 428.65,
+   "l": "zh",
+   "t": "设备之间的切换十分顺畅。"
+  },
+  {
+   "start": 433.29,
+   "l": "zh",
+   "t": "更新出了问题，把系统恢复到之前的版本，表示回滚的英语名词是什么？"
+  },
+  {
+   "start": 442.8,
+   "l": "en",
+   "t": "rollback."
+  },
+  {
+   "start": 445.07,
+   "l": "de",
+   "t": "das Zurücksetzen."
+  },
+  {
+   "start": 448.25,
+   "l": "zh",
+   "t": "回滚，恢复到先前版本。"
+  },
+  {
+   "start": 451.71,
+   "l": "en",
+   "t": "We performed a rollback after the update failed."
+  },
+  {
+   "start": 456.62,
+   "l": "en",
+   "t": "We performed a rollback after the update failed."
+  },
+  {
+   "start": 461.52,
+   "l": "en",
+   "t": "We performed a rollback after the update failed."
+  },
+  {
+   "start": 465.68,
+   "l": "zh",
+   "t": "更新失败后，我们执行了回滚。"
+  },
+  {
+   "start": 470.44,
+   "l": "zh",
+   "t": "一般情况都正常，但一个极端输入出了问题，这种边界情况，英语短语是什么？"
+  },
+  {
+   "start": 480.57,
+   "l": "en",
+   "t": "edge case."
+  },
+  {
+   "start": 482.84,
+   "l": "de",
+   "t": "der Grenzfall."
+  },
+  {
+   "start": 485.71,
+   "l": "zh",
+   "t": "边界情况。"
+  },
+  {
+   "start": 488.18,
+   "l": "en",
+   "t": "An empty file is an edge case we should test."
+  },
+  {
+   "start": 492.78,
+   "l": "en",
+   "t": "An empty file is an edge case we should test."
+  },
+  {
+   "start": 497.38,
+   "l": "en",
+   "t": "An empty file is an edge case we should test."
+  },
+  {
+   "start": 501.26,
+   "l": "zh",
+   "t": "空文件是我们应该测试的一种边界情况。"
+  },
+  {
+   "start": 506.68,
+   "l": "zh",
+   "t": "自己不必做完所有事，把一项任务分派给同事，英语动词是什么？"
+  },
+  {
+   "start": 515.8,
+   "l": "en",
+   "t": "delegate."
+  },
+  {
+   "start": 518.07,
+   "l": "de",
+   "t": "delegieren."
+  },
+  {
+   "start": 520.72,
+   "l": "zh",
+   "t": "委派，分派任务。"
+  },
+  {
+   "start": 523.65,
+   "l": "en",
+   "t": "She delegated the task to a colleague."
+  },
+  {
+   "start": 527.89,
+   "l": "en",
+   "t": "She delegated the task to a colleague."
+  },
+  {
+   "start": 532.12,
+   "l": "en",
+   "t": "She delegated the task to a colleague."
+  },
+  {
+   "start": 535.7,
+   "l": "zh",
+   "t": "她把这项任务交给了一位同事。"
+  },
+  {
+   "start": 540.44,
+   "l": "zh",
+   "t": "检查了很多地方，却漏掉了一个重要细节，表示忽略、漏看的英语动词是什么？"
+  },
+  {
+   "start": 550.62,
+   "l": "en",
+   "t": "overlook."
+  },
+  {
+   "start": 552.89,
+   "l": "de",
+   "t": "übersehen."
+  },
+  {
+   "start": 555.42,
+   "l": "zh",
+   "t": "忽略，漏看。"
+  },
+  {
+   "start": 558.02,
+   "l": "en",
+   "t": "I overlooked a small error in the table."
+  },
+  {
+   "start": 562.13,
+   "l": "en",
+   "t": "I overlooked a small error in the table."
+  },
+  {
+   "start": 566.25,
+   "l": "en",
+   "t": "I overlooked a small error in the table."
+  },
+  {
+   "start": 569.7,
+   "l": "zh",
+   "t": "我漏看了表格中的一个小错误。"
+  },
+  {
+   "start": 574.2,
+   "l": "zh",
+   "t": "考虑时间和资源后，这个方案实际做得到，表示可行的英语形容词是什么？"
+  },
+  {
+   "start": 583.97,
+   "l": "en",
+   "t": "feasible."
+  },
+  {
+   "start": 586.24,
+   "l": "de",
+   "t": "machbar."
+  },
+  {
+   "start": 588.68,
+   "l": "zh",
+   "t": "可行的。"
+  },
+  {
+   "start": 591.16,
+   "l": "en",
+   "t": "The plan is feasible within our budget."
+  },
+  {
+   "start": 595.49,
+   "l": "en",
+   "t": "The plan is feasible within our budget."
+  },
+  {
+   "start": 599.82,
+   "l": "en",
+   "t": "The plan is feasible within our budget."
+  },
+  {
+   "start": 603.49,
+   "l": "zh",
+   "t": "这个方案在我们的预算范围内可行。"
+  },
+  {
+   "start": 608.52,
+   "l": "zh",
+   "t": "任务不仅要有人做，还要有人对结果负责，表示责任归属、问责的英语名词是什么？"
+  },
+  {
+   "start": 619.13,
+   "l": "en",
+   "t": "accountability."
+  },
+  {
+   "start": 621.4,
+   "l": "de",
+   "t": "die Rechenschaftspflicht."
+  },
+  {
+   "start": 625.14,
+   "l": "zh",
+   "t": "对行为和结果负责，问责。"
+  },
+  {
+   "start": 628.88,
+   "l": "en",
+   "t": "Clear roles improve accountability within the team."
+  },
+  {
+   "start": 633.88,
+   "l": "en",
+   "t": "Clear roles improve accountability within the team."
+  },
+  {
+   "start": 638.89,
+   "l": "en",
+   "t": "Clear roles improve accountability within the team."
+  },
+  {
+   "start": 643.14,
+   "l": "zh",
+   "t": "明确的分工有助于团队成员对结果负责。"
+  },
+  {
+   "start": 648.93,
+   "l": "zh",
+   "t": "你先替公司付了车票钱，公司之后把钱还给你，英语动词是什么？"
+  },
+  {
+   "start": 658.12,
+   "l": "en",
+   "t": "reimburse."
+  },
+  {
+   "start": 660.4,
+   "l": "de",
+   "t": "erstatten."
+  },
+  {
+   "start": 662.84,
+   "l": "zh",
+   "t": "报销，偿还垫付费用。"
+  },
+  {
+   "start": 666.17,
+   "l": "en",
+   "t": "The company will reimburse me for the train ticket."
+  },
+  {
+   "start": 670.89,
+   "l": "en",
+   "t": "The company will reimburse me for the train ticket."
+  },
+  {
+   "start": 675.6,
+   "l": "en",
+   "t": "The company will reimburse me for the train ticket."
+  },
+  {
+   "start": 679.61,
+   "l": "zh",
+   "t": "公司会报销我的火车票费用。"
+  },
+  {
+   "start": 684.14,
+   "l": "zh",
+   "t": "咖啡豆快用完了，需要补足存量。表示补充、重新添满的英语动词是什么？"
+  },
+  {
+   "start": 694.46,
+   "l": "en",
+   "t": "replenish."
+  },
+  {
+   "start": 696.73,
+   "l": "de",
+   "t": "auffüllen."
+  },
+  {
+   "start": 699.17,
+   "l": "zh",
+   "t": "补充，重新添满。"
+  },
+  {
+   "start": 702.1,
+   "l": "en",
+   "t": "We need to replenish our supply of coffee beans."
+  },
+  {
+   "start": 706.74,
+   "l": "en",
+   "t": "We need to replenish our supply of coffee beans."
+  },
+  {
+   "start": 711.38,
+   "l": "en",
+   "t": "We need to replenish our supply of coffee beans."
+  },
+  {
+   "start": 715.32,
+   "l": "zh",
+   "t": "我们需要补充咖啡豆的存量。"
+  },
+  {
+   "start": 719.63,
+   "l": "zh",
+   "t": "先决定把多少时间用于测试，表示分配的英语动词是什么？"
+  },
+  {
+   "start": 728.24,
+   "l": "en",
+   "t": "allocate."
+  },
+  {
+   "start": 730.52,
+   "l": "de",
+   "t": "zuteilen."
+  },
+  {
+   "start": 733.08,
+   "l": "zh",
+   "t": "分配，划拨。"
+  },
+  {
+   "start": 735.67,
+   "l": "en",
+   "t": "We allocated two days to testing."
+  },
+  {
+   "start": 739.59,
+   "l": "en",
+   "t": "We allocated two days to testing."
+  },
+  {
+   "start": 743.52,
+   "l": "en",
+   "t": "We allocated two days to testing."
+  },
+  {
+   "start": 746.8,
+   "l": "zh",
+   "t": "我们安排了两天用于测试。"
+  },
+  {
+   "start": 751.04,
+   "l": "zh",
+   "t": "大家先约一个时间，但还可能调整，表示暂定的英语形容词是什么？"
+  },
+  {
+   "start": 760.14,
+   "l": "en",
+   "t": "tentative."
+  },
+  {
+   "start": 762.41,
+   "l": "de",
+   "t": "vorläufig."
+  },
+  {
+   "start": 765.02,
+   "l": "zh",
+   "t": "暂定的，尚未确定的。"
+  },
+  {
+   "start": 768.18,
+   "l": "en",
+   "t": "We made a tentative plan to meet on Friday."
+  },
+  {
+   "start": 772.44,
+   "l": "en",
+   "t": "We made a tentative plan to meet on Friday."
+  },
+  {
+   "start": 776.7,
+   "l": "en",
+   "t": "We made a tentative plan to meet on Friday."
+  },
+  {
+   "start": 780.3,
+   "l": "zh",
+   "t": "我们暂定周五见面。"
+  },
+  {
+   "start": 784.04,
+   "l": "zh",
+   "t": "桌上挤满了纸张、电线和各种小东西。表示堆积的杂物、杂乱的英语名词是什么？"
+  },
+  {
+   "start": 795.15,
+   "l": "en",
+   "t": "clutter."
+  },
+  {
+   "start": 797.42,
+   "l": "de",
+   "t": "das Durcheinander."
+  },
+  {
+   "start": 800.48,
+   "l": "zh",
+   "t": "堆积的杂物，杂乱。"
+  },
+  {
+   "start": 803.48,
+   "l": "en",
+   "t": "I cleared the clutter off my desk."
+  },
+  {
+   "start": 807.34,
+   "l": "en",
+   "t": "I cleared the clutter off my desk."
+  },
+  {
+   "start": 811.19,
+   "l": "en",
+   "t": "I cleared the clutter off my desk."
+  },
+  {
+   "start": 814.43,
+   "l": "zh",
+   "t": "我把桌上的杂物清理掉了。"
+  },
+  {
+   "start": 818.52,
+   "l": "zh",
+   "t": "评价一个问题时，考虑不同情况和细微差别，表示细致有层次的英语形容词是什么？"
+  },
+  {
+   "start": 829.13,
+   "l": "en",
+   "t": "nuanced."
+  },
+  {
+   "start": 831.4,
+   "l": "de",
+   "t": "differenziert."
+  },
+  {
+   "start": 834.22,
+   "l": "zh",
+   "t": "细致有层次的，考虑细微差别的。"
+  },
+  {
+   "start": 838.3,
+   "l": "en",
+   "t": "Her answer offered a nuanced view of the problem."
+  },
+  {
+   "start": 843.26,
+   "l": "en",
+   "t": "Her answer offered a nuanced view of the problem."
+  },
+  {
+   "start": 848.22,
+   "l": "en",
+   "t": "Her answer offered a nuanced view of the problem."
+  },
+  {
+   "start": 852.42,
+   "l": "zh",
+   "t": "她的回答对这个问题给出了细致而有层次的看法。"
+  }
+ ]
+}
