@@ -14,10 +14,13 @@ class ReadingTests(unittest.TestCase):
         seg = dict(l='en', t='She compiled a list of useful sources.', zh='她整理了一份有用资料来源清单。',
                    p=.5, sec=1, reading='example')
         out = build.expand_segments([seg])
-        self.assertEqual([x['l'] for x in out], ['en', 'en', 'zh'])
-        self.assertEqual([x['rate'] for x in out[:2]], ['-20%', '-10%'])
-        self.assertEqual([x.get('sec') for x in out], [1, None, None])
-        self.assertEqual([x['speed'] for x in out[:2]], ['0.8×', '0.9×'])
+        self.assertEqual([x['l'] for x in out], ['en', 'en', 'en', 'zh'])
+        self.assertEqual([x['rate'] for x in out[:3]], ['-20%', '-20%', '-10%'])
+        self.assertEqual([x.get('sec') for x in out], [1, None, None, None])
+        self.assertEqual([x['speed'] for x in out[:3]], ['0.8×', '0.8×', '0.9×'])
+        self.assertEqual([x['rep'] for x in out[:3]], [1, 2, 3])
+        self.assertEqual([x['t'] for x in out[:3]], [seg['t']]*3)
+        self.assertEqual(out[-1]['t'], seg['zh'])
         self.assertEqual(out[-1]['p'], .5)
 
     def test_long_shadow_and_answer_are_single_readings(self):
@@ -31,19 +34,28 @@ class ReadingTests(unittest.TestCase):
 
     def test_short_example_also_translates(self):
         out = build.expand_segments([dict(l='en', t='Keep the receipt.', zh='保留收据。', reading='example')])
-        self.assertEqual(len(out), 3)
+        self.assertEqual(len(out), 4)
         self.assertEqual(out[-1]['l'], 'zh')
 
-    def test_all_existing_episodes_keep_expansion(self):
-        # Emulate the previous implementation for every legacy published script.
+    def test_german_examples_follow_same_sequence(self):
+        for text in ('Bewahre die Quittung auf.', 'Sie stellt einen Bericht aus mehreren Quellen zusammen.'):
+            with self.subTest(text=text):
+                out = build.expand_segments([dict(l='de', t=text, zh='中文意思。', reading='example')])
+                self.assertEqual([x['l'] for x in out], ['de', 'de', 'de', 'zh'])
+                self.assertEqual([x['rate'] for x in out[:3]], ['-20%', '-20%', '-10%'])
+                self.assertEqual([x['speed'] for x in out[:3]], ['0.8×', '0.8×', '0.9×'])
+
+    def test_legacy_scripts_preserve_structure_with_updated_rates(self):
+        # Existing source format still works; regenerating adopts the new rates.
         def old_expand(segments):
             out = []
             for seg in segments:
                 if not build.is_sentence(seg):
                     out.append(seg)
                     continue
-                for k, rate in enumerate(build.SENTENCE_RATES):
-                    c = dict(l=seg['l'], t=seg['t'], rate=rate, rep=k+1, p=.9, zh=seg.get('zh',''))
+                for k, rate in enumerate(['-20%', '-20%', '-10%']):
+                    c = dict(l=seg['l'], t=seg['t'], rate=rate, rep=k+1, p=.9, zh=seg.get('zh',''),
+                             speed=['0.8×', '0.8×', '0.9×'][k])
                     if k == 0 and 'sec' in seg:
                         c['sec'] = seg['sec']
                     out.append(c)

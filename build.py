@@ -33,7 +33,7 @@ SR = 24000
 IN_CI = bool(os.environ.get("GITHUB_ACTIONS"))
 
 
-SENTENCE_RATES = ["-40%", "-40%", "-20%"]   # 句子：0.6 倍速两遍，再 0.8 倍速一遍
+SENTENCE_RATES = ["-20%", "-20%", "-10%"]   # 英德例句：0.8 倍速两遍，再 0.9 倍速一遍
 REPEAT_PAUSE = 0.9
 
 
@@ -44,7 +44,7 @@ def is_sentence(seg):
 
 READING_RATES = {
     "word": ["-30%"],       # 单词：慢读一次，由稿件显式提供两遍
-    "example": ["-20%", "-10%"],  # 例句：较慢一次、接近正常一次
+    "example": SENTENCE_RATES,  # 新旧例句统一语速；随后只读一遍中文
     "shadow": ["-20%"],     # 跟读：读一次，停顿留给听众
     "answer": ["-10%"],     # 测验：直接给一次答案
 }
@@ -71,7 +71,7 @@ def expand_reading(seg):
 
 
 def expand_segments(segments):
-    """把每个句子展开成：0.6 倍速 ×2、0.8 倍速 ×1、中文意思。"""
+    """把英德例句展开成：0.8 倍速 ×2、0.9 倍速 ×1、中文意思一次。"""
     out = []
     for seg in segments:
         if seg.get("reading"):
@@ -82,7 +82,7 @@ def expand_segments(segments):
             continue
         for k, rate in enumerate(SENTENCE_RATES):
             c = {"l": seg["l"], "t": seg["t"], "rate": rate, "rep": k + 1, "p": REPEAT_PAUSE,
-                 "zh": seg.get("zh", "")}
+                 "zh": seg.get("zh", ""), "speed": f"{1 + int(rate.rstrip('%')) / 100:.1f}×"}
             if k == 0 and "sec" in seg:
                 c["sec"] = seg["sec"]
             out.append(c)
