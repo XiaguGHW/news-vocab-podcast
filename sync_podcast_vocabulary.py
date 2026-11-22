@@ -41,12 +41,17 @@ def published_sources(root, feed):
         if not re.fullmatch(r'[A-Za-z0-9_-]+', slug):
             raise ValueError('Unsafe podcast id')
         episode, story = root / 'episodes' / f'{slug}.json', root / 'stories' / f'{slug}.json'
+        review = root / 'reviews' / f'{slug}.json'
         if episode.exists():
             source = json.loads(episode.read_text(encoding='utf-8'))
         elif story.exists():
             source = json.loads(story.read_text(encoding='utf-8'))
             if source.get('publish') is not True:
                 raise ValueError(f'Story in feed is not approved: {slug}')
+        elif review.exists():
+            source = json.loads(review.read_text(encoding='utf-8'))
+            if source.get('publish') is not True:
+                raise ValueError(f'Review in feed is not approved: {slug}')
         else:
             raise ValueError(f'Published source missing: {slug}')
         if not isinstance(source.get('words'), list):

@@ -6,6 +6,10 @@ on:
     paths:
       - "episodes/**"
       - "stories/**"
+      - "reviews/**"
+      - "assets/review/**"
+      - "build_review.py"
+      - "review_podcast.py"
       - "build_story.py"
       - "story_podcast.py"
       - "sync_podcast_vocabulary.py"
@@ -59,9 +63,12 @@ jobs:
 
       - uses: actions/cache@v4
         with:
-          path: .cache/story-tts
-          key: ${{ runner.os }}-story-tts-v1-${{ hashFiles('stories/**/*.json', 'build_story.py') }}
+          path: |
+            .cache/story-tts
+            .cache/review-tts
+          key: ${{ runner.os }}-podcast-tts-v2-${{ hashFiles('stories/**/*.json', 'build_story.py', 'reviews/**/*.json', 'build_review.py') }}
           restore-keys: |
+            ${{ runner.os }}-podcast-tts-v2-
             ${{ runner.os }}-story-tts-v1-
 
       - name: Build audio, video, feed and page

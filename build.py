@@ -205,6 +205,9 @@ def release_download(slug):
 
 
 def build_episode(ep, src_hash):
+    if ep.get('kind') == 'review':
+        from review_podcast import build_published_review
+        return build_published_review(ep, src_hash, DOCS, DIST, release_upload)
     if ep.get('kind') == 'story':
         from story_podcast import build_published_story
         return build_published_story(ep, src_hash, DOCS, DIST, release_upload)
@@ -350,6 +353,16 @@ def main():
     from story_podcast import story_episode
     for path in sorted(glob.glob('stories/*.json')):
         approved = story_episode(path)
+        if approved is None:
+            continue
+        ep, src_hash = approved
+        if any(slug_of(other) == ep['id'] for other in episodes):
+            raise ValueError(f"Duplicate podcast id: {ep['id']}")
+        build_episode(ep, src_hash)
+        episodes.append(ep)
+    from review_podcast import review_episode
+    for path in sorted(glob.glob('reviews/*.json')):
+        approved = review_episode(path)
         if approved is None:
             continue
         ep, src_hash = approved
