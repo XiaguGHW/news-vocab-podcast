@@ -144,11 +144,13 @@ def build(data,output_dir,cache,render_only=False):
     folder=output_dir/data['id'];folder.mkdir(parents=True,exist_ok=True)
     segments=plan(data)
     # Render every unique card before incurring speech cost; no truncation.
+    rendered=set()
     for s in segments:
         name=f"{s['phase']}-{s['index']:03d}.png"
         path=folder/name
-        if not path.exists() and (not render_only or s['phase']!='example'):
+        if name not in rendered and (not render_only or s['phase']!='example'):
             card(data,s,path)
+            rendered.add(name)
     if render_only:return folder
     asyncio.run(synthesize(segments,folder,cache))
     frames=[];start=0

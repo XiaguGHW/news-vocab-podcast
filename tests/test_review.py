@@ -55,3 +55,11 @@ class ReviewTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             with patch.object(review.Image,'open',side_effect=AssertionError('question opened answer image')):
                 review.card(d,s,Path(folder)/'question.png',3)
+
+    def test_rerender_replaces_old_question_cards(self):
+        data=dict(self.sources[0],words=self.sources[0]['words'][:1])
+        with tempfile.TemporaryDirectory() as folder:
+            output=Path(folder);target=output/data['id'];target.mkdir()
+            stale=target/'question-000.png';stale.write_bytes(b'old card')
+            review.build(data,output,output/'cache',render_only=True)
+            self.assertTrue(stale.read_bytes().startswith(b'\x89PNG'))
