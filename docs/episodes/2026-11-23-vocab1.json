@@ -1,0 +1,1350 @@
+{
+ "v": 3,
+ "src_hash": "a41f7fc43ebba6d8",
+ "duration": 1133,
+ "size": 9063070,
+ "cues": [
+  {
+   "start": 0.6,
+   "l": "zh",
+   "t": "欢迎收听新词学习专题。"
+  },
+  {
+   "start": 4.12,
+   "l": "zh",
+   "t": "今天用机械、论文和生活中的场景，学习七个新词和表达。"
+  },
+  {
+   "start": 11.22,
+   "l": "zh",
+   "t": "每个词都有例句和跟读，途中会暂停提问，最后再做一轮小测。"
+  },
+  {
+   "start": 18.43,
+   "l": "zh",
+   "t": "主设备负责主要任务，旁边还有设备提供支持。第一个词描述这种辅助作用。"
+  },
+  {
+   "start": 27.42,
+   "l": "en",
+   "t": "auxiliary.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 29.8,
+   "l": "en",
+   "t": "auxiliary.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 32.17,
+   "l": "zh",
+   "t": "这是形容词，重点是帮助主要设备或主要工作，不是所有额外的东西都适合这样叫。工程中常修饰电机、动力和设备。"
+  },
+  {
+   "start": 45.29,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 48.38,
+   "l": "en",
+   "t": "an auxiliary motor.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 51.3,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 54.46,
+   "l": "de",
+   "t": "unterstützend.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 57.74,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 60.81,
+   "l": "en",
+   "t": "An auxiliary motor drives the cooling fan.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 65.4,
+   "l": "en",
+   "t": "An auxiliary motor drives the cooling fan.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 70.0,
+   "l": "en",
+   "t": "An auxiliary motor drives the cooling fan.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 73.89,
+   "l": "zh",
+   "t": "一台辅助电机驱动冷却风扇。"
+  },
+  {
+   "start": 78.01,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 81.46,
+   "l": "de",
+   "t": "Ein Hilfsmotor treibt den Kühlventilator an.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 87.38,
+   "l": "de",
+   "t": "Ein Hilfsmotor treibt den Kühlventilator an.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 93.29,
+   "l": "de",
+   "t": "Ein Hilfsmotor treibt den Kühlventilator an.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 98.36,
+   "l": "zh",
+   "t": "一台辅助电机驱动冷却风扇。"
+  },
+  {
+   "start": 102.48,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 104.92,
+   "l": "en",
+   "t": "The hospital uses an auxiliary generator during power cuts.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 110.64,
+   "l": "en",
+   "t": "The hospital uses an auxiliary generator during power cuts.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 116.37,
+   "l": "en",
+   "t": "The hospital uses an auxiliary generator during power cuts.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 121.26,
+   "l": "zh",
+   "t": "停电时，医院会使用辅助发电机。"
+  },
+  {
+   "start": 125.72,
+   "l": "zh",
+   "t": "记忆时把主要设备和旁边提供支持的小设备放在一起。这个画面帮助理解辅助作用，不代表所有辅助设备都是备用设备。"
+  },
+  {
+   "start": 138.82,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 141.16,
+   "l": "en",
+   "t": "an auxiliary motor.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 146.28,
+   "l": "de",
+   "t": "unterstützend.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 151.72,
+   "l": "zh",
+   "t": "第二个词是轴这个名词的复数。读机械说明或坐标图时，经常会遇到它。"
+  },
+  {
+   "start": 160.07,
+   "l": "en",
+   "t": "axes.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 162.44,
+   "l": "en",
+   "t": "axes.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 164.81,
+   "l": "zh",
+   "t": "单数和复数的词尾发音不同。先听单数，再听今天的复数。这里学习运动轴和坐标轴的意思，不是斧头。"
+  },
+  {
+   "start": 176.59,
+   "l": "en",
+   "t": "axis.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 178.86,
+   "l": "en",
+   "t": "axes.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 181.23,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 184.32,
+   "l": "en",
+   "t": "three axes.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 186.79,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 189.95,
+   "l": "de",
+   "t": "die Achsen.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 192.9,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 195.96,
+   "l": "en",
+   "t": "The machine moves along three axes.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 200.1,
+   "l": "en",
+   "t": "The machine moves along three axes.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 204.24,
+   "l": "en",
+   "t": "The machine moves along three axes.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 207.72,
+   "l": "zh",
+   "t": "这台机器沿三个轴运动。"
+  },
+  {
+   "start": 211.34,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 214.79,
+   "l": "de",
+   "t": "Die Maschine bewegt sich entlang dreier Achsen.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 220.42,
+   "l": "de",
+   "t": "Die Maschine bewegt sich entlang dreier Achsen.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 226.04,
+   "l": "de",
+   "t": "Die Maschine bewegt sich entlang dreier Achsen.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 230.84,
+   "l": "zh",
+   "t": "这台机器沿三个轴运动。"
+  },
+  {
+   "start": 234.46,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 236.9,
+   "l": "en",
+   "t": "The two axes show time and distance.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 241.36,
+   "l": "en",
+   "t": "The two axes show time and distance.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 245.81,
+   "l": "en",
+   "t": "The two axes show time and distance.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 249.58,
+   "l": "zh",
+   "t": "这两条坐标轴分别表示时间和距离。"
+  },
+  {
+   "start": 254.2,
+   "l": "zh",
+   "t": "区分一个轴和多个轴。机械里的运动轴和图表里的坐标轴，都是这组单复数形式的常见用法。"
+  },
+  {
+   "start": 264.56,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 266.91,
+   "l": "en",
+   "t": "three axes.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 271.78,
+   "l": "de",
+   "t": "die Achsen.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 276.94,
+   "l": "zh",
+   "t": "为主要设备提供支持，辅助的这个英语形容词是什么？"
+  },
+  {
+   "start": 285.39,
+   "l": "en",
+   "t": "auxiliary.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 287.76,
+   "l": "de",
+   "t": "unterstützend.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 290.44,
+   "l": "zh",
+   "t": "继续学习。"
+  },
+  {
+   "start": 293.12,
+   "l": "zh",
+   "t": "第三个词先限定在机械语境。气缸的活塞从一个端点运动到另一个端点，这段移动距离叫行程。"
+  },
+  {
+   "start": 303.64,
+   "l": "en",
+   "t": "stroke.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 306.02,
+   "l": "en",
+   "t": "stroke.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 308.39,
+   "l": "zh",
+   "t": "这是名词。在气缸和执行器的说明里，它常表示行程，也可以表示一次完整的往复运动中的单程动作。今天先不混入划水或笔画等其他意思。"
+  },
+  {
+   "start": 323.48,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 326.56,
+   "l": "en",
+   "t": "the cylinder stroke.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 329.37,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 332.53,
+   "l": "de",
+   "t": "der Hub.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 335.33,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 338.4,
+   "l": "en",
+   "t": "The cylinder has a stroke of fifty millimeters.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 343.16,
+   "l": "en",
+   "t": "The cylinder has a stroke of fifty millimeters.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 347.92,
+   "l": "en",
+   "t": "The cylinder has a stroke of fifty millimeters.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 351.98,
+   "l": "zh",
+   "t": "这个气缸的行程为五十毫米。"
+  },
+  {
+   "start": 355.62,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 359.07,
+   "l": "de",
+   "t": "Der Zylinder hat einen Hub von fünfzig Millimetern.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 365.32,
+   "l": "de",
+   "t": "Der Zylinder hat einen Hub von fünfzig Millimetern.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 371.58,
+   "l": "de",
+   "t": "Der Zylinder hat einen Hub von fünfzig Millimetern.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 376.93,
+   "l": "zh",
+   "t": "这个气缸的行程为五十毫米。"
+  },
+  {
+   "start": 380.57,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 383.01,
+   "l": "en",
+   "t": "We need a longer stroke to lift the platform.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 387.63,
+   "l": "en",
+   "t": "We need a longer stroke to lift the platform.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 392.25,
+   "l": "en",
+   "t": "We need a longer stroke to lift the platform.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 396.16,
+   "l": "zh",
+   "t": "为了抬升平台，我们需要更长的行程。"
+  },
+  {
+   "start": 400.6,
+   "l": "zh",
+   "t": "记住两个运动端点之间的距离。行程不是速度，也不是一秒钟能移动多少距离。这个词偏工程语境，所以两个例句都保留在机械场景。"
+  },
+  {
+   "start": 415.02,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 417.36,
+   "l": "en",
+   "t": "the cylinder stroke.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 422.4,
+   "l": "de",
+   "t": "der Hub.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 427.42,
+   "l": "zh",
+   "t": "第四个词。你不只看一遍数据，而是拿另一份独立资料来核对。"
+  },
+  {
+   "start": 434.49,
+   "l": "en",
+   "t": "cross-check.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 436.86,
+   "l": "en",
+   "t": "cross-check.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 439.23,
+   "l": "zh",
+   "t": "这里作动词，表示交叉核对。关键是有另一份记录、另一种方法或另一个来源作为参照，不能只理解成把同一个数字再看一眼。"
+  },
+  {
+   "start": 452.28,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 455.37,
+   "l": "en",
+   "t": "cross-check the measurements.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 458.53,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 461.69,
+   "l": "de",
+   "t": "abgleichen.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 464.71,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 467.78,
+   "l": "en",
+   "t": "Please cross-check the measurements against the drawing.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 472.4,
+   "l": "en",
+   "t": "Please cross-check the measurements against the drawing.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 477.02,
+   "l": "en",
+   "t": "Please cross-check the measurements against the drawing.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 480.93,
+   "l": "zh",
+   "t": "请对照图纸复核测量结果。"
+  },
+  {
+   "start": 484.79,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 488.24,
+   "l": "de",
+   "t": "Bitte gleichen Sie die Messwerte mit der Zeichnung ab.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 493.84,
+   "l": "de",
+   "t": "Bitte gleichen Sie die Messwerte mit der Zeichnung ab.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 499.44,
+   "l": "de",
+   "t": "Bitte gleichen Sie die Messwerte mit der Zeichnung ab.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 504.22,
+   "l": "zh",
+   "t": "请对照图纸复核测量结果。"
+  },
+  {
+   "start": 508.08,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 510.52,
+   "l": "en",
+   "t": "I cross-checked the booking details with the confirmation email.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 515.96,
+   "l": "en",
+   "t": "I cross-checked the booking details with the confirmation email.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 521.39,
+   "l": "en",
+   "t": "I cross-checked the booking details with the confirmation email.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 526.02,
+   "l": "zh",
+   "t": "我把预订信息和确认邮件核对了一遍。"
+  },
+  {
+   "start": 530.68,
+   "l": "zh",
+   "t": "前面表示交叉，后面是核查。想象两份独立资料相互对照。常用搭配中，后面可以接与之对照的另一份资料。"
+  },
+  {
+   "start": 543.15,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 545.49,
+   "l": "en",
+   "t": "cross-check the measurements.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 550.84,
+   "l": "de",
+   "t": "abgleichen.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 556.05,
+   "l": "zh",
+   "t": "气缸从一个运动端点到另一个端点的行程，英语名词是什么？"
+  },
+  {
+   "start": 565.1,
+   "l": "en",
+   "t": "stroke.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 567.47,
+   "l": "de",
+   "t": "der Hub.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 569.84,
+   "l": "zh",
+   "t": "继续学习。"
+  },
+  {
+   "start": 572.52,
+   "l": "zh",
+   "t": "第五个词。机械臂由几段连在一起，每段之间有关节，可以改变彼此的角度。"
+  },
+  {
+   "start": 581.27,
+   "l": "en",
+   "t": "articulated.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 583.78,
+   "l": "en",
+   "t": "articulated.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 586.3,
+   "l": "zh",
+   "t": "这里作形容词，表示有关节连接、能够在连接处转动的。常描述机器人、机械臂或带铰接结构的车辆。其他语境里还可能来自表达这个动词，今天不把两种意思混在一起。"
+  },
+  {
+   "start": 604.29,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 607.38,
+   "l": "en",
+   "t": "an articulated robot.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 610.59,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 613.75,
+   "l": "de",
+   "t": "gelenkig.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 616.72,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 619.79,
+   "l": "en",
+   "t": "An articulated robot can bend at several joints.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 625.1,
+   "l": "en",
+   "t": "An articulated robot can bend at several joints.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 630.42,
+   "l": "en",
+   "t": "An articulated robot can bend at several joints.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 634.96,
+   "l": "zh",
+   "t": "关节式机器人可以在多个关节处弯曲运动。"
+  },
+  {
+   "start": 639.9,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 643.34,
+   "l": "de",
+   "t": "Ein Gelenkroboter kann sich an mehreren Gelenken bewegen.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 649.79,
+   "l": "de",
+   "t": "Ein Gelenkroboter kann sich an mehreren Gelenken bewegen.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 656.23,
+   "l": "de",
+   "t": "Ein Gelenkroboter kann sich an mehreren Gelenken bewegen.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 661.78,
+   "l": "zh",
+   "t": "关节式机器人可以在多个关节处弯曲运动。"
+  },
+  {
+   "start": 666.72,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 669.16,
+   "l": "en",
+   "t": "The articulated bus bends in the middle.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 673.25,
+   "l": "en",
+   "t": "The articulated bus bends in the middle.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 677.34,
+   "l": "en",
+   "t": "The articulated bus bends in the middle.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 680.77,
+   "l": "zh",
+   "t": "这辆铰接式公交车可以在中间连接处转弯。"
+  },
+  {
+   "start": 686.02,
+   "l": "zh",
+   "t": "想象人的手臂：上臂、前臂和手通过关节连接。这里帮助记忆的是分段连接的结构，不是简单地说所有能移动的机器。"
+  },
+  {
+   "start": 699.02,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 701.37,
+   "l": "en",
+   "t": "an articulated robot.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 706.74,
+   "l": "de",
+   "t": "gelenkig.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 711.9,
+   "l": "zh",
+   "t": "第六个表达由两个分开的词组成，用来引出前后明显不同的情况。"
+  },
+  {
+   "start": 719.07,
+   "l": "en",
+   "t": "in contrast.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 721.56,
+   "l": "en",
+   "t": "in contrast.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 724.06,
+   "l": "zh",
+   "t": "这是表示对比的短语。独立放在新句开头时，后面通常有逗号；如果还要直接接比较对象，可以用另一种带介词的结构。"
+  },
+  {
+   "start": 736.89,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 739.98,
+   "l": "en",
+   "t": "in contrast to.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 742.64,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 745.8,
+   "l": "de",
+   "t": "im Gegensatz dazu.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 749.73,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 752.79,
+   "l": "en",
+   "t": "The first model is heavy. In contrast, the second is light.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 759.31,
+   "l": "en",
+   "t": "The first model is heavy. In contrast, the second is light.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 765.82,
+   "l": "en",
+   "t": "The first model is heavy. In contrast, the second is light.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 771.44,
+   "l": "zh",
+   "t": "第一种型号很重。相比之下，第二种很轻。"
+  },
+  {
+   "start": 777.03,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 780.48,
+   "l": "de",
+   "t": "Das erste Modell ist schwer. Im Gegensatz dazu ist das zweite leicht.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 789.68,
+   "l": "de",
+   "t": "Das erste Modell ist schwer. Im Gegensatz dazu ist das zweite leicht.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 798.88,
+   "l": "de",
+   "t": "Das erste Modell ist schwer. Im Gegensatz dazu ist das zweite leicht.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 806.88,
+   "l": "zh",
+   "t": "第一种型号很重。相比之下，第二种很轻。"
+  },
+  {
+   "start": 812.46,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 814.9,
+   "l": "en",
+   "t": "The city is noisy. In contrast, this village is quiet.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 821.9,
+   "l": "en",
+   "t": "The city is noisy. In contrast, this village is quiet.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 828.9,
+   "l": "en",
+   "t": "The city is noisy. In contrast, this village is quiet.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 834.92,
+   "l": "zh",
+   "t": "城市很吵。相比之下，这个村庄很安静。"
+  },
+  {
+   "start": 840.53,
+   "l": "zh",
+   "t": "记住它用于拉开差异。单纯说两个东西都有某个特点，不需要用这个表达。拼写时两个词要分开。"
+  },
+  {
+   "start": 851.66,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 854.0,
+   "l": "en",
+   "t": "in contrast to.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 858.9,
+   "l": "de",
+   "t": "im Gegensatz dazu.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 864.9,
+   "l": "zh",
+   "t": "描述通过关节连接、能在连接处改变角度的结构，英语形容词是什么？"
+  },
+  {
+   "start": 875.44,
+   "l": "en",
+   "t": "articulated.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 877.81,
+   "l": "de",
+   "t": "gelenkig.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 880.25,
+   "l": "zh",
+   "t": "继续学习。"
+  },
+  {
+   "start": 882.92,
+   "l": "zh",
+   "t": "最后一个词。一个实验室只用来做测试，不承担别的用途。"
+  },
+  {
+   "start": 890.0,
+   "l": "en",
+   "t": "exclusively.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 892.51,
+   "l": "en",
+   "t": "exclusively.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 895.03,
+   "l": "zh",
+   "t": "这是副词，强调范围被限定，只供某个用途或某一类对象。它经常修饰使用、保留和提供之类的动作，语气比一般的仅仅更正式。"
+  },
+  {
+   "start": 909.3,
+   "l": "zh",
+   "t": "先记住一个常见搭配。"
+  },
+  {
+   "start": 912.39,
+   "l": "en",
+   "t": "used exclusively for testing.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 916.25,
+   "l": "zh",
+   "t": "这个语境的德语表达是。"
+  },
+  {
+   "start": 919.41,
+   "l": "de",
+   "t": "ausschließlich.",
+   "speed": "0.7×"
+  },
+  {
+   "start": 922.62,
+   "l": "zh",
+   "t": "先放进一个自然的句子。"
+  },
+  {
+   "start": 925.68,
+   "l": "en",
+   "t": "The laboratory is used exclusively for testing.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 931.02,
+   "l": "en",
+   "t": "The laboratory is used exclusively for testing.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 936.36,
+   "l": "en",
+   "t": "The laboratory is used exclusively for testing.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 940.92,
+   "l": "zh",
+   "t": "这个实验室仅用于测试。"
+  },
+  {
+   "start": 944.5,
+   "l": "zh",
+   "t": "同一个意思，德语这样说。"
+  },
+  {
+   "start": 947.94,
+   "l": "de",
+   "t": "Das Labor wird ausschließlich für Tests genutzt.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 953.74,
+   "l": "de",
+   "t": "Das Labor wird ausschließlich für Tests genutzt.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 959.54,
+   "l": "de",
+   "t": "Das Labor wird ausschließlich für Tests genutzt.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 964.5,
+   "l": "zh",
+   "t": "这个实验室仅用于测试。"
+  },
+  {
+   "start": 968.08,
+   "l": "zh",
+   "t": "再换一个场景。"
+  },
+  {
+   "start": 970.52,
+   "l": "en",
+   "t": "This room is reserved exclusively for hotel guests.",
+   "rep": 1,
+   "speed": "0.8×"
+  },
+  {
+   "start": 975.78,
+   "l": "en",
+   "t": "This room is reserved exclusively for hotel guests.",
+   "rep": 2,
+   "speed": "0.8×"
+  },
+  {
+   "start": 981.05,
+   "l": "en",
+   "t": "This room is reserved exclusively for hotel guests.",
+   "rep": 3,
+   "speed": "0.9×"
+  },
+  {
+   "start": 985.54,
+   "l": "zh",
+   "t": "这个房间专供酒店住客使用。"
+  },
+  {
+   "start": 989.47,
+   "l": "zh",
+   "t": "想象一道只允许某种用途或某类对象进入的门。重点是排除其他用途或其他对象，不是说价格昂贵。"
+  },
+  {
+   "start": 1000.98,
+   "l": "zh",
+   "t": "轮到你跟读。"
+  },
+  {
+   "start": 1003.33,
+   "l": "en",
+   "t": "used exclusively for testing.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 1009.26,
+   "l": "de",
+   "t": "ausschließlich.",
+   "speed": "0.8×"
+  },
+  {
+   "start": 1014.66,
+   "l": "zh",
+   "t": "现在做一轮小测。先在心里说出英语，再听答案。"
+  },
+  {
+   "start": 1020.84,
+   "l": "zh",
+   "t": "气缸从一个运动端点到另一个端点的行程，英语名词是什么？"
+  },
+  {
+   "start": 1029.89,
+   "l": "en",
+   "t": "stroke.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1032.26,
+   "l": "de",
+   "t": "der Hub.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1034.63,
+   "l": "zh",
+   "t": "为主要设备提供支持，辅助的这个英语形容词是什么？"
+  },
+  {
+   "start": 1043.08,
+   "l": "en",
+   "t": "auxiliary.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1045.45,
+   "l": "de",
+   "t": "unterstützend.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1048.14,
+   "l": "zh",
+   "t": "描述通过关节连接、能在连接处改变角度的结构，英语形容词是什么？"
+  },
+  {
+   "start": 1058.67,
+   "l": "en",
+   "t": "articulated.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1061.04,
+   "l": "de",
+   "t": "gelenkig.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1063.49,
+   "l": "zh",
+   "t": "轴这个英语名词，今天学习的复数形式是什么？"
+  },
+  {
+   "start": 1071.29,
+   "l": "en",
+   "t": "axes.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1073.66,
+   "l": "de",
+   "t": "die Achsen.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1076.08,
+   "l": "zh",
+   "t": "一个房间仅供指定对象使用，强调专门、仅限的英语副词是什么？"
+  },
+  {
+   "start": 1086.06,
+   "l": "en",
+   "t": "exclusively.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1088.44,
+   "l": "de",
+   "t": "ausschließlich.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1091.07,
+   "l": "zh",
+   "t": "拿另一份独立资料来复核结果，交叉核对的英语动词是什么？"
+  },
+  {
+   "start": 1100.46,
+   "l": "en",
+   "t": "cross-check.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1102.83,
+   "l": "de",
+   "t": "abgleichen.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1105.3,
+   "l": "zh",
+   "t": "前一种情况与后一种明显不同，表示相比之下的英语短语是什么？"
+  },
+  {
+   "start": 1114.9,
+   "l": "en",
+   "t": "in contrast.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1117.27,
+   "l": "de",
+   "t": "im Gegensatz dazu.",
+   "speed": "0.9×"
+  },
+  {
+   "start": 1120.43,
+   "l": "zh",
+   "t": "今天的词可以先从常见搭配和具体场景记起。"
+  },
+  {
+   "start": 1126.04,
+   "l": "zh",
+   "t": "听过不等于掌握，之后再用回忆练习检查。我们下次见。"
+  }
+ ],
+ "video_size": 16413938,
+ "built": "2026-11-23T00:30:29.566284+00:00"
+}
