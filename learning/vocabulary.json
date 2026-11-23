@@ -1827,6 +1827,149 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "auxiliary",
+      "en": "auxiliary",
+      "forms": [],
+      "zh": "辅助的；附属的",
+      "de": "zusätzlich; Hilfs-",
+      "ipa": "/ɔːɡˈzɪljəri/",
+      "notes": [
+        "按工程语境学习：auxiliary drive（辅助驱动）、auxiliary equipment（辅助设备）。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "axis",
+      "en": "axis",
+      "forms": [
+        "axes"
+      ],
+      "zh": "轴；坐标轴",
+      "de": "die Achse; die Achsen",
+      "ipa": "/ˈæksɪs/",
+      "notes": [
+        "用户提供 axes，按机械语境规范为 axis 的复数；axes 读 /ˈæksiːz/。",
+        "three axes（三个轴）；the axis of rotation（旋转轴）。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "stroke",
+      "en": "stroke",
+      "forms": [
+        "strokes"
+      ],
+      "zh": "行程；一次完整的运动",
+      "de": "der Hub",
+      "ipa": "/stroʊk/",
+      "notes": [
+        "当前按机械执行器语境学习：cylinder stroke（气缸行程）；其他语境中有划笔、划水等含义，不与本义混淆。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "cross-check",
+      "en": "cross-check",
+      "forms": [
+        "cross-checks",
+        "cross-checked",
+        "cross-checking"
+      ],
+      "zh": "交叉核对；用另一来源复核",
+      "de": "gegenprüfen; abgleichen",
+      "ipa": "/ˌkrɔːs ˈtʃek/",
+      "notes": [
+        "cross-check the results against the original data（对照原始数据复核结果）。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "articulated",
+      "en": "articulated",
+      "forms": [],
+      "zh": "关节式的；铰接的",
+      "de": "gelenkig; mit Gelenken versehen",
+      "ipa": "/ɑːrˈtɪkjəleɪtɪd/",
+      "notes": [
+        "按机器人、机构语境学习形容词：an articulated robot（关节式机器人）、an articulated arm（关节式机械臂）。不把当前目标义改为口头表达。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "in-contrast",
+      "en": "in contrast",
+      "forms": [],
+      "zh": "相比之下；与之相反",
+      "de": "im Gegensatz dazu",
+      "ipa": "/ɪn ˈkɑːntræst/",
+      "notes": [
+        "用户输入 incontrast，规范写法为两个词 in contrast；原输入不登记为正确词形。",
+        "in contrast to（与……相比）；独立用于句首时通常接逗号。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
+    },
+    {
+      "id": "exclusively",
+      "en": "exclusively",
+      "forms": [],
+      "zh": "仅仅；专门；排他地",
+      "de": "ausschließlich",
+      "ipa": "/ɪkˈskluːsɪvli/",
+      "notes": [
+        "used exclusively for testing（仅用于测试）；强调用途、范围或对象限定，不包含其他情况。"
+      ],
+      "added_on": "2026-11-23",
+      "learning_source": "current_conversation_explicit_new_words",
+      "episode_ids": [],
+      "priority": "normal",
+      "status": "introduced_unassessed",
+      "last_practiced_on": null,
+      "next_review_on": "2026-11-24",
+      "history": []
     }
   ],
   "excluded_words": [
