@@ -8,6 +8,8 @@ Use natural examples, gradual hints, and one question at a time as described in 
 
 For episode-writing or media changes, also follow `EPISODE_GUIDE.md`.
 
+Every new vocabulary teaching episode uses format_version 3. Write natural examples, generate or reuse matching scene illustrations, register their prompts, then run checks and inspect rendered frames before publishing. Each English/German example must reference its image; a translated example retains the same image. Missing, broken or unsafe image files must fail validation. Image creation happens during authoring with the available image-generation tool; GitHub Actions validates and renders the supplied assets, and does not generate missing images by itself.
+
 For illustrated recall-only review episodes, follow `REVIEW_GUIDE.md` and use `reviews/` with `build_review.py`. They are separate from full teaching episodes and English-only stories. Do not infer practice results from producing or publishing review media.
 
 For English-only multi-voice story videos, follow `STORY_GUIDE.md` instead of the trilingual episode structure. Generate from `stories/` with `build_story.py`; do not add stories to the podcast feed without an explicit publishing request.

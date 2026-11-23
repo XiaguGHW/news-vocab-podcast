@@ -3,6 +3,7 @@ import glob
 import json
 import re
 import sys
+from episode_assets import validate_illustrations
 
 from fontTools.ttLib import TTFont
 
@@ -12,7 +13,7 @@ EMOJI_CHARS = set(chr(k) for k in TTFont("fonts/NotoColorEmoji.ttf").getBestCmap
 
 def validate_learning(ep):
     """新版教学规范的结构检查；自然程度仍须人工审核。旧稿保持兼容。"""
-    if ep.get("format_version") != 2:
+    if ep.get("format_version") not in (2,3):
         return []
     errors = []
     for key in ("id", "date", "pub", "title", "topic", "summary", "pic", "words", "sources", "segments"):
@@ -84,6 +85,8 @@ def validate_learning(ep):
         errors.append("最后一道回忆题缺少答案")
     if quizzed != set(range(1, len(words)+1)):
         errors.append("结尾小测须逐词使用 recall:k / answer:k 覆盖全部词")
+    if ep.get('format_version')==3:
+        errors.extend(validate_illustrations(ep))
     return errors
 
 
@@ -98,6 +101,8 @@ def check_files(files):
         if not isinstance(ep, dict):
             errors.append(f"{f}: 顶层必须是对象")
             continue
+        if ep.get('date','')>='2026-11-23' and ep.get('format_version')!=3:
+            errors.append(f'{f}: 新学习期须使用 format_version: 3，例句必须有配图')
         errors.extend(f"{f}: {e}" for e in validate_learning(ep))
         for key in ("date", "title", "summary", "words", "segments"):
             if key not in ep:

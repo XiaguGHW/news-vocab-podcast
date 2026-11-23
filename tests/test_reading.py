@@ -67,7 +67,7 @@ class ReadingTests(unittest.TestCase):
             return out
         for path in glob.glob('episodes/*.json'):
             ep = json.loads(Path(path).read_text())
-            if ep.get('format_version') == 2:
+            if ep.get('format_version') in (2,3):
                 continue
             self.assertEqual(build.expand_segments(ep['segments']), old_expand(ep['segments']), path)
 

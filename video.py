@@ -9,6 +9,7 @@ import subprocess
 import tempfile
 
 from PIL import Image, ImageDraw, ImageFont
+from episode_assets import image_path
 
 W, H = 1080, 1920
 BG = (17, 18, 20)
@@ -368,6 +369,43 @@ def card_recall(im, d, ep, state, cue):
         subtitle_line(d, cue, 1400, 1650)
 
 
+def illustrated_example(im, d, seg, top, bottom):
+    """Keep the matching scene and bilingual example visible through translation."""
+    text = seg.get('example_text', seg['t'])
+    zh = seg.get('example_zh', seg.get('zh', ''))
+    lang = seg.get('example_lang', seg['l'])
+    width = W - 140
+    for size in range(44, 31, -2):
+        ef, zf = font(size), font(size - 6, False)
+        en_lines, zh_lines = wrap(text, ef, width), wrap(zh, zf, width)
+        text_h = len(en_lines) * (size + 10) + len(zh_lines) * (zf.size + 9) + 20
+        image_size = min(660, int(bottom - top - text_h - 80))
+        if image_size >= 300:
+            break
+    else:
+        raise ValueError('配图例句放不下，请拆分例句或缩短词义')
+    label = '例句 · ' + LANG_TAG[lang]
+    if seg.get('speed'):
+        label += ' · ' + seg['speed']
+    if seg.get('rep'):
+        label += f" · {seg['rep']}/3"
+    d.text((70, top), label, font=font(30), fill=GOLD)
+    y = top + 50
+    with Image.open(image_path(seg['illustration'])) as picture:
+        picture = picture.convert('RGB')
+        # Contain the complete image; never distort or crop its meaning.
+        picture.thumbnail((image_size, image_size), Image.Resampling.LANCZOS)
+        im.paste(picture, ((W-picture.width)//2, int(y+(image_size-picture.height)/2)))
+    y += image_size + 18
+    for line in en_lines:
+        d.text((70,y),line,font=ef,fill=LANG_COLOR[lang]);y += ef.size + 10
+    y += 10
+    for line in zh_lines:
+        d.text((70,y),line,font=zf,fill=TEXT);y += zf.size + 9
+    if y > bottom:
+        raise ValueError('配图例句超出画面')
+
+
 def render_frames(ep, meta, outdir):
     """返回 [(png路径, 时长秒), ...]"""
     segs = ep["segments"]
@@ -408,7 +446,10 @@ def render_frames(ep, meta, outdir):
                 card_recall(im, d, ep, recall, cue)
             elif isinstance(sec, int) and 1 <= sec <= n_words:
                 card_bottom = draw_word_card(im, d, ep, sec)
-                examples_panel(d, items, cur_item, card_bottom + 34, 1585)
+                if seg.get('illustration'):
+                    illustrated_example(im, d, seg, card_bottom + 28, 1585)
+                else:
+                    examples_panel(d, items, cur_item, card_bottom + 34, 1585)
                 subtitle_line(d, cue, 1630, 1800)
             else:
                 if sec == "quiz":

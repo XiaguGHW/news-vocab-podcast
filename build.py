@@ -64,7 +64,13 @@ def expand_reading(seg):
     # 所有例句（包括短句）都只自动翻译一次；答案和跟读不额外打断。
     if role == "example" and seg.get("zh"):
         out[-1]["p"] = 0.6
-        out.append({"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE), "zh_for": True})
+        translation = {"l": "zh", "t": seg["zh"], "p": seg.get("p", DEFAULT_PAUSE), "zh_for": True}
+        if seg.get('illustration'):
+            translation['illustration'] = seg['illustration']
+            translation['example_text'] = seg['t']
+            translation['example_lang'] = seg['l']
+            translation['example_zh'] = seg['zh']
+        out.append(translation)
     else:
         out[-1]["p"] = seg.get("p", DEFAULT_PAUSE)
     return out
@@ -205,6 +211,11 @@ def release_download(slug):
 
 
 def build_episode(ep, src_hash):
+    if ep.get('format_version') == 3:
+        from episode_assets import validate_illustrations
+        errors = validate_illustrations(ep)
+        if errors:
+            raise ValueError('\n'.join(errors))
     if ep.get('kind') == 'review':
         from review_podcast import build_published_review
         return build_published_review(ep, src_hash, DOCS, DIST, release_upload)
@@ -348,7 +359,8 @@ def main():
     for path in sorted(glob.glob("episodes/*.json")):
         raw = open(path, "rb").read()
         ep = json.loads(raw)
-        build_episode(ep, hashlib.sha256(raw).hexdigest()[:16])
+        from episode_assets import source_hash
+        build_episode(ep, source_hash(path, ep))
         episodes.append(ep)
     from story_podcast import story_episode
     for path in sorted(glob.glob('stories/*.json')):

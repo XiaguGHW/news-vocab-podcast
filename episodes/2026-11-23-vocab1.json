@@ -1,0 +1,1179 @@
+{
+  "format_version": 3,
+  "id": "2026-11-23-vocab1",
+  "date": "2026-11-23",
+  "pub": "2026-11-23T01:09:30+01:00",
+  "title": "机械与论文七词｜辅助、运动与交叉核对",
+  "topic": "机械工程 / 论文表达 / 日常对比",
+  "summary": "学习辅助、运动轴、气缸行程、交叉核对和关节式结构，再练习对比与用途限定。中英德朗读，例句配场景图。",
+  "pic": "⚙📚",
+  "words": [
+    {
+      "en": "auxiliary",
+      "learning_id": "auxiliary",
+      "ipa": "/ɔːɡˈzɪljəri/",
+      "de": "unterstützend",
+      "zh": "辅助的；起支持作用的",
+      "pic": "⚙"
+    },
+    {
+      "en": "axes",
+      "lemma": "axis",
+      "forms": [
+        "axes"
+      ],
+      "learning_id": "axis",
+      "ipa": "/ˈæksiːz/",
+      "de": "die Achsen",
+      "zh": "轴；坐标轴（复数）",
+      "pic": "↔"
+    },
+    {
+      "en": "stroke",
+      "learning_id": "stroke",
+      "ipa": "/stroʊk/",
+      "de": "der Hub",
+      "zh": "行程；一次完整的运动",
+      "pic": "📏"
+    },
+    {
+      "en": "cross-check",
+      "learning_id": "cross-check",
+      "ipa": "/ˌkrɔːs ˈtʃek/",
+      "de": "abgleichen",
+      "zh": "交叉核对；用另一来源复核",
+      "pic": "🔍"
+    },
+    {
+      "en": "articulated",
+      "learning_id": "articulated",
+      "ipa": "/ɑːrˈtɪkjəleɪtɪd/",
+      "de": "gelenkig",
+      "zh": "关节式的；铰接的",
+      "pic": "🦾"
+    },
+    {
+      "en": "in contrast",
+      "learning_id": "in-contrast",
+      "ipa": "/ɪn ˈkɑːntræst/",
+      "de": "im Gegensatz dazu",
+      "zh": "相比之下；与之相反",
+      "pic": "⚖"
+    },
+    {
+      "en": "exclusively",
+      "learning_id": "exclusively",
+      "ipa": "/ɪkˈskluːsɪvli/",
+      "de": "ausschließlich",
+      "zh": "仅仅；专门；限定于",
+      "pic": "🔒"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Cambridge Dictionary: axis / axes",
+      "url": "https://dictionary.cambridge.org/dictionary/english/axis"
+    },
+    {
+      "name": "Cambridge Dictionary: articulated",
+      "url": "https://dictionary.cambridge.org/dictionary/english/articulated"
+    },
+    {
+      "name": "Cambridge Dictionary: auxiliary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/auxiliary"
+    }
+  ],
+  "illustrations": [
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/auxiliary-1.jpg",
+      "prompt": "A large machine with a small separate auxiliary motor clearly connected to and driving its cooling fan, the small motor is supporting the main machine, very simple equipment and no wiring detail."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/auxiliary-2.jpg",
+      "prompt": "A small hospital building with a simple medical cross icon beside a compact auxiliary generator supplying electricity during a power cut, one clear cable and glowing hospital window, no storm or extra scenery."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/axis-1.jpg",
+      "prompt": "A simple compact Cartesian positioning machine with a block moving on three mutually perpendicular rails, clear up/down, left/right and forward/back motion shown by three broad arrows, no labels, no detailed mechanical blueprint."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/axis-2.jpg",
+      "prompt": "A very simple graph with exactly two perpendicular axes, a small clock icon near the horizontal axis and a road-distance icon near the vertical axis, one uncomplicated rising line, no numbers or words."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/stroke-1.jpg",
+      "prompt": "A simple pneumatic cylinder and piston rod shown in a retracted and extended position, a bold straight double arrow indicates the distance between the two rod-end positions, a small plain ruler without digits, not a detailed diagram."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/stroke-2.jpg",
+      "prompt": "A small platform lifted by a single simple cylinder underneath, the piston rod extending farther upward to lift the platform higher, one broad upward arrow showing travel distance, only essential objects."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/cross-check-1.jpg",
+      "prompt": "Two hands comparing a simple measurement sheet with a separate technical drawing of the same rectangular part, a small caliper nearby, matching dimension marks highlighted by checkmarks, no readable text or numeric dimensions."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/cross-check-2.jpg",
+      "prompt": "A person comparing a paper hotel booking card with a confirmation email on a laptop, matching bed and calendar pictograms on both documents, a small checkmark between them, very simple desk."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/articulated-1.jpg",
+      "prompt": "A friendly simple industrial robot arm composed of several rigid segments joined by large clearly visible circular joints, the arm bends at its joints to reach a plain block, no exact joint count, no complex factory."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/articulated-2.jpg",
+      "prompt": "A long articulated city bus turning gently around a corner, a large obvious accordion flexible joint in its middle clearly bent, minimal street background, no writing, route numbers or logos."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/in-contrast-1.jpg",
+      "prompt": "Two alternative simple machine housings of the same purpose side by side: one thick heavy solid metal housing next to a weight symbol, the other thin lightweight housing next to a feather symbol, clear comparison, no scales or exact measurements."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/in-contrast-2.jpg",
+      "prompt": "A simple split-composition comparison: a few noisy city buildings and cars with small jagged sound lines on one side, a quiet small village house and tree with calm air on the other, few objects and no lettering."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/exclusively-1.jpg",
+      "prompt": "A small simple laboratory room devoted to testing with one test bench and a single instrument, a laboratory-test pictogram as the only permitted purpose on the door, unrelated coffee-mug and shopping-bag icons outside with subtle prohibition marks, minimal composition."
+    },
+    {
+      "path": "assets/episodes/2026-11-23-vocab1/exclusively-2.jpg",
+      "prompt": "A simple hotel lounge doorway where a guest holding a hotel key card is welcomed in, a card reader acts as the clear access restriction, another visitor without a card waits outside, two people only, no words or logos."
+    }
+  ],
+  "segments": [
+    {
+      "l": "zh",
+      "t": "欢迎收听新词学习专题。",
+      "p": 0.4,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "今天用机械、论文和生活中的场景，学习七个新词和表达。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "每个词都有例句和跟读，途中会暂停提问，最后再做一轮小测。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "主设备负责主要任务，旁边还有设备提供支持。第一个词描述这种辅助作用。",
+      "p": 0.4,
+      "sec": 1
+    },
+    {
+      "l": "en",
+      "t": "auxiliary.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "auxiliary.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是形容词，重点是帮助主要设备或主要工作，不是所有额外的东西都适合这样叫。工程中常修饰电机、动力和设备。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an auxiliary motor.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "辅助电机。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "unterstützend.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "辅助的；起支持作用的。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "An auxiliary motor drives the cooling fan.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/auxiliary-1.jpg",
+      "zh": "一台辅助电机驱动冷却风扇。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Ein Hilfsmotor treibt den Kühlventilator an.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/auxiliary-1.jpg",
+      "zh": "一台辅助电机驱动冷却风扇。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The hospital uses an auxiliary generator during power cuts.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/auxiliary-2.jpg",
+      "zh": "停电时，医院会使用辅助发电机。"
+    },
+    {
+      "l": "zh",
+      "t": "记忆时把主要设备和旁边提供支持的小设备放在一起。这个画面帮助理解辅助作用，不代表所有辅助设备都是备用设备。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an auxiliary motor.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "辅助电机。"
+    },
+    {
+      "l": "de",
+      "t": "unterstützend.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "辅助的；起支持作用的。"
+    },
+    {
+      "l": "zh",
+      "t": "第二个词是轴这个名词的复数。读机械说明或坐标图时，经常会遇到它。",
+      "p": 0.4,
+      "sec": 2
+    },
+    {
+      "l": "en",
+      "t": "axes.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "axes.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "单数和复数的词尾发音不同。先听单数，再听今天的复数。这里学习运动轴和坐标轴的意思，不是斧头。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "axis.",
+      "reading": "word",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "axes.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "three axes.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "三个轴。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "die Achsen.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "轴；坐标轴（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The machine moves along three axes.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/axis-1.jpg",
+      "zh": "这台机器沿三个轴运动。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Die Maschine bewegt sich entlang dreier Achsen.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/axis-1.jpg",
+      "zh": "这台机器沿三个轴运动。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The two axes show time and distance.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/axis-2.jpg",
+      "zh": "这两条坐标轴分别表示时间和距离。"
+    },
+    {
+      "l": "zh",
+      "t": "区分一个轴和多个轴。机械里的运动轴和图表里的坐标轴，都是这组单复数形式的常见用法。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "three axes.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "三个轴。"
+    },
+    {
+      "l": "de",
+      "t": "die Achsen.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "轴；坐标轴（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "为主要设备提供支持，辅助的这个英语形容词是什么？",
+      "p": 3,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "auxiliary.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "unterstützend.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "辅助的；起支持作用的。"
+    },
+    {
+      "l": "zh",
+      "t": "继续学习。",
+      "p": 0.8,
+      "sec": 2
+    },
+    {
+      "l": "zh",
+      "t": "第三个词先限定在机械语境。气缸的活塞从一个端点运动到另一个端点，这段移动距离叫行程。",
+      "p": 0.4,
+      "sec": 3
+    },
+    {
+      "l": "en",
+      "t": "stroke.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "stroke.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是名词。在气缸和执行器的说明里，它常表示行程，也可以表示一次完整的往复运动中的单程动作。今天先不混入划水或笔画等其他意思。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "the cylinder stroke.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "气缸行程。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "der Hub.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "行程；一次完整的运动。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The cylinder has a stroke of fifty millimeters.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/stroke-1.jpg",
+      "zh": "这个气缸的行程为五十毫米。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Der Zylinder hat einen Hub von fünfzig Millimetern.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/stroke-1.jpg",
+      "zh": "这个气缸的行程为五十毫米。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "We need a longer stroke to lift the platform.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/stroke-2.jpg",
+      "zh": "为了抬升平台，我们需要更长的行程。"
+    },
+    {
+      "l": "zh",
+      "t": "记住两个运动端点之间的距离。行程不是速度，也不是一秒钟能移动多少距离。这个词偏工程语境，所以两个例句都保留在机械场景。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "the cylinder stroke.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "气缸行程。"
+    },
+    {
+      "l": "de",
+      "t": "der Hub.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "行程；一次完整的运动。"
+    },
+    {
+      "l": "zh",
+      "t": "第四个词。你不只看一遍数据，而是拿另一份独立资料来核对。",
+      "p": 0.4,
+      "sec": 4
+    },
+    {
+      "l": "en",
+      "t": "cross-check.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "cross-check.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这里作动词，表示交叉核对。关键是有另一份记录、另一种方法或另一个来源作为参照，不能只理解成把同一个数字再看一眼。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "cross-check the measurements.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "交叉核对测量结果。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "abgleichen.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "交叉核对；用另一来源复核。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "Please cross-check the measurements against the drawing.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/cross-check-1.jpg",
+      "zh": "请对照图纸复核测量结果。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Bitte gleichen Sie die Messwerte mit der Zeichnung ab.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/cross-check-1.jpg",
+      "zh": "请对照图纸复核测量结果。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "I cross-checked the booking details with the confirmation email.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/cross-check-2.jpg",
+      "zh": "我把预订信息和确认邮件核对了一遍。"
+    },
+    {
+      "l": "zh",
+      "t": "前面表示交叉，后面是核查。想象两份独立资料相互对照。常用搭配中，后面可以接与之对照的另一份资料。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "cross-check the measurements.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "交叉核对测量结果。"
+    },
+    {
+      "l": "de",
+      "t": "abgleichen.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "交叉核对；用另一来源复核。"
+    },
+    {
+      "l": "zh",
+      "t": "气缸从一个运动端点到另一个端点的行程，英语名词是什么？",
+      "p": 3,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "stroke.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "der Hub.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "行程；一次完整的运动。"
+    },
+    {
+      "l": "zh",
+      "t": "继续学习。",
+      "p": 0.8,
+      "sec": 4
+    },
+    {
+      "l": "zh",
+      "t": "第五个词。机械臂由几段连在一起，每段之间有关节，可以改变彼此的角度。",
+      "p": 0.4,
+      "sec": 5
+    },
+    {
+      "l": "en",
+      "t": "articulated.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "articulated.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这里作形容词，表示有关节连接、能够在连接处转动的。常描述机器人、机械臂或带铰接结构的车辆。其他语境里还可能来自表达这个动词，今天不把两种意思混在一起。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an articulated robot.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "关节式机器人。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "gelenkig.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "关节式的；铰接的。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "An articulated robot can bend at several joints.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/articulated-1.jpg",
+      "zh": "关节式机器人可以在多个关节处弯曲运动。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Ein Gelenkroboter kann sich an mehreren Gelenken bewegen.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/articulated-1.jpg",
+      "zh": "关节式机器人可以在多个关节处弯曲运动。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The articulated bus bends in the middle.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/articulated-2.jpg",
+      "zh": "这辆铰接式公交车可以在中间连接处转弯。"
+    },
+    {
+      "l": "zh",
+      "t": "想象人的手臂：上臂、前臂和手通过关节连接。这里帮助记忆的是分段连接的结构，不是简单地说所有能移动的机器。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "an articulated robot.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "关节式机器人。"
+    },
+    {
+      "l": "de",
+      "t": "gelenkig.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "关节式的；铰接的。"
+    },
+    {
+      "l": "zh",
+      "t": "第六个表达由两个分开的词组成，用来引出前后明显不同的情况。",
+      "p": 0.4,
+      "sec": 6
+    },
+    {
+      "l": "en",
+      "t": "in contrast.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "in contrast.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是表示对比的短语。独立放在新句开头时，后面通常有逗号；如果还要直接接比较对象，可以用另一种带介词的结构。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "in contrast to.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "与什么相比。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "im Gegensatz dazu.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "相比之下；与之相反。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The first model is heavy. In contrast, the second is light.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/in-contrast-1.jpg",
+      "zh": "第一种型号很重。相比之下，第二种很轻。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Das erste Modell ist schwer. Im Gegensatz dazu ist das zweite leicht.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/in-contrast-1.jpg",
+      "zh": "第一种型号很重。相比之下，第二种很轻。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The city is noisy. In contrast, this village is quiet.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/in-contrast-2.jpg",
+      "zh": "城市很吵。相比之下，这个村庄很安静。"
+    },
+    {
+      "l": "zh",
+      "t": "记住它用于拉开差异。单纯说两个东西都有某个特点，不需要用这个表达。拼写时两个词要分开。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "in contrast to.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "与什么相比。"
+    },
+    {
+      "l": "de",
+      "t": "im Gegensatz dazu.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "相比之下；与之相反。"
+    },
+    {
+      "l": "zh",
+      "t": "描述通过关节连接、能在连接处改变角度的结构，英语形容词是什么？",
+      "p": 3,
+      "sec": "recall:5"
+    },
+    {
+      "l": "en",
+      "t": "articulated.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:5"
+    },
+    {
+      "l": "de",
+      "t": "gelenkig.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "关节式的；铰接的。"
+    },
+    {
+      "l": "zh",
+      "t": "继续学习。",
+      "p": 0.8,
+      "sec": 6
+    },
+    {
+      "l": "zh",
+      "t": "最后一个词。一个实验室只用来做测试，不承担别的用途。",
+      "p": 0.4,
+      "sec": 7
+    },
+    {
+      "l": "en",
+      "t": "exclusively.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "en",
+      "t": "exclusively.",
+      "reading": "word",
+      "p": 0.5
+    },
+    {
+      "l": "zh",
+      "t": "这是副词，强调范围被限定，只供某个用途或某一类对象。它经常修饰使用、保留和提供之类的动作，语气比一般的仅仅更正式。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "先记住一个常见搭配。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "used exclusively for testing.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "仅用于测试。"
+    },
+    {
+      "l": "zh",
+      "t": "这个语境的德语表达是。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "ausschließlich.",
+      "reading": "word",
+      "p": 0.5,
+      "zh": "仅仅；专门；限定于。"
+    },
+    {
+      "l": "zh",
+      "t": "先放进一个自然的句子。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "The laboratory is used exclusively for testing.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/exclusively-1.jpg",
+      "zh": "这个实验室仅用于测试。"
+    },
+    {
+      "l": "zh",
+      "t": "同一个意思，德语这样说。",
+      "p": 0.4
+    },
+    {
+      "l": "de",
+      "t": "Das Labor wird ausschließlich für Tests genutzt.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/exclusively-1.jpg",
+      "zh": "这个实验室仅用于测试。"
+    },
+    {
+      "l": "zh",
+      "t": "再换一个场景。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "This room is reserved exclusively for hotel guests.",
+      "reading": "example",
+      "p": 0.5,
+      "illustration": "assets/episodes/2026-11-23-vocab1/exclusively-2.jpg",
+      "zh": "这个房间专供酒店住客使用。"
+    },
+    {
+      "l": "zh",
+      "t": "想象一道只允许某种用途或某类对象进入的门。重点是排除其他用途或其他对象，不是说价格昂贵。",
+      "p": 0.4
+    },
+    {
+      "l": "zh",
+      "t": "轮到你跟读。",
+      "p": 0.4
+    },
+    {
+      "l": "en",
+      "t": "used exclusively for testing.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "仅用于测试。"
+    },
+    {
+      "l": "de",
+      "t": "ausschließlich.",
+      "reading": "shadow",
+      "p": 3,
+      "zh": "仅仅；专门；限定于。"
+    },
+    {
+      "l": "zh",
+      "t": "现在做一轮小测。先在心里说出英语，再听答案。",
+      "p": 0.4,
+      "sec": "quiz"
+    },
+    {
+      "l": "zh",
+      "t": "气缸从一个运动端点到另一个端点的行程，英语名词是什么？",
+      "p": 3,
+      "sec": "recall:3"
+    },
+    {
+      "l": "en",
+      "t": "stroke.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:3"
+    },
+    {
+      "l": "de",
+      "t": "der Hub.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "行程；一次完整的运动。"
+    },
+    {
+      "l": "zh",
+      "t": "为主要设备提供支持，辅助的这个英语形容词是什么？",
+      "p": 3,
+      "sec": "recall:1"
+    },
+    {
+      "l": "en",
+      "t": "auxiliary.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:1"
+    },
+    {
+      "l": "de",
+      "t": "unterstützend.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "辅助的；起支持作用的。"
+    },
+    {
+      "l": "zh",
+      "t": "描述通过关节连接、能在连接处改变角度的结构，英语形容词是什么？",
+      "p": 3,
+      "sec": "recall:5"
+    },
+    {
+      "l": "en",
+      "t": "articulated.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:5"
+    },
+    {
+      "l": "de",
+      "t": "gelenkig.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "关节式的；铰接的。"
+    },
+    {
+      "l": "zh",
+      "t": "轴这个英语名词，今天学习的复数形式是什么？",
+      "p": 3,
+      "sec": "recall:2"
+    },
+    {
+      "l": "en",
+      "t": "axes.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:2"
+    },
+    {
+      "l": "de",
+      "t": "die Achsen.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "轴；坐标轴（复数）。"
+    },
+    {
+      "l": "zh",
+      "t": "一个房间仅供指定对象使用，强调专门、仅限的英语副词是什么？",
+      "p": 3,
+      "sec": "recall:7"
+    },
+    {
+      "l": "en",
+      "t": "exclusively.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:7"
+    },
+    {
+      "l": "de",
+      "t": "ausschließlich.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "仅仅；专门；限定于。"
+    },
+    {
+      "l": "zh",
+      "t": "拿另一份独立资料来复核结果，交叉核对的英语动词是什么？",
+      "p": 3,
+      "sec": "recall:4"
+    },
+    {
+      "l": "en",
+      "t": "cross-check.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:4"
+    },
+    {
+      "l": "de",
+      "t": "abgleichen.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "交叉核对；用另一来源复核。"
+    },
+    {
+      "l": "zh",
+      "t": "前一种情况与后一种明显不同，表示相比之下的英语短语是什么？",
+      "p": 3,
+      "sec": "recall:6"
+    },
+    {
+      "l": "en",
+      "t": "in contrast.",
+      "reading": "answer",
+      "p": 0.5,
+      "sec": "answer:6"
+    },
+    {
+      "l": "de",
+      "t": "im Gegensatz dazu.",
+      "reading": "answer",
+      "p": 0.5,
+      "zh": "相比之下；与之相反。"
+    },
+    {
+      "l": "zh",
+      "t": "今天的词可以先从常见搭配和具体场景记起。",
+      "p": 0.4,
+      "sec": "intro"
+    },
+    {
+      "l": "zh",
+      "t": "听过不等于掌握，之后再用回忆练习检查。我们下次见。",
+      "p": 0.4
+    }
+  ]
+}
