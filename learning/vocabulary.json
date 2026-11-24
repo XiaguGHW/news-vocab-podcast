@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-23",
+  "updated_on": "2026-11-24",
   "timezone": "Europe/Berlin",
   "owner_scope": "personal_english_vocabulary",
   "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
@@ -96,8 +96,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-21",
-      "next_review_on": "2026-11-22",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [],
       "history": [
         {
@@ -108,6 +108,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q01",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "retained",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第1题：无提示正确使用过去式。"
         }
       ]
     },
@@ -127,8 +136,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [],
       "history": [
         {
@@ -157,6 +166,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "过去式正确；保留此前词形错误"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q12",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "compiled",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第12题：正确使用过去式。"
         }
       ]
     },
@@ -174,8 +192,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "需要重新无提示检验；提示不要提前给 supplement。"
       ],
@@ -197,6 +215,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "题目：The full questionnaire is available in the ______ materials. 用户先作答，助手随后才解释词义。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q14",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "supplementary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第14题：无提示正确。"
         }
       ]
     },
@@ -1495,8 +1522,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "动词：delegate tasks to someone。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1510,6 +1537,15 @@
           "result": "form_error",
           "hint_requests": 0,
           "note": "要求过去式"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q07",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "delegate",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第7题：正确表示委派任务。"
         }
       ]
     },
@@ -1528,8 +1564,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "overlook a detail；a room overlooking the garden 中另有朝向、俯瞰的意思。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1543,6 +1579,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q09",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "overlooked",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第9题：正确使用过去式。"
         }
       ]
     },
@@ -1627,8 +1672,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "reimburse someone for travel expenses；退还多收的房费用 refund 更自然。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1642,6 +1687,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q10",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "reimburse",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第10题：正确表示报销。"
         }
       ]
     },
@@ -1693,8 +1747,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "allocate time to tasks / resources to a project；常用于工作或正式语境。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1726,6 +1780,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "无提示独立答对；保留此前混淆"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q04",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "allocate",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第4题：正确表示分配预算。"
         }
       ]
     },
@@ -1843,11 +1906,30 @@
       "episode_ids": [
         "2026-11-23-vocab1"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q02",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "supplementary",
+          "result": "independent_correct_in_parts",
+          "hint_requests": 0,
+          "note": "第2题：supplementary 是语义上可接受的近义词；目标 auxiliary 未独立回忆。原题 an 需改 a 才能搭配 supplementary；用户仅填写词语，不推断冠词错误。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q05",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "auxiliary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第5题：同轮换场景独立回忆；保留第2题近义词证据。"
+        }
+      ]
     },
     {
       "id": "axis",
@@ -1868,10 +1950,20 @@
         "2026-11-23-vocab1"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q03",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "axes",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第3题：正确写出复数。"
+        }
+      ]
     },
     {
       "id": "stroke",
@@ -1890,11 +1982,30 @@
       "episode_ids": [
         "2026-11-23-vocab1"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q08",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "stroke",
+          "result": "hinted_correct",
+          "hint_requests": 1,
+          "note": "第8题：请求提示，补充场景后答对。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q11",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "stroke",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第11题：同轮换场景独立答对；保留第8题提示证据。"
+        }
+      ]
     },
     {
       "id": "cross-check",
@@ -1916,10 +2027,20 @@
         "2026-11-23-vocab1"
       ],
       "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q06",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "cross-checked",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第6题：正确使用过去式。"
+        }
+      ]
     },
     {
       "id": "articulated",
@@ -1936,11 +2057,30 @@
       "episode_ids": [
         "2026-11-23-vocab1"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q13",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "这个词我还不会 讲解下 音标意思",
+          "result": "not_recalled",
+          "hint_requests": 0,
+          "note": "第13题：用户明确不会，要求讲解音标和意思。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-review-retained-q15",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "articulated",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第15题：讲解后同轮换场景独立答对；保留第13题不会的证据。"
+        }
+      ]
     },
     {
       "id": "in-contrast",
