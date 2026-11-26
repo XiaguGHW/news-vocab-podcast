@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-24",
+  "updated_on": "2026-11-27",
   "timezone": "Europe/Berlin",
   "owner_scope": "personal_english_vocabulary",
   "provenance": "本对话可见学习与作答记录；不推断其他对话、播客收听或未作答题的结果。",
@@ -56,8 +56,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-30",
       "notes": [],
       "history": [
         {
@@ -77,6 +77,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "题目：The researchers ______ the relevant documents from the database. 无提示正确使用过去式。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q14",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "retrieved",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第14题：正确使用过去式。"
         }
       ]
     },
@@ -241,8 +250,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-28",
       "notes": [
         "部分 constitute 整体；虽然本题答对，之后用户明确自述三词难记，需优先复习。"
       ],
@@ -264,6 +273,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "题目：Four engineers and twelve students ______ the group of workshop participants. 无提示正确。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q15",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "comprises",
+          "result": "word_confusion",
+          "hint_requests": 0,
+          "note": "第15题：目标 constitute；输入 comprises，复数主语须用 comprise。标准整体 comprises 部分与题目部分 constitute 整体方向不同；记录词义方向及词形。"
         }
       ]
     },
@@ -532,8 +550,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -555,6 +573,15 @@
           "result": "hinted_correct",
           "hint_requests": 1,
           "note": "场景提示后答对"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q01",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "in line with",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第1题：无提示正确。"
         }
       ]
     },
@@ -572,8 +599,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-22",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-28",
       "notes": [
         "本轮曾需要提示或忘记；同一轮随后答对不等于长期掌握。"
       ],
@@ -604,6 +631,24 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "本轮无提示答对；按跨日复习安排再次练习。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q09",
+          "date": "2026-11-26",
+          "source": "visible_conversation_quiz",
+          "response": "subaequent",
+          "result": "spelling_error",
+          "hint_requests": 0,
+          "note": "第9题：拼写错误，应为 subsequent。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q12",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "subsequent",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第12题：讲解后本轮重测拼写正确；保留第9题拼写错误。"
         }
       ]
     },
@@ -623,8 +668,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-28",
       "notes": [
         "重点：题目指定复数时使用 implications；区别词义正确与词形正确。"
       ],
@@ -664,6 +709,24 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "复数形式正确；保留此前错误"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q03",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "implication",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "第3题：词义正确；题目明确要求复数，遗漏 s。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q11",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "implications",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第11题：复数正确；保留第3题复数词形错误。"
         }
       ]
     },
@@ -862,8 +925,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "borderline case：边界案例；原输入 revisionborderline 按两个词处理。",
         "尚未测验，不记录答对或错误。"
@@ -877,6 +940,15 @@
           "result": "word_confusion",
           "hint_requests": 0,
           "note": "目标 borderline；写成 bordercase"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q02",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "borderline case",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第2题：无提示正确。"
         }
       ],
       "ipa": "/ˈbɔːrdərlaɪn/"
@@ -1173,8 +1245,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-26",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "a discrepancy between A and B：两处本应对应的信息不一致。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1197,6 +1269,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q05",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "discrepancy",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第5题：无提示正确。"
         }
       ]
     },
@@ -1215,8 +1296,8 @@
       ],
       "priority": "normal",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-30",
       "notes": [
         "refine a system / method：在已有基础上进一步改进。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1230,6 +1311,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": ""
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q10",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "refined",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第10题：正确使用过去式。"
         }
       ]
     },
@@ -1281,8 +1371,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-27",
       "notes": [
         "an exemption from a fee：免缴费用。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1305,6 +1395,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "同轮重测答对，保留此前提示"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q06",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "exemption",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第6题：无提示正确。"
         }
       ]
     },
@@ -1456,8 +1555,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-23",
-      "next_review_on": "2026-11-24",
+      "last_practiced_on": "2026-11-26",
+      "next_review_on": "2026-11-27",
       "notes": [
         "a rollback plan；名词 rollback，动词短语 roll back。",
         "用户在本对话明确列为生词，已逐项讲解；尚无实际测验答案，不因视频发布推断收听或掌握。"
@@ -1471,6 +1570,15 @@
           "result": "form_error",
           "hint_requests": 0,
           "note": "意思正确，题目要求名词 rollback；回答动词短语"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q08",
+          "date": "2026-11-26",
+          "source": "visible_conversation_quiz",
+          "response": "rollback",
+          "result": "form_error",
+          "hint_requests": 0,
+          "note": "第8题：意思正确；题目要求动词短语 roll back，写成常用名词形式 rollback。"
         }
       ]
     },
@@ -1908,8 +2016,8 @@
       ],
       "priority": "high",
       "status": "reviewing",
-      "last_practiced_on": "2026-11-24",
-      "next_review_on": "2026-11-25",
+      "last_practiced_on": "2026-11-27",
+      "next_review_on": "2026-11-30",
       "history": [
         {
           "event_id": "2026-11-24-interactive-review-retained-q02",
@@ -1928,6 +2036,15 @@
           "result": "independent_correct",
           "hint_requests": 0,
           "note": "第5题：同轮换场景独立回忆；保留第2题近义词证据。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q13",
+          "date": "2026-11-27",
+          "source": "visible_conversation_quiz",
+          "response": "auxiliary",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第13题：无提示正确。"
         }
       ]
     },
@@ -2119,11 +2236,30 @@
       "episode_ids": [
         "2026-11-23-vocab1"
       ],
-      "priority": "normal",
-      "status": "introduced_unassessed",
-      "last_practiced_on": null,
-      "next_review_on": "2026-11-24",
-      "history": []
+      "priority": "high",
+      "status": "reviewing",
+      "last_practiced_on": "2026-11-24",
+      "next_review_on": "2026-11-25",
+      "history": [
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q04",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "in-house",
+          "result": "word_confusion",
+          "hint_requests": 1,
+          "note": "第4题：请求场景提示后答 in-house；该词强调内部，不表示仅用于；之后解释 exclusively。"
+        },
+        {
+          "event_id": "2026-11-24-interactive-evening-round-q07",
+          "date": "2026-11-24",
+          "source": "visible_conversation_quiz",
+          "response": "exclusively",
+          "result": "independent_correct",
+          "hint_requests": 0,
+          "note": "第7题：讲解后同轮换场景答对；保留第4题提示和混淆。"
+        }
+      ]
     }
   ],
   "excluded_words": [
